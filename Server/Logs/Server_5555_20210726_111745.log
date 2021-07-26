@@ -1,0 +1,1833 @@
+2021-07-26 11:17:45,620 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-26 11:17:45,623 - __logger__ - INFO - Enters the main loop
+2021-07-26 11:17:50,113 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63049)
+2021-07-26 11:17:50,131 - __logger__ - INFO - [9780, (127.0.0.1:63049)] Authentication success with user gportal!
+2021-07-26 11:17:50,144 - __logger__ - INFO - [9780, (127.0.0.1:63049)] User gportal has requested DirList
+2021-07-26 11:17:50,160 - __logger__ - INFO - [9780, (127.0.0.1:63049)] User gportal get the file: very_important.txt
+2021-07-26 11:17:50,177 - __logger__ - INFO - [9780, (127.0.0.1:63049)] User gportal get the file: 341.pdf
+2021-07-26 11:17:50,318 - __logger__ - DEBUG - [9780, (127.0.0.1:63049)] Fin has been received!
+2021-07-26 11:23:22,011 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61433)
+2021-07-26 11:23:22,027 - __logger__ - INFO - [12168, (127.0.0.1:61433)] Authentication success with user gportal!
+2021-07-26 11:23:22,042 - __logger__ - INFO - [12168, (127.0.0.1:61433)] User gportal has requested DirList
+2021-07-26 11:23:22,061 - __logger__ - INFO - [12168, (127.0.0.1:61433)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:23:22,075 - __logger__ - INFO - [12168, (127.0.0.1:61433)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:23:22,284 - __logger__ - DEBUG - [12168, (127.0.0.1:61433)] Fin has been received!
+2021-07-26 11:23:45,050 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61438)
+2021-07-26 11:23:45,066 - __logger__ - INFO - [22120, (127.0.0.1:61438)] Authentication success with user gportal!
+2021-07-26 11:23:45,080 - __logger__ - INFO - [22120, (127.0.0.1:61438)] User gportal has requested DirList
+2021-07-26 11:23:45,098 - __logger__ - INFO - [22120, (127.0.0.1:61438)] User gportal get the file: 2254133.log
+2021-07-26 11:23:45,243 - __logger__ - DEBUG - [22120, (127.0.0.1:61438)] Unknown error while receiving a packet!
+2021-07-26 11:24:02,253 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61441)
+2021-07-26 11:24:07,852 - __logger__ - INFO - [23440, (127.0.0.1:61441)] Authentication success with user gportal!
+2021-07-26 11:24:52,604 - __logger__ - INFO - [23440, (127.0.0.1:61441)] User gportal has requested DirList
+2021-07-26 11:25:01,869 - __logger__ - INFO - [23440, (127.0.0.1:61441)] User gportal get the file: 2254133.log
+2021-07-26 11:25:02,020 - __logger__ - DEBUG - [23440, (127.0.0.1:61441)] Unknown error while receiving a packet!
+2021-07-26 11:25:32,604 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52152)
+2021-07-26 11:25:32,618 - __logger__ - INFO - [3776, (127.0.0.1:52152)] Authentication success with user gportal!
+2021-07-26 11:25:32,633 - __logger__ - INFO - [3776, (127.0.0.1:52152)] User gportal has requested DirList
+2021-07-26 11:25:32,648 - __logger__ - INFO - [3776, (127.0.0.1:52152)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:32,660 - __logger__ - INFO - [3776, (127.0.0.1:52152)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:25:32,663 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52153)
+2021-07-26 11:25:32,679 - __logger__ - INFO - [18416, (127.0.0.1:52153)] Authentication success with user gportal!
+2021-07-26 11:25:32,700 - __logger__ - INFO - [18416, (127.0.0.1:52153)] User gportal has requested DirList
+2021-07-26 11:25:32,714 - __logger__ - INFO - [18416, (127.0.0.1:52153)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:32,781 - __logger__ - DEBUG - [3776, (127.0.0.1:52152)] Fin has been received!
+2021-07-26 11:25:32,785 - __logger__ - INFO - [18416, (127.0.0.1:52153)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:25:32,790 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52154)
+2021-07-26 11:25:32,805 - __logger__ - INFO - [5816, (127.0.0.1:52154)] Authentication success with user gportal!
+2021-07-26 11:25:32,822 - __logger__ - INFO - [5816, (127.0.0.1:52154)] User gportal has requested DirList
+2021-07-26 11:25:32,844 - __logger__ - INFO - [5816, (127.0.0.1:52154)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:32,866 - __logger__ - INFO - [5816, (127.0.0.1:52154)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:25:32,898 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52155)
+2021-07-26 11:25:32,975 - __logger__ - INFO - [20908, (127.0.0.1:52155)] Authentication success with user gportal!
+2021-07-26 11:25:32,994 - __logger__ - INFO - [20908, (127.0.0.1:52155)] User gportal has requested DirList
+2021-07-26 11:25:33,080 - __logger__ - DEBUG - [18416, (127.0.0.1:52153)] Fin has been received!
+2021-07-26 11:25:33,105 - __logger__ - INFO - [20908, (127.0.0.1:52155)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:33,197 - __logger__ - DEBUG - [5816, (127.0.0.1:52154)] Fin has been received!
+2021-07-26 11:25:33,200 - __logger__ - INFO - [20908, (127.0.0.1:52155)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:25:33,205 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52157)
+2021-07-26 11:25:33,223 - __logger__ - INFO - [7092, (127.0.0.1:52157)] Authentication success with user gportal!
+2021-07-26 11:25:33,239 - __logger__ - INFO - [7092, (127.0.0.1:52157)] User gportal has requested DirList
+2021-07-26 11:25:33,259 - __logger__ - INFO - [7092, (127.0.0.1:52157)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:33,277 - __logger__ - INFO - [7092, (127.0.0.1:52157)] User gportal get the file: 341.pdf
+2021-07-26 11:25:33,284 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52158)
+2021-07-26 11:25:33,307 - __logger__ - INFO - [21936, (127.0.0.1:52158)] Authentication success with user gportal!
+2021-07-26 11:25:33,325 - __logger__ - INFO - [21936, (127.0.0.1:52158)] User gportal has requested DirList
+2021-07-26 11:25:33,351 - __logger__ - INFO - [21936, (127.0.0.1:52158)] User gportal get the file: very_important.txt
+2021-07-26 11:25:33,449 - __logger__ - DEBUG - [20908, (127.0.0.1:52155)] Fin has been received!
+2021-07-26 11:25:33,453 - __logger__ - INFO - [21936, (127.0.0.1:52158)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:25:33,469 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52159)
+2021-07-26 11:25:33,495 - __logger__ - INFO - [19496, (127.0.0.1:52159)] Authentication success with user gportal!
+2021-07-26 11:25:33,639 - __logger__ - INFO - [19496, (127.0.0.1:52159)] User gportal has requested DirList
+2021-07-26 11:25:33,639 - __logger__ - DEBUG - [7092, (127.0.0.1:52157)] Fin has been received!
+2021-07-26 11:25:33,662 - __logger__ - INFO - [19496, (127.0.0.1:52159)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:33,681 - __logger__ - INFO - [19496, (127.0.0.1:52159)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:25:33,693 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52160)
+2021-07-26 11:25:33,757 - __logger__ - DEBUG - [21936, (127.0.0.1:52158)] Fin has been received!
+2021-07-26 11:25:33,775 - __logger__ - INFO - [22352, (127.0.0.1:52160)] Authentication success with user gportal!
+2021-07-26 11:25:33,791 - __logger__ - INFO - [22352, (127.0.0.1:52160)] User gportal has requested DirList
+2021-07-26 11:25:33,815 - __logger__ - INFO - [22352, (127.0.0.1:52160)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:33,920 - __logger__ - DEBUG - [19496, (127.0.0.1:52159)] Fin has been received!
+2021-07-26 11:25:33,924 - __logger__ - INFO - [22352, (127.0.0.1:52160)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:25:33,938 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52161)
+2021-07-26 11:25:33,968 - __logger__ - INFO - [13860, (127.0.0.1:52161)] Authentication success with user gportal!
+2021-07-26 11:25:33,985 - __logger__ - INFO - [13860, (127.0.0.1:52161)] User gportal has requested DirList
+2021-07-26 11:25:34,004 - __logger__ - INFO - [13860, (127.0.0.1:52161)] User gportal get the file: very_important.txt
+2021-07-26 11:25:34,023 - __logger__ - INFO - [13860, (127.0.0.1:52161)] User gportal get the file: 355.pdf
+2021-07-26 11:25:34,031 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52162)
+2021-07-26 11:25:34,051 - __logger__ - INFO - [15888, (127.0.0.1:52162)] Authentication success with user gportal!
+2021-07-26 11:25:34,068 - __logger__ - INFO - [15888, (127.0.0.1:52162)] User gportal has requested DirList
+2021-07-26 11:25:34,090 - __logger__ - INFO - [15888, (127.0.0.1:52162)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:34,113 - __logger__ - INFO - [15888, (127.0.0.1:52162)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:25:34,125 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52163)
+2021-07-26 11:25:34,268 - __logger__ - DEBUG - [22352, (127.0.0.1:52160)] Fin has been received!
+2021-07-26 11:25:34,285 - __logger__ - INFO - [16900, (127.0.0.1:52163)] Authentication success with user gportal!
+2021-07-26 11:25:34,378 - __logger__ - INFO - [16900, (127.0.0.1:52163)] User gportal has requested DirList
+2021-07-26 11:25:34,398 - __logger__ - INFO - [16900, (127.0.0.1:52163)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:34,723 - __logger__ - DEBUG - [13860, (127.0.0.1:52161)] Fin has been received!
+2021-07-26 11:25:34,724 - __logger__ - DEBUG - [15888, (127.0.0.1:52162)] Fin has been received!
+2021-07-26 11:25:34,726 - __logger__ - INFO - [16900, (127.0.0.1:52163)] User gportal get the file: 340.pdf
+2021-07-26 11:25:34,734 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52164)
+2021-07-26 11:25:34,776 - __logger__ - INFO - [2832, (127.0.0.1:52164)] Authentication success with user gportal!
+2021-07-26 11:25:34,816 - __logger__ - INFO - [2832, (127.0.0.1:52164)] User gportal has requested DirList
+2021-07-26 11:25:34,840 - __logger__ - INFO - [2832, (127.0.0.1:52164)] User gportal get the file: very_important.txt
+2021-07-26 11:25:34,870 - __logger__ - INFO - [2832, (127.0.0.1:52164)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:25:34,882 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52165)
+2021-07-26 11:25:35,069 - __logger__ - INFO - [16276, (127.0.0.1:52165)] Authentication success with user gportal!
+2021-07-26 11:25:35,107 - __logger__ - INFO - [16276, (127.0.0.1:52165)] User gportal has requested DirList
+2021-07-26 11:25:35,127 - __logger__ - INFO - [16276, (127.0.0.1:52165)] User gportal get the file: very_important.txt
+2021-07-26 11:25:35,220 - __logger__ - DEBUG - [16900, (127.0.0.1:52163)] Fin has been received!
+2021-07-26 11:25:35,337 - __logger__ - DEBUG - [2832, (127.0.0.1:52164)] Fin has been received!
+2021-07-26 11:25:35,338 - __logger__ - INFO - [16276, (127.0.0.1:52165)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:25:35,344 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52166)
+2021-07-26 11:25:35,397 - __logger__ - INFO - [6196, (127.0.0.1:52166)] Authentication success with user gportal!
+2021-07-26 11:25:35,419 - __logger__ - INFO - [6196, (127.0.0.1:52166)] User gportal has requested DirList
+2021-07-26 11:25:35,439 - __logger__ - INFO - [6196, (127.0.0.1:52166)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:35,470 - __logger__ - INFO - [6196, (127.0.0.1:52166)] User gportal get the file: presentation.pptx
+2021-07-26 11:25:35,737 - __logger__ - DEBUG - [16276, (127.0.0.1:52165)] Fin has been received!
+2021-07-26 11:25:35,737 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52167)
+2021-07-26 11:25:35,755 - __logger__ - INFO - [10828, (127.0.0.1:52167)] Authentication success with user gportal!
+2021-07-26 11:25:35,770 - __logger__ - INFO - [10828, (127.0.0.1:52167)] User gportal has requested DirList
+2021-07-26 11:25:35,857 - __logger__ - DEBUG - [6196, (127.0.0.1:52166)] Fin has been received!
+2021-07-26 11:25:35,858 - __logger__ - INFO - [10828, (127.0.0.1:52167)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:35,877 - __logger__ - INFO - [10828, (127.0.0.1:52167)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:25:35,883 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52168)
+2021-07-26 11:25:35,901 - __logger__ - INFO - [13600, (127.0.0.1:52168)] Authentication success with user gportal!
+2021-07-26 11:25:35,916 - __logger__ - INFO - [13600, (127.0.0.1:52168)] User gportal has requested DirList
+2021-07-26 11:25:35,934 - __logger__ - INFO - [13600, (127.0.0.1:52168)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:35,952 - __logger__ - INFO - [13600, (127.0.0.1:52168)] User gportal get the file: 341.pdf
+2021-07-26 11:25:35,961 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52169)
+2021-07-26 11:25:35,986 - __logger__ - INFO - [2876, (127.0.0.1:52169)] Authentication success with user gportal!
+2021-07-26 11:25:36,008 - __logger__ - INFO - [2876, (127.0.0.1:52169)] User gportal has requested DirList
+2021-07-26 11:25:36,030 - __logger__ - INFO - [2876, (127.0.0.1:52169)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:36,121 - __logger__ - DEBUG - [10828, (127.0.0.1:52167)] Fin has been received!
+2021-07-26 11:25:36,147 - __logger__ - INFO - [2876, (127.0.0.1:52169)] User gportal get the file: presentation.pptx
+2021-07-26 11:25:36,227 - __logger__ - DEBUG - [13600, (127.0.0.1:52168)] Fin has been received!
+2021-07-26 11:25:36,476 - __logger__ - DEBUG - [2876, (127.0.0.1:52169)] Fin has been received!
+2021-07-26 11:25:36,476 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52170)
+2021-07-26 11:25:36,492 - __logger__ - INFO - [3780, (127.0.0.1:52170)] Authentication success with user gportal!
+2021-07-26 11:25:36,507 - __logger__ - INFO - [3780, (127.0.0.1:52170)] User gportal has requested DirList
+2021-07-26 11:25:36,523 - __logger__ - INFO - [3780, (127.0.0.1:52170)] User gportal get the file: very_important.txt
+2021-07-26 11:25:36,540 - __logger__ - INFO - [3780, (127.0.0.1:52170)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:25:36,554 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52171)
+2021-07-26 11:25:36,572 - __logger__ - INFO - [6508, (127.0.0.1:52171)] Authentication success with user gportal!
+2021-07-26 11:25:36,589 - __logger__ - INFO - [6508, (127.0.0.1:52171)] User gportal has requested DirList
+2021-07-26 11:25:36,607 - __logger__ - INFO - [6508, (127.0.0.1:52171)] User gportal get the file: very_important.txt
+2021-07-26 11:25:36,623 - __logger__ - INFO - [6508, (127.0.0.1:52171)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:25:36,628 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52172)
+2021-07-26 11:25:36,727 - __logger__ - DEBUG - [3780, (127.0.0.1:52170)] Fin has been received!
+2021-07-26 11:25:36,728 - __logger__ - INFO - [22476, (127.0.0.1:52172)] Authentication success with user gportal!
+2021-07-26 11:25:36,838 - __logger__ - DEBUG - [6508, (127.0.0.1:52171)] Fin has been received!
+2021-07-26 11:25:36,838 - __logger__ - INFO - [22476, (127.0.0.1:52172)] User gportal has requested DirList
+2021-07-26 11:25:36,856 - __logger__ - INFO - [22476, (127.0.0.1:52172)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:36,870 - __logger__ - INFO - [22476, (127.0.0.1:52172)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:25:36,874 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52173)
+2021-07-26 11:25:36,894 - __logger__ - INFO - [15424, (127.0.0.1:52173)] Authentication success with user gportal!
+2021-07-26 11:25:36,911 - __logger__ - INFO - [15424, (127.0.0.1:52173)] User gportal has requested DirList
+2021-07-26 11:25:36,930 - __logger__ - INFO - [15424, (127.0.0.1:52173)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:36,950 - __logger__ - INFO - [15424, (127.0.0.1:52173)] User gportal get the file: 2254133.log
+2021-07-26 11:25:36,954 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52174)
+2021-07-26 11:25:37,012 - __logger__ - INFO - [5456, (127.0.0.1:52174)] Authentication success with user gportal!
+2021-07-26 11:25:37,039 - __logger__ - INFO - [5456, (127.0.0.1:52174)] User gportal has requested DirList
+2021-07-26 11:25:37,059 - __logger__ - INFO - [5456, (127.0.0.1:52174)] User gportal get the file: very_important.txt
+2021-07-26 11:25:37,166 - __logger__ - DEBUG - [22476, (127.0.0.1:52172)] Fin has been received!
+2021-07-26 11:25:37,168 - __logger__ - INFO - [5456, (127.0.0.1:52174)] User gportal get the file: 355.pdf
+2021-07-26 11:25:37,177 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52175)
+2021-07-26 11:25:37,314 - __logger__ - DEBUG - [15424, (127.0.0.1:52173)] Fin has been received!
+2021-07-26 11:25:37,330 - __logger__ - INFO - [21124, (127.0.0.1:52175)] Authentication success with user gportal!
+2021-07-26 11:25:37,351 - __logger__ - INFO - [21124, (127.0.0.1:52175)] User gportal has requested DirList
+2021-07-26 11:25:37,369 - __logger__ - INFO - [21124, (127.0.0.1:52175)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:37,392 - __logger__ - INFO - [21124, (127.0.0.1:52175)] User gportal get the file: 340.pdf
+2021-07-26 11:25:37,401 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52176)
+2021-07-26 11:25:37,479 - __logger__ - INFO - [21236, (127.0.0.1:52176)] Authentication success with user gportal!
+2021-07-26 11:25:37,704 - __logger__ - DEBUG - [5456, (127.0.0.1:52174)] Fin has been received!
+2021-07-26 11:25:37,704 - __logger__ - INFO - [21236, (127.0.0.1:52176)] User gportal has requested DirList
+2021-07-26 11:25:37,728 - __logger__ - INFO - [21236, (127.0.0.1:52176)] User gportal get the file: very_important.txt
+2021-07-26 11:25:37,828 - __logger__ - INFO - [21236, (127.0.0.1:52176)] User gportal get the file: 341.pdf
+2021-07-26 11:25:37,837 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52177)
+2021-07-26 11:25:38,070 - __logger__ - DEBUG - [21124, (127.0.0.1:52175)] Fin has been received!
+2021-07-26 11:25:38,087 - __logger__ - INFO - [15896, (127.0.0.1:52177)] Authentication success with user gportal!
+2021-07-26 11:25:38,133 - __logger__ - INFO - [15896, (127.0.0.1:52177)] User gportal has requested DirList
+2021-07-26 11:25:38,152 - __logger__ - INFO - [15896, (127.0.0.1:52177)] User gportal get the file: very_important.txt
+2021-07-26 11:25:38,177 - __logger__ - INFO - [15896, (127.0.0.1:52177)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:25:38,189 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52178)
+2021-07-26 11:25:38,422 - __logger__ - DEBUG - [21236, (127.0.0.1:52176)] Fin has been received!
+2021-07-26 11:25:38,438 - __logger__ - INFO - [18768, (127.0.0.1:52178)] Authentication success with user gportal!
+2021-07-26 11:25:38,464 - __logger__ - INFO - [18768, (127.0.0.1:52178)] User gportal has requested DirList
+2021-07-26 11:25:38,484 - __logger__ - INFO - [18768, (127.0.0.1:52178)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:38,510 - __logger__ - INFO - [18768, (127.0.0.1:52178)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:25:38,606 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52179)
+2021-07-26 11:25:38,607 - __logger__ - DEBUG - [15896, (127.0.0.1:52177)] Fin has been received!
+2021-07-26 11:25:38,682 - __logger__ - INFO - [5212, (127.0.0.1:52179)] Authentication success with user gportal!
+2021-07-26 11:25:38,724 - __logger__ - INFO - [5212, (127.0.0.1:52179)] User gportal has requested DirList
+2021-07-26 11:25:38,745 - __logger__ - INFO - [5212, (127.0.0.1:52179)] User gportal get the file: very_important.txt
+2021-07-26 11:25:38,773 - __logger__ - INFO - [5212, (127.0.0.1:52179)] User gportal get the file: 2254133.log
+2021-07-26 11:25:38,776 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52180)
+2021-07-26 11:25:38,816 - __logger__ - INFO - [22280, (127.0.0.1:52180)] Authentication success with user gportal!
+2021-07-26 11:25:38,838 - __logger__ - INFO - [22280, (127.0.0.1:52180)] User gportal has requested DirList
+2021-07-26 11:25:39,020 - __logger__ - DEBUG - [18768, (127.0.0.1:52178)] Fin has been received!
+2021-07-26 11:25:39,021 - __logger__ - INFO - [22280, (127.0.0.1:52180)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:39,047 - __logger__ - INFO - [22280, (127.0.0.1:52180)] User gportal get the file: 2254133.log
+2021-07-26 11:25:39,051 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52181)
+2021-07-26 11:25:39,092 - __logger__ - INFO - [14364, (127.0.0.1:52181)] Authentication success with user gportal!
+2021-07-26 11:25:39,190 - __logger__ - INFO - [14364, (127.0.0.1:52181)] User gportal has requested DirList
+2021-07-26 11:25:39,190 - __logger__ - DEBUG - [5212, (127.0.0.1:52179)] Fin has been received!
+2021-07-26 11:25:39,209 - __logger__ - INFO - [14364, (127.0.0.1:52181)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:39,249 - __logger__ - INFO - [14364, (127.0.0.1:52181)] User gportal get the file: presentation.pptx
+2021-07-26 11:25:39,401 - __logger__ - DEBUG - [22280, (127.0.0.1:52180)] Fin has been received!
+2021-07-26 11:25:39,458 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52182)
+2021-07-26 11:25:39,484 - __logger__ - INFO - [23072, (127.0.0.1:52182)] Authentication success with user gportal!
+2021-07-26 11:25:39,503 - __logger__ - INFO - [23072, (127.0.0.1:52182)] User gportal has requested DirList
+2021-07-26 11:25:39,523 - __logger__ - INFO - [23072, (127.0.0.1:52182)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:39,553 - __logger__ - INFO - [23072, (127.0.0.1:52182)] User gportal get the file: 2254133.log
+2021-07-26 11:25:39,558 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52183)
+2021-07-26 11:25:39,618 - __logger__ - INFO - [21928, (127.0.0.1:52183)] Authentication success with user gportal!
+2021-07-26 11:25:39,634 - __logger__ - INFO - [21928, (127.0.0.1:52183)] User gportal has requested DirList
+2021-07-26 11:25:39,780 - __logger__ - INFO - [21928, (127.0.0.1:52183)] User gportal get the file: very_important.txt
+2021-07-26 11:25:39,783 - __logger__ - DEBUG - [14364, (127.0.0.1:52181)] Fin has been received!
+2021-07-26 11:25:39,808 - __logger__ - INFO - [21928, (127.0.0.1:52183)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:25:39,823 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52184)
+2021-07-26 11:25:39,899 - __logger__ - DEBUG - [23072, (127.0.0.1:52182)] Fin has been received!
+2021-07-26 11:25:39,916 - __logger__ - INFO - [1144, (127.0.0.1:52184)] Authentication success with user gportal!
+2021-07-26 11:25:39,933 - __logger__ - INFO - [1144, (127.0.0.1:52184)] User gportal has requested DirList
+2021-07-26 11:25:39,952 - __logger__ - INFO - [1144, (127.0.0.1:52184)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:39,971 - __logger__ - INFO - [1144, (127.0.0.1:52184)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:25:40,089 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52185)
+2021-07-26 11:25:40,089 - __logger__ - DEBUG - [21928, (127.0.0.1:52183)] Fin has been received!
+2021-07-26 11:25:40,124 - __logger__ - INFO - [22988, (127.0.0.1:52185)] Authentication success with user gportal!
+2021-07-26 11:25:40,141 - __logger__ - INFO - [22988, (127.0.0.1:52185)] User gportal has requested DirList
+2021-07-26 11:25:40,161 - __logger__ - INFO - [22988, (127.0.0.1:52185)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:40,244 - __logger__ - DEBUG - [1144, (127.0.0.1:52184)] Fin has been received!
+2021-07-26 11:25:40,245 - __logger__ - INFO - [22988, (127.0.0.1:52185)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:25:40,263 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52186)
+2021-07-26 11:25:40,280 - __logger__ - INFO - [16076, (127.0.0.1:52186)] Authentication success with user gportal!
+2021-07-26 11:25:40,296 - __logger__ - INFO - [16076, (127.0.0.1:52186)] User gportal has requested DirList
+2021-07-26 11:25:40,318 - __logger__ - INFO - [16076, (127.0.0.1:52186)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:40,341 - __logger__ - INFO - [16076, (127.0.0.1:52186)] User gportal get the file: 340.pdf
+2021-07-26 11:25:40,348 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52187)
+2021-07-26 11:25:40,384 - __logger__ - INFO - [18944, (127.0.0.1:52187)] Authentication success with user gportal!
+2021-07-26 11:25:40,419 - __logger__ - INFO - [18944, (127.0.0.1:52187)] User gportal has requested DirList
+2021-07-26 11:25:40,441 - __logger__ - INFO - [18944, (127.0.0.1:52187)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:40,461 - __logger__ - INFO - [18944, (127.0.0.1:52187)] User gportal get the file: 340.pdf
+2021-07-26 11:25:40,468 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52188)
+2021-07-26 11:25:40,625 - __logger__ - DEBUG - [22988, (127.0.0.1:52185)] Fin has been received!
+2021-07-26 11:25:40,660 - __logger__ - INFO - [15704, (127.0.0.1:52188)] Authentication success with user gportal!
+2021-07-26 11:25:40,777 - __logger__ - INFO - [15704, (127.0.0.1:52188)] User gportal has requested DirList
+2021-07-26 11:25:40,801 - __logger__ - INFO - [15704, (127.0.0.1:52188)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:40,923 - __logger__ - INFO - [15704, (127.0.0.1:52188)] User gportal get the file: 341.pdf
+2021-07-26 11:25:40,944 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52189)
+2021-07-26 11:25:41,212 - __logger__ - INFO - [19332, (127.0.0.1:52189)] Authentication success with user gportal!
+2021-07-26 11:25:41,213 - __logger__ - DEBUG - [18944, (127.0.0.1:52187)] Fin has been received!
+2021-07-26 11:25:41,213 - __logger__ - DEBUG - [16076, (127.0.0.1:52186)] Fin has been received!
+2021-07-26 11:25:41,357 - __logger__ - DEBUG - [15704, (127.0.0.1:52188)] Fin has been received!
+2021-07-26 11:25:41,376 - __logger__ - INFO - [19332, (127.0.0.1:52189)] User gportal has requested DirList
+2021-07-26 11:25:41,404 - __logger__ - INFO - [19332, (127.0.0.1:52189)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:41,424 - __logger__ - INFO - [19332, (127.0.0.1:52189)] User gportal get the file: 340.pdf
+2021-07-26 11:25:41,432 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52190)
+2021-07-26 11:25:41,454 - __logger__ - INFO - [12488, (127.0.0.1:52190)] Authentication success with user gportal!
+2021-07-26 11:25:41,471 - __logger__ - INFO - [12488, (127.0.0.1:52190)] User gportal has requested DirList
+2021-07-26 11:25:41,493 - __logger__ - INFO - [12488, (127.0.0.1:52190)] User gportal get the file: very_important.txt
+2021-07-26 11:25:41,511 - __logger__ - INFO - [12488, (127.0.0.1:52190)] User gportal get the file: hoze.pdf
+2021-07-26 11:25:41,518 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52191)
+2021-07-26 11:25:41,558 - __logger__ - INFO - [4824, (127.0.0.1:52191)] Authentication success with user gportal!
+2021-07-26 11:25:41,583 - __logger__ - INFO - [4824, (127.0.0.1:52191)] User gportal has requested DirList
+2021-07-26 11:25:41,605 - __logger__ - INFO - [4824, (127.0.0.1:52191)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:41,631 - __logger__ - INFO - [4824, (127.0.0.1:52191)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:25:41,647 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52192)
+2021-07-26 11:25:41,707 - __logger__ - INFO - [15364, (127.0.0.1:52192)] Authentication success with user gportal!
+2021-07-26 11:25:41,755 - __logger__ - INFO - [15364, (127.0.0.1:52192)] User gportal has requested DirList
+2021-07-26 11:25:41,909 - __logger__ - DEBUG - [19332, (127.0.0.1:52189)] Fin has been received!
+2021-07-26 11:25:41,910 - __logger__ - INFO - [15364, (127.0.0.1:52192)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:42,061 - __logger__ - DEBUG - [12488, (127.0.0.1:52190)] Fin has been received!
+2021-07-26 11:25:42,062 - __logger__ - DEBUG - [4824, (127.0.0.1:52191)] Fin has been received!
+2021-07-26 11:25:42,078 - __logger__ - INFO - [15364, (127.0.0.1:52192)] User gportal get the file: 355.pdf
+2021-07-26 11:25:42,087 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52193)
+2021-07-26 11:25:42,106 - __logger__ - INFO - [21112, (127.0.0.1:52193)] Authentication success with user gportal!
+2021-07-26 11:25:42,124 - __logger__ - INFO - [21112, (127.0.0.1:52193)] User gportal has requested DirList
+2021-07-26 11:25:42,145 - __logger__ - INFO - [21112, (127.0.0.1:52193)] User gportal get the file: very_important.txt
+2021-07-26 11:25:42,167 - __logger__ - INFO - [21112, (127.0.0.1:52193)] User gportal get the file: 356.pdf
+2021-07-26 11:25:42,174 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52194)
+2021-07-26 11:25:42,195 - __logger__ - INFO - [22108, (127.0.0.1:52194)] Authentication success with user gportal!
+2021-07-26 11:25:42,212 - __logger__ - INFO - [22108, (127.0.0.1:52194)] User gportal has requested DirList
+2021-07-26 11:25:42,235 - __logger__ - INFO - [22108, (127.0.0.1:52194)] User gportal get the file: very_important.txt
+2021-07-26 11:25:42,253 - __logger__ - INFO - [22108, (127.0.0.1:52194)] User gportal get the file: 2254133.log
+2021-07-26 11:25:42,257 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52195)
+2021-07-26 11:25:42,284 - __logger__ - INFO - [18804, (127.0.0.1:52195)] Authentication success with user gportal!
+2021-07-26 11:25:42,407 - __logger__ - DEBUG - [15364, (127.0.0.1:52192)] Fin has been received!
+2021-07-26 11:25:42,408 - __logger__ - INFO - [18804, (127.0.0.1:52195)] User gportal has requested DirList
+2021-07-26 11:25:42,434 - __logger__ - INFO - [18804, (127.0.0.1:52195)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:42,605 - __logger__ - DEBUG - [21112, (127.0.0.1:52193)] Fin has been received!
+2021-07-26 11:25:42,605 - __logger__ - DEBUG - [22108, (127.0.0.1:52194)] Fin has been received!
+2021-07-26 11:25:42,607 - __logger__ - INFO - [18804, (127.0.0.1:52195)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:25:42,621 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52196)
+2021-07-26 11:25:42,639 - __logger__ - INFO - [2204, (127.0.0.1:52196)] Authentication success with user gportal!
+2021-07-26 11:25:42,656 - __logger__ - INFO - [2204, (127.0.0.1:52196)] User gportal has requested DirList
+2021-07-26 11:25:42,675 - __logger__ - INFO - [2204, (127.0.0.1:52196)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:25:42,693 - __logger__ - INFO - [2204, (127.0.0.1:52196)] User gportal get the file: hoze.pdf
+2021-07-26 11:25:42,702 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52197)
+2021-07-26 11:25:42,721 - __logger__ - INFO - [23740, (127.0.0.1:52197)] Authentication success with user gportal!
+2021-07-26 11:25:42,737 - __logger__ - INFO - [23740, (127.0.0.1:52197)] User gportal has requested DirList
+2021-07-26 11:25:42,757 - __logger__ - INFO - [23740, (127.0.0.1:52197)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:42,944 - __logger__ - DEBUG - [18804, (127.0.0.1:52195)] Fin has been received!
+2021-07-26 11:25:42,944 - __logger__ - DEBUG - [2204, (127.0.0.1:52196)] Fin has been received!
+2021-07-26 11:25:42,945 - __logger__ - INFO - [23740, (127.0.0.1:52197)] User gportal get the file: 341.pdf
+2021-07-26 11:25:42,956 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52198)
+2021-07-26 11:25:42,971 - __logger__ - INFO - [13004, (127.0.0.1:52198)] Authentication success with user gportal!
+2021-07-26 11:25:42,989 - __logger__ - INFO - [13004, (127.0.0.1:52198)] User gportal has requested DirList
+2021-07-26 11:25:43,005 - __logger__ - INFO - [13004, (127.0.0.1:52198)] User gportal get the file: very_important.txt
+2021-07-26 11:25:43,024 - __logger__ - INFO - [13004, (127.0.0.1:52198)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:25:43,029 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52199)
+2021-07-26 11:25:43,053 - __logger__ - INFO - [8036, (127.0.0.1:52199)] Authentication success with user gportal!
+2021-07-26 11:25:43,075 - __logger__ - INFO - [8036, (127.0.0.1:52199)] User gportal has requested DirList
+2021-07-26 11:25:43,095 - __logger__ - INFO - [8036, (127.0.0.1:52199)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:43,213 - __logger__ - DEBUG - [23740, (127.0.0.1:52197)] Fin has been received!
+2021-07-26 11:25:43,215 - __logger__ - INFO - [8036, (127.0.0.1:52199)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:25:43,222 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52200)
+2021-07-26 11:25:43,241 - __logger__ - INFO - [18504, (127.0.0.1:52200)] Authentication success with user gportal!
+2021-07-26 11:25:43,367 - __logger__ - DEBUG - [13004, (127.0.0.1:52198)] Fin has been received!
+2021-07-26 11:25:43,368 - __logger__ - INFO - [18504, (127.0.0.1:52200)] User gportal has requested DirList
+2021-07-26 11:25:43,390 - __logger__ - INFO - [18504, (127.0.0.1:52200)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:43,407 - __logger__ - INFO - [18504, (127.0.0.1:52200)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:25:43,412 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52201)
+2021-07-26 11:25:43,501 - __logger__ - DEBUG - [8036, (127.0.0.1:52199)] Fin has been received!
+2021-07-26 11:25:43,518 - __logger__ - INFO - [16104, (127.0.0.1:52201)] Authentication success with user gportal!
+2021-07-26 11:25:43,535 - __logger__ - INFO - [16104, (127.0.0.1:52201)] User gportal has requested DirList
+2021-07-26 11:25:43,556 - __logger__ - INFO - [16104, (127.0.0.1:52201)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:25:43,573 - __logger__ - INFO - [16104, (127.0.0.1:52201)] User gportal get the file: 340.pdf
+2021-07-26 11:25:43,581 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52202)
+2021-07-26 11:25:43,618 - __logger__ - INFO - [21596, (127.0.0.1:52202)] Authentication success with user gportal!
+2021-07-26 11:25:43,718 - __logger__ - DEBUG - [18504, (127.0.0.1:52200)] Fin has been received!
+2021-07-26 11:25:43,719 - __logger__ - INFO - [21596, (127.0.0.1:52202)] User gportal has requested DirList
+2021-07-26 11:25:43,742 - __logger__ - INFO - [21596, (127.0.0.1:52202)] User gportal get the file: very_important.txt
+2021-07-26 11:25:43,762 - __logger__ - INFO - [21596, (127.0.0.1:52202)] User gportal get the file: hoze.pdf
+2021-07-26 11:25:44,136 - __logger__ - DEBUG - [16104, (127.0.0.1:52201)] Fin has been received!
+2021-07-26 11:25:44,350 - __logger__ - DEBUG - [21596, (127.0.0.1:52202)] Fin has been received!
+2021-07-26 11:26:01,416 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61300)
+2021-07-26 11:26:01,437 - __logger__ - INFO - [13612, (127.0.0.1:61300)] Authentication success with user gportal!
+2021-07-26 11:26:01,450 - __logger__ - INFO - [13612, (127.0.0.1:61300)] User gportal has requested DirList
+2021-07-26 11:26:01,466 - __logger__ - INFO - [13612, (127.0.0.1:61300)] User gportal get the file: very_important.txt
+2021-07-26 11:26:01,480 - __logger__ - INFO - [13612, (127.0.0.1:61300)] User gportal get the file: 340.pdf
+2021-07-26 11:26:01,485 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61301)
+2021-07-26 11:26:01,502 - __logger__ - INFO - [23068, (127.0.0.1:61301)] Authentication success with user gportal!
+2021-07-26 11:26:01,516 - __logger__ - INFO - [23068, (127.0.0.1:61301)] User gportal has requested DirList
+2021-07-26 11:26:01,537 - __logger__ - INFO - [23068, (127.0.0.1:61301)] User gportal get the file: very_important.txt
+2021-07-26 11:26:01,552 - __logger__ - INFO - [23068, (127.0.0.1:61301)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:01,617 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61302)
+2021-07-26 11:26:01,617 - __logger__ - DEBUG - [13612, (127.0.0.1:61300)] Fin has been received!
+2021-07-26 11:26:01,635 - __logger__ - INFO - [5312, (127.0.0.1:61302)] Authentication success with user gportal!
+2021-07-26 11:26:01,751 - __logger__ - DEBUG - [23068, (127.0.0.1:61301)] Fin has been received!
+2021-07-26 11:26:01,752 - __logger__ - INFO - [5312, (127.0.0.1:61302)] User gportal has requested DirList
+2021-07-26 11:26:01,771 - __logger__ - INFO - [5312, (127.0.0.1:61302)] User gportal get the file: very_important.txt
+2021-07-26 11:26:01,787 - __logger__ - INFO - [5312, (127.0.0.1:61302)] User gportal get the file: 2254133.log
+2021-07-26 11:26:01,790 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61303)
+2021-07-26 11:26:01,809 - __logger__ - INFO - [12028, (127.0.0.1:61303)] Authentication success with user gportal!
+2021-07-26 11:26:01,827 - __logger__ - INFO - [12028, (127.0.0.1:61303)] User gportal has requested DirList
+2021-07-26 11:26:01,847 - __logger__ - INFO - [12028, (127.0.0.1:61303)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:01,868 - __logger__ - INFO - [12028, (127.0.0.1:61303)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:01,885 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61304)
+2021-07-26 11:26:02,017 - __logger__ - DEBUG - [5312, (127.0.0.1:61302)] Fin has been received!
+2021-07-26 11:26:02,036 - __logger__ - INFO - [18064, (127.0.0.1:61304)] Authentication success with user gportal!
+2021-07-26 11:26:02,056 - __logger__ - INFO - [18064, (127.0.0.1:61304)] User gportal has requested DirList
+2021-07-26 11:26:02,169 - __logger__ - DEBUG - [12028, (127.0.0.1:61303)] Fin has been received!
+2021-07-26 11:26:02,171 - __logger__ - INFO - [18064, (127.0.0.1:61304)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:02,189 - __logger__ - INFO - [18064, (127.0.0.1:61304)] User gportal get the file: 340.pdf
+2021-07-26 11:26:02,207 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61305)
+2021-07-26 11:26:02,227 - __logger__ - INFO - [22084, (127.0.0.1:61305)] Authentication success with user gportal!
+2021-07-26 11:26:02,243 - __logger__ - INFO - [22084, (127.0.0.1:61305)] User gportal has requested DirList
+2021-07-26 11:26:02,262 - __logger__ - INFO - [22084, (127.0.0.1:61305)] User gportal get the file: very_important.txt
+2021-07-26 11:26:02,284 - __logger__ - INFO - [22084, (127.0.0.1:61305)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:02,300 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61306)
+2021-07-26 11:26:02,326 - __logger__ - INFO - [4044, (127.0.0.1:61306)] Authentication success with user gportal!
+2021-07-26 11:26:02,348 - __logger__ - INFO - [4044, (127.0.0.1:61306)] User gportal has requested DirList
+2021-07-26 11:26:02,370 - __logger__ - INFO - [4044, (127.0.0.1:61306)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:02,388 - __logger__ - INFO - [4044, (127.0.0.1:61306)] User gportal get the file: 356.pdf
+2021-07-26 11:26:02,394 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61307)
+2021-07-26 11:26:02,541 - __logger__ - INFO - [19952, (127.0.0.1:61307)] Authentication success with user gportal!
+2021-07-26 11:26:02,541 - __logger__ - DEBUG - [18064, (127.0.0.1:61304)] Fin has been received!
+2021-07-26 11:26:02,571 - __logger__ - INFO - [19952, (127.0.0.1:61307)] User gportal has requested DirList
+2021-07-26 11:26:02,591 - __logger__ - INFO - [19952, (127.0.0.1:61307)] User gportal get the file: very_important.txt
+2021-07-26 11:26:02,738 - __logger__ - DEBUG - [22084, (127.0.0.1:61305)] Fin has been received!
+2021-07-26 11:26:02,738 - __logger__ - DEBUG - [4044, (127.0.0.1:61306)] Fin has been received!
+2021-07-26 11:26:02,739 - __logger__ - INFO - [19952, (127.0.0.1:61307)] User gportal get the file: 2254133.log
+2021-07-26 11:26:02,745 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61308)
+2021-07-26 11:26:02,772 - __logger__ - INFO - [864, (127.0.0.1:61308)] Authentication success with user gportal!
+2021-07-26 11:26:02,798 - __logger__ - INFO - [864, (127.0.0.1:61308)] User gportal has requested DirList
+2021-07-26 11:26:02,823 - __logger__ - INFO - [864, (127.0.0.1:61308)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:02,861 - __logger__ - INFO - [864, (127.0.0.1:61308)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:03,260 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61309)
+2021-07-26 11:26:03,260 - __logger__ - DEBUG - [864, (127.0.0.1:61308)] Fin has been received!
+2021-07-26 11:26:03,260 - __logger__ - DEBUG - [19952, (127.0.0.1:61307)] Fin has been received!
+2021-07-26 11:26:03,277 - __logger__ - INFO - [12948, (127.0.0.1:61309)] Authentication success with user gportal!
+2021-07-26 11:26:03,294 - __logger__ - INFO - [12948, (127.0.0.1:61309)] User gportal has requested DirList
+2021-07-26 11:26:03,315 - __logger__ - INFO - [12948, (127.0.0.1:61309)] User gportal get the file: very_important.txt
+2021-07-26 11:26:03,340 - __logger__ - INFO - [12948, (127.0.0.1:61309)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:03,672 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61310)
+2021-07-26 11:26:03,673 - __logger__ - DEBUG - [12948, (127.0.0.1:61309)] Fin has been received!
+2021-07-26 11:26:03,698 - __logger__ - INFO - [8712, (127.0.0.1:61310)] Authentication success with user gportal!
+2021-07-26 11:26:03,717 - __logger__ - INFO - [8712, (127.0.0.1:61310)] User gportal has requested DirList
+2021-07-26 11:26:03,741 - __logger__ - INFO - [8712, (127.0.0.1:61310)] User gportal get the file: very_important.txt
+2021-07-26 11:26:03,776 - __logger__ - INFO - [8712, (127.0.0.1:61310)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:03,793 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61311)
+2021-07-26 11:26:03,838 - __logger__ - INFO - [24420, (127.0.0.1:61311)] Authentication success with user gportal!
+2021-07-26 11:26:03,855 - __logger__ - INFO - [24420, (127.0.0.1:61311)] User gportal has requested DirList
+2021-07-26 11:26:03,874 - __logger__ - INFO - [24420, (127.0.0.1:61311)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:03,905 - __logger__ - INFO - [24420, (127.0.0.1:61311)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:03,921 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61312)
+2021-07-26 11:26:04,073 - __logger__ - INFO - [23544, (127.0.0.1:61312)] Authentication success with user gportal!
+2021-07-26 11:26:04,101 - __logger__ - INFO - [23544, (127.0.0.1:61312)] User gportal has requested DirList
+2021-07-26 11:26:04,122 - __logger__ - INFO - [23544, (127.0.0.1:61312)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:04,334 - __logger__ - INFO - [23544, (127.0.0.1:61312)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:04,334 - __logger__ - DEBUG - [8712, (127.0.0.1:61310)] Fin has been received!
+2021-07-26 11:26:04,343 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61314)
+2021-07-26 11:26:04,449 - __logger__ - DEBUG - [24420, (127.0.0.1:61311)] Fin has been received!
+2021-07-26 11:26:04,478 - __logger__ - INFO - [1220, (127.0.0.1:61314)] Authentication success with user gportal!
+2021-07-26 11:26:04,498 - __logger__ - INFO - [1220, (127.0.0.1:61314)] User gportal has requested DirList
+2021-07-26 11:26:04,518 - __logger__ - INFO - [1220, (127.0.0.1:61314)] User gportal get the file: very_important.txt
+2021-07-26 11:26:04,549 - __logger__ - INFO - [1220, (127.0.0.1:61314)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:04,564 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61315)
+2021-07-26 11:26:04,742 - __logger__ - DEBUG - [23544, (127.0.0.1:61312)] Fin has been received!
+2021-07-26 11:26:04,759 - __logger__ - INFO - [2364, (127.0.0.1:61315)] Authentication success with user gportal!
+2021-07-26 11:26:04,783 - __logger__ - INFO - [2364, (127.0.0.1:61315)] User gportal has requested DirList
+2021-07-26 11:26:04,806 - __logger__ - INFO - [2364, (127.0.0.1:61315)] User gportal get the file: very_important.txt
+2021-07-26 11:26:04,843 - __logger__ - INFO - [2364, (127.0.0.1:61315)] User gportal get the file: 356.pdf
+2021-07-26 11:26:04,853 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61316)
+2021-07-26 11:26:04,895 - __logger__ - INFO - [20784, (127.0.0.1:61316)] Authentication success with user gportal!
+2021-07-26 11:26:05,002 - __logger__ - DEBUG - [1220, (127.0.0.1:61314)] Fin has been received!
+2021-07-26 11:26:05,002 - __logger__ - INFO - [20784, (127.0.0.1:61316)] User gportal has requested DirList
+2021-07-26 11:26:05,031 - __logger__ - INFO - [20784, (127.0.0.1:61316)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:05,065 - __logger__ - INFO - [20784, (127.0.0.1:61316)] User gportal get the file: 356.pdf
+2021-07-26 11:26:05,073 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61317)
+2021-07-26 11:26:05,120 - __logger__ - INFO - [18224, (127.0.0.1:61317)] Authentication success with user gportal!
+2021-07-26 11:26:05,137 - __logger__ - INFO - [18224, (127.0.0.1:61317)] User gportal has requested DirList
+2021-07-26 11:26:05,238 - __logger__ - DEBUG - [2364, (127.0.0.1:61315)] Fin has been received!
+2021-07-26 11:26:05,239 - __logger__ - INFO - [18224, (127.0.0.1:61317)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:05,269 - __logger__ - INFO - [18224, (127.0.0.1:61317)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:05,274 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61318)
+2021-07-26 11:26:05,322 - __logger__ - INFO - [18836, (127.0.0.1:61318)] Authentication success with user gportal!
+2021-07-26 11:26:05,341 - __logger__ - INFO - [18836, (127.0.0.1:61318)] User gportal has requested DirList
+2021-07-26 11:26:05,429 - __logger__ - DEBUG - [20784, (127.0.0.1:61316)] Fin has been received!
+2021-07-26 11:26:05,431 - __logger__ - INFO - [18836, (127.0.0.1:61318)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:05,465 - __logger__ - INFO - [18836, (127.0.0.1:61318)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:05,645 - __logger__ - DEBUG - [18224, (127.0.0.1:61317)] Fin has been received!
+2021-07-26 11:26:05,702 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61319)
+2021-07-26 11:26:05,721 - __logger__ - INFO - [16356, (127.0.0.1:61319)] Authentication success with user gportal!
+2021-07-26 11:26:05,745 - __logger__ - INFO - [16356, (127.0.0.1:61319)] User gportal has requested DirList
+2021-07-26 11:26:05,771 - __logger__ - INFO - [16356, (127.0.0.1:61319)] User gportal get the file: very_important.txt
+2021-07-26 11:26:05,870 - __logger__ - DEBUG - [18836, (127.0.0.1:61318)] Fin has been received!
+2021-07-26 11:26:05,870 - __logger__ - INFO - [16356, (127.0.0.1:61319)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:05,880 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61320)
+2021-07-26 11:26:05,900 - __logger__ - INFO - [4368, (127.0.0.1:61320)] Authentication success with user gportal!
+2021-07-26 11:26:05,917 - __logger__ - INFO - [4368, (127.0.0.1:61320)] User gportal has requested DirList
+2021-07-26 11:26:05,939 - __logger__ - INFO - [4368, (127.0.0.1:61320)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:05,966 - __logger__ - INFO - [4368, (127.0.0.1:61320)] User gportal get the file: 355.pdf
+2021-07-26 11:26:05,975 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61321)
+2021-07-26 11:26:06,044 - __logger__ - INFO - [14632, (127.0.0.1:61321)] Authentication success with user gportal!
+2021-07-26 11:26:06,067 - __logger__ - INFO - [14632, (127.0.0.1:61321)] User gportal has requested DirList
+2021-07-26 11:26:06,088 - __logger__ - INFO - [14632, (127.0.0.1:61321)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:06,108 - __logger__ - INFO - [14632, (127.0.0.1:61321)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:06,112 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61322)
+2021-07-26 11:26:06,288 - __logger__ - DEBUG - [16356, (127.0.0.1:61319)] Fin has been received!
+2021-07-26 11:26:06,415 - __logger__ - DEBUG - [4368, (127.0.0.1:61320)] Fin has been received!
+2021-07-26 11:26:06,415 - __logger__ - DEBUG - [14632, (127.0.0.1:61321)] Fin has been received!
+2021-07-26 11:26:06,415 - __logger__ - INFO - [19204, (127.0.0.1:61322)] Authentication success with user gportal!
+2021-07-26 11:26:06,427 - __logger__ - INFO - [19204, (127.0.0.1:61322)] User gportal has requested DirList
+2021-07-26 11:26:06,442 - __logger__ - INFO - [19204, (127.0.0.1:61322)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:06,454 - __logger__ - INFO - [19204, (127.0.0.1:61322)] User gportal get the file: 355.pdf
+2021-07-26 11:26:06,460 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61323)
+2021-07-26 11:26:06,477 - __logger__ - INFO - [232, (127.0.0.1:61323)] Authentication success with user gportal!
+2021-07-26 11:26:06,492 - __logger__ - INFO - [232, (127.0.0.1:61323)] User gportal has requested DirList
+2021-07-26 11:26:06,514 - __logger__ - INFO - [232, (127.0.0.1:61323)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:06,537 - __logger__ - INFO - [232, (127.0.0.1:61323)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:06,552 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61324)
+2021-07-26 11:26:06,581 - __logger__ - INFO - [13112, (127.0.0.1:61324)] Authentication success with user gportal!
+2021-07-26 11:26:06,604 - __logger__ - INFO - [13112, (127.0.0.1:61324)] User gportal has requested DirList
+2021-07-26 11:26:06,718 - __logger__ - DEBUG - [19204, (127.0.0.1:61322)] Fin has been received!
+2021-07-26 11:26:06,719 - __logger__ - INFO - [13112, (127.0.0.1:61324)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:06,836 - __logger__ - DEBUG - [232, (127.0.0.1:61323)] Fin has been received!
+2021-07-26 11:26:06,837 - __logger__ - INFO - [13112, (127.0.0.1:61324)] User gportal get the file: 340.pdf
+2021-07-26 11:26:06,844 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61325)
+2021-07-26 11:26:06,863 - __logger__ - INFO - [15608, (127.0.0.1:61325)] Authentication success with user gportal!
+2021-07-26 11:26:06,879 - __logger__ - INFO - [15608, (127.0.0.1:61325)] User gportal has requested DirList
+2021-07-26 11:26:06,899 - __logger__ - INFO - [15608, (127.0.0.1:61325)] User gportal get the file: very_important.txt
+2021-07-26 11:26:06,916 - __logger__ - INFO - [15608, (127.0.0.1:61325)] User gportal get the file: 340.pdf
+2021-07-26 11:26:06,922 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61326)
+2021-07-26 11:26:06,946 - __logger__ - INFO - [10412, (127.0.0.1:61326)] Authentication success with user gportal!
+2021-07-26 11:26:06,972 - __logger__ - INFO - [10412, (127.0.0.1:61326)] User gportal has requested DirList
+2021-07-26 11:26:06,996 - __logger__ - INFO - [10412, (127.0.0.1:61326)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:07,034 - __logger__ - INFO - [10412, (127.0.0.1:61326)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:07,053 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61327)
+2021-07-26 11:26:07,166 - __logger__ - INFO - [14964, (127.0.0.1:61327)] Authentication success with user gportal!
+2021-07-26 11:26:07,167 - __logger__ - DEBUG - [13112, (127.0.0.1:61324)] Fin has been received!
+2021-07-26 11:26:07,279 - __logger__ - INFO - [14964, (127.0.0.1:61327)] User gportal has requested DirList
+2021-07-26 11:26:07,339 - __logger__ - DEBUG - [15608, (127.0.0.1:61325)] Fin has been received!
+2021-07-26 11:26:07,340 - __logger__ - DEBUG - [10412, (127.0.0.1:61326)] Fin has been received!
+2021-07-26 11:26:07,355 - __logger__ - INFO - [14964, (127.0.0.1:61327)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:07,369 - __logger__ - INFO - [14964, (127.0.0.1:61327)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:07,373 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61328)
+2021-07-26 11:26:07,393 - __logger__ - INFO - [22932, (127.0.0.1:61328)] Authentication success with user gportal!
+2021-07-26 11:26:07,412 - __logger__ - INFO - [22932, (127.0.0.1:61328)] User gportal has requested DirList
+2021-07-26 11:26:07,437 - __logger__ - INFO - [22932, (127.0.0.1:61328)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:07,456 - __logger__ - INFO - [22932, (127.0.0.1:61328)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:07,460 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61329)
+2021-07-26 11:26:07,483 - __logger__ - INFO - [17504, (127.0.0.1:61329)] Authentication success with user gportal!
+2021-07-26 11:26:07,501 - __logger__ - INFO - [17504, (127.0.0.1:61329)] User gportal has requested DirList
+2021-07-26 11:26:07,521 - __logger__ - INFO - [17504, (127.0.0.1:61329)] User gportal get the file: very_important.txt
+2021-07-26 11:26:07,538 - __logger__ - INFO - [17504, (127.0.0.1:61329)] User gportal get the file: 341.pdf
+2021-07-26 11:26:07,623 - __logger__ - DEBUG - [14964, (127.0.0.1:61327)] Fin has been received!
+2021-07-26 11:26:07,631 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61331)
+2021-07-26 11:26:07,744 - __logger__ - DEBUG - [22932, (127.0.0.1:61328)] Fin has been received!
+2021-07-26 11:26:07,744 - __logger__ - INFO - [21908, (127.0.0.1:61331)] Authentication success with user gportal!
+2021-07-26 11:26:07,764 - __logger__ - INFO - [21908, (127.0.0.1:61331)] User gportal has requested DirList
+2021-07-26 11:26:07,783 - __logger__ - INFO - [21908, (127.0.0.1:61331)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:07,870 - __logger__ - DEBUG - [17504, (127.0.0.1:61329)] Fin has been received!
+2021-07-26 11:26:07,872 - __logger__ - INFO - [21908, (127.0.0.1:61331)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:07,892 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61332)
+2021-07-26 11:26:07,927 - __logger__ - INFO - [20252, (127.0.0.1:61332)] Authentication success with user gportal!
+2021-07-26 11:26:07,948 - __logger__ - INFO - [20252, (127.0.0.1:61332)] User gportal has requested DirList
+2021-07-26 11:26:07,968 - __logger__ - INFO - [20252, (127.0.0.1:61332)] User gportal get the file: very_important.txt
+2021-07-26 11:26:07,986 - __logger__ - INFO - [20252, (127.0.0.1:61332)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:07,998 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61333)
+2021-07-26 11:26:08,017 - __logger__ - INFO - [7896, (127.0.0.1:61333)] Authentication success with user gportal!
+2021-07-26 11:26:08,034 - __logger__ - INFO - [7896, (127.0.0.1:61333)] User gportal has requested DirList
+2021-07-26 11:26:08,143 - __logger__ - DEBUG - [21908, (127.0.0.1:61331)] Fin has been received!
+2021-07-26 11:26:08,144 - __logger__ - INFO - [7896, (127.0.0.1:61333)] User gportal get the file: very_important.txt
+2021-07-26 11:26:08,240 - __logger__ - DEBUG - [20252, (127.0.0.1:61332)] Fin has been received!
+2021-07-26 11:26:08,241 - __logger__ - INFO - [7896, (127.0.0.1:61333)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:08,247 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61334)
+2021-07-26 11:26:08,265 - __logger__ - INFO - [13344, (127.0.0.1:61334)] Authentication success with user gportal!
+2021-07-26 11:26:08,280 - __logger__ - INFO - [13344, (127.0.0.1:61334)] User gportal has requested DirList
+2021-07-26 11:26:08,297 - __logger__ - INFO - [13344, (127.0.0.1:61334)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:08,316 - __logger__ - INFO - [13344, (127.0.0.1:61334)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:08,327 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61336)
+2021-07-26 11:26:08,352 - __logger__ - INFO - [1376, (127.0.0.1:61336)] Authentication success with user gportal!
+2021-07-26 11:26:08,369 - __logger__ - INFO - [1376, (127.0.0.1:61336)] User gportal has requested DirList
+2021-07-26 11:26:08,474 - __logger__ - DEBUG - [7896, (127.0.0.1:61333)] Fin has been received!
+2021-07-26 11:26:08,491 - __logger__ - INFO - [1376, (127.0.0.1:61336)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:08,561 - __logger__ - DEBUG - [13344, (127.0.0.1:61334)] Fin has been received!
+2021-07-26 11:26:08,562 - __logger__ - INFO - [1376, (127.0.0.1:61336)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:08,568 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61337)
+2021-07-26 11:26:08,584 - __logger__ - INFO - [14036, (127.0.0.1:61337)] Authentication success with user gportal!
+2021-07-26 11:26:08,600 - __logger__ - INFO - [14036, (127.0.0.1:61337)] User gportal has requested DirList
+2021-07-26 11:26:08,618 - __logger__ - INFO - [14036, (127.0.0.1:61337)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:08,636 - __logger__ - INFO - [14036, (127.0.0.1:61337)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:08,648 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61338)
+2021-07-26 11:26:08,667 - __logger__ - INFO - [20148, (127.0.0.1:61338)] Authentication success with user gportal!
+2021-07-26 11:26:08,686 - __logger__ - INFO - [20148, (127.0.0.1:61338)] User gportal has requested DirList
+2021-07-26 11:26:08,813 - __logger__ - INFO - [20148, (127.0.0.1:61338)] User gportal get the file: very_important.txt
+2021-07-26 11:26:08,814 - __logger__ - DEBUG - [1376, (127.0.0.1:61336)] Fin has been received!
+2021-07-26 11:26:08,911 - __logger__ - INFO - [20148, (127.0.0.1:61338)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:09,183 - __logger__ - DEBUG - [14036, (127.0.0.1:61337)] Fin has been received!
+2021-07-26 11:26:09,528 - __logger__ - DEBUG - [20148, (127.0.0.1:61338)] Fin has been received!
+2021-07-26 11:26:09,528 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61339)
+2021-07-26 11:26:09,567 - __logger__ - INFO - [14940, (127.0.0.1:61339)] Authentication success with user gportal!
+2021-07-26 11:26:09,584 - __logger__ - INFO - [14940, (127.0.0.1:61339)] User gportal has requested DirList
+2021-07-26 11:26:09,616 - __logger__ - INFO - [14940, (127.0.0.1:61339)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:09,637 - __logger__ - INFO - [14940, (127.0.0.1:61339)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:09,652 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61340)
+2021-07-26 11:26:09,697 - __logger__ - INFO - [22468, (127.0.0.1:61340)] Authentication success with user gportal!
+2021-07-26 11:26:09,739 - __logger__ - INFO - [22468, (127.0.0.1:61340)] User gportal has requested DirList
+2021-07-26 11:26:09,759 - __logger__ - INFO - [22468, (127.0.0.1:61340)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:09,783 - __logger__ - INFO - [22468, (127.0.0.1:61340)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:09,796 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61341)
+2021-07-26 11:26:09,866 - __logger__ - INFO - [18272, (127.0.0.1:61341)] Authentication success with user gportal!
+2021-07-26 11:26:10,032 - __logger__ - INFO - [18272, (127.0.0.1:61341)] User gportal has requested DirList
+2021-07-26 11:26:10,054 - __logger__ - INFO - [18272, (127.0.0.1:61341)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:10,078 - __logger__ - INFO - [18272, (127.0.0.1:61341)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:10,117 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61342)
+2021-07-26 11:26:10,375 - __logger__ - DEBUG - [22468, (127.0.0.1:61340)] Fin has been received!
+2021-07-26 11:26:10,394 - __logger__ - INFO - [2208, (127.0.0.1:61342)] Authentication success with user gportal!
+2021-07-26 11:26:10,503 - __logger__ - DEBUG - [14940, (127.0.0.1:61339)] Fin has been received!
+2021-07-26 11:26:10,503 - __logger__ - DEBUG - [18272, (127.0.0.1:61341)] Fin has been received!
+2021-07-26 11:26:10,503 - __logger__ - INFO - [2208, (127.0.0.1:61342)] User gportal has requested DirList
+2021-07-26 11:26:10,525 - __logger__ - INFO - [2208, (127.0.0.1:61342)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:10,547 - __logger__ - INFO - [2208, (127.0.0.1:61342)] User gportal get the file: 355.pdf
+2021-07-26 11:26:10,555 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61343)
+2021-07-26 11:26:10,594 - __logger__ - INFO - [21216, (127.0.0.1:61343)] Authentication success with user gportal!
+2021-07-26 11:26:10,641 - __logger__ - INFO - [21216, (127.0.0.1:61343)] User gportal has requested DirList
+2021-07-26 11:26:10,665 - __logger__ - INFO - [21216, (127.0.0.1:61343)] User gportal get the file: very_important.txt
+2021-07-26 11:26:10,709 - __logger__ - INFO - [21216, (127.0.0.1:61343)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:10,716 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61344)
+2021-07-26 11:26:10,767 - __logger__ - INFO - [18328, (127.0.0.1:61344)] Authentication success with user gportal!
+2021-07-26 11:26:10,794 - __logger__ - INFO - [18328, (127.0.0.1:61344)] User gportal has requested DirList
+2021-07-26 11:26:10,821 - __logger__ - INFO - [18328, (127.0.0.1:61344)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:10,860 - __logger__ - INFO - [18328, (127.0.0.1:61344)] User gportal get the file: 355.pdf
+2021-07-26 11:26:11,173 - __logger__ - DEBUG - [2208, (127.0.0.1:61342)] Fin has been received!
+2021-07-26 11:26:11,291 - __logger__ - DEBUG - [21216, (127.0.0.1:61343)] Fin has been received!
+2021-07-26 11:26:11,401 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61345)
+2021-07-26 11:26:11,402 - __logger__ - DEBUG - [18328, (127.0.0.1:61344)] Fin has been received!
+2021-07-26 11:26:11,422 - __logger__ - INFO - [17528, (127.0.0.1:61345)] Authentication success with user gportal!
+2021-07-26 11:26:11,439 - __logger__ - INFO - [17528, (127.0.0.1:61345)] User gportal has requested DirList
+2021-07-26 11:26:11,460 - __logger__ - INFO - [17528, (127.0.0.1:61345)] User gportal get the file: very_important.txt
+2021-07-26 11:26:11,477 - __logger__ - INFO - [17528, (127.0.0.1:61345)] User gportal get the file: 2254133.log
+2021-07-26 11:26:11,481 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61346)
+2021-07-26 11:26:11,507 - __logger__ - INFO - [20160, (127.0.0.1:61346)] Authentication success with user gportal!
+2021-07-26 11:26:11,525 - __logger__ - INFO - [20160, (127.0.0.1:61346)] User gportal has requested DirList
+2021-07-26 11:26:11,544 - __logger__ - INFO - [20160, (127.0.0.1:61346)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:11,567 - __logger__ - INFO - [20160, (127.0.0.1:61346)] User gportal get the file: 340.pdf
+2021-07-26 11:26:11,576 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61347)
+2021-07-26 11:26:11,655 - __logger__ - INFO - [4592, (127.0.0.1:61347)] Authentication success with user gportal!
+2021-07-26 11:26:11,710 - __logger__ - INFO - [4592, (127.0.0.1:61347)] User gportal has requested DirList
+2021-07-26 11:26:11,735 - __logger__ - INFO - [4592, (127.0.0.1:61347)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:11,780 - __logger__ - INFO - [4592, (127.0.0.1:61347)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:11,800 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61348)
+2021-07-26 11:26:11,944 - __logger__ - INFO - [896, (127.0.0.1:61348)] Authentication success with user gportal!
+2021-07-26 11:26:12,208 - __logger__ - INFO - [896, (127.0.0.1:61348)] User gportal has requested DirList
+2021-07-26 11:26:12,277 - __logger__ - DEBUG - [4592, (127.0.0.1:61347)] Fin has been received!
+2021-07-26 11:26:12,294 - __logger__ - DEBUG - [17528, (127.0.0.1:61345)] Fin has been received!
+2021-07-26 11:26:12,295 - __logger__ - DEBUG - [20160, (127.0.0.1:61346)] Fin has been received!
+2021-07-26 11:26:12,295 - __logger__ - INFO - [896, (127.0.0.1:61348)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:12,338 - __logger__ - INFO - [896, (127.0.0.1:61348)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:12,352 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61349)
+2021-07-26 11:26:12,403 - __logger__ - INFO - [320, (127.0.0.1:61349)] Authentication success with user gportal!
+2021-07-26 11:26:12,419 - __logger__ - INFO - [320, (127.0.0.1:61349)] User gportal has requested DirList
+2021-07-26 11:26:12,442 - __logger__ - INFO - [320, (127.0.0.1:61349)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:12,460 - __logger__ - INFO - [320, (127.0.0.1:61349)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:12,464 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61350)
+2021-07-26 11:26:12,488 - __logger__ - INFO - [12812, (127.0.0.1:61350)] Authentication success with user gportal!
+2021-07-26 11:26:12,508 - __logger__ - INFO - [12812, (127.0.0.1:61350)] User gportal has requested DirList
+2021-07-26 11:26:12,532 - __logger__ - INFO - [12812, (127.0.0.1:61350)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:12,569 - __logger__ - INFO - [12812, (127.0.0.1:61350)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:12,575 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61351)
+2021-07-26 11:26:12,685 - __logger__ - DEBUG - [896, (127.0.0.1:61348)] Fin has been received!
+2021-07-26 11:26:12,702 - __logger__ - INFO - [7220, (127.0.0.1:61351)] Authentication success with user gportal!
+2021-07-26 11:26:12,719 - __logger__ - INFO - [7220, (127.0.0.1:61351)] User gportal has requested DirList
+2021-07-26 11:26:12,743 - __logger__ - INFO - [7220, (127.0.0.1:61351)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:12,770 - __logger__ - INFO - [7220, (127.0.0.1:61351)] User gportal get the file: 355.pdf
+2021-07-26 11:26:12,781 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61352)
+2021-07-26 11:26:12,992 - __logger__ - DEBUG - [320, (127.0.0.1:61349)] Fin has been received!
+2021-07-26 11:26:13,073 - __logger__ - DEBUG - [12812, (127.0.0.1:61350)] Fin has been received!
+2021-07-26 11:26:13,091 - __logger__ - DEBUG - [7220, (127.0.0.1:61351)] Fin has been received!
+2021-07-26 11:26:13,091 - __logger__ - INFO - [19736, (127.0.0.1:61352)] Authentication success with user gportal!
+2021-07-26 11:26:13,110 - __logger__ - INFO - [19736, (127.0.0.1:61352)] User gportal has requested DirList
+2021-07-26 11:26:13,125 - __logger__ - INFO - [19736, (127.0.0.1:61352)] User gportal get the file: very_important.txt
+2021-07-26 11:26:13,139 - __logger__ - INFO - [19736, (127.0.0.1:61352)] User gportal get the file: 356.pdf
+2021-07-26 11:26:13,143 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61353)
+2021-07-26 11:26:13,161 - __logger__ - INFO - [20268, (127.0.0.1:61353)] Authentication success with user gportal!
+2021-07-26 11:26:13,177 - __logger__ - INFO - [20268, (127.0.0.1:61353)] User gportal has requested DirList
+2021-07-26 11:26:13,204 - __logger__ - INFO - [20268, (127.0.0.1:61353)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:13,224 - __logger__ - INFO - [20268, (127.0.0.1:61353)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:13,235 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61355)
+2021-07-26 11:26:13,256 - __logger__ - INFO - [23160, (127.0.0.1:61355)] Authentication success with user gportal!
+2021-07-26 11:26:13,372 - __logger__ - DEBUG - [19736, (127.0.0.1:61352)] Fin has been received!
+2021-07-26 11:26:13,373 - __logger__ - INFO - [23160, (127.0.0.1:61355)] User gportal has requested DirList
+2021-07-26 11:26:13,472 - __logger__ - DEBUG - [20268, (127.0.0.1:61353)] Fin has been received!
+2021-07-26 11:26:13,472 - __logger__ - INFO - [23160, (127.0.0.1:61355)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:13,488 - __logger__ - INFO - [23160, (127.0.0.1:61355)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:13,492 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61356)
+2021-07-26 11:26:13,510 - __logger__ - INFO - [15620, (127.0.0.1:61356)] Authentication success with user gportal!
+2021-07-26 11:26:13,526 - __logger__ - INFO - [15620, (127.0.0.1:61356)] User gportal has requested DirList
+2021-07-26 11:26:13,544 - __logger__ - INFO - [15620, (127.0.0.1:61356)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:13,564 - __logger__ - INFO - [15620, (127.0.0.1:61356)] User gportal get the file: 2254133.log
+2021-07-26 11:26:13,567 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61357)
+2021-07-26 11:26:13,584 - __logger__ - INFO - [1340, (127.0.0.1:61357)] Authentication success with user gportal!
+2021-07-26 11:26:13,617 - __logger__ - INFO - [1340, (127.0.0.1:61357)] User gportal has requested DirList
+2021-07-26 11:26:13,641 - __logger__ - INFO - [1340, (127.0.0.1:61357)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:13,673 - __logger__ - INFO - [1340, (127.0.0.1:61357)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:13,689 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61358)
+2021-07-26 11:26:13,781 - __logger__ - DEBUG - [23160, (127.0.0.1:61355)] Fin has been received!
+2021-07-26 11:26:13,970 - __logger__ - DEBUG - [15620, (127.0.0.1:61356)] Fin has been received!
+2021-07-26 11:26:13,970 - __logger__ - DEBUG - [1340, (127.0.0.1:61357)] Fin has been received!
+2021-07-26 11:26:13,970 - __logger__ - INFO - [19856, (127.0.0.1:61358)] Authentication success with user gportal!
+2021-07-26 11:26:13,988 - __logger__ - INFO - [19856, (127.0.0.1:61358)] User gportal has requested DirList
+2021-07-26 11:26:14,002 - __logger__ - INFO - [19856, (127.0.0.1:61358)] User gportal get the file: very_important.txt
+2021-07-26 11:26:14,017 - __logger__ - INFO - [19856, (127.0.0.1:61358)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:14,027 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61359)
+2021-07-26 11:26:14,043 - __logger__ - INFO - [5356, (127.0.0.1:61359)] Authentication success with user gportal!
+2021-07-26 11:26:14,058 - __logger__ - INFO - [5356, (127.0.0.1:61359)] User gportal has requested DirList
+2021-07-26 11:26:14,074 - __logger__ - INFO - [5356, (127.0.0.1:61359)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:14,089 - __logger__ - INFO - [5356, (127.0.0.1:61359)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:14,097 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61360)
+2021-07-26 11:26:14,114 - __logger__ - INFO - [17916, (127.0.0.1:61360)] Authentication success with user gportal!
+2021-07-26 11:26:14,131 - __logger__ - INFO - [17916, (127.0.0.1:61360)] User gportal has requested DirList
+2021-07-26 11:26:14,153 - __logger__ - INFO - [17916, (127.0.0.1:61360)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:14,272 - __logger__ - DEBUG - [19856, (127.0.0.1:61358)] Fin has been received!
+2021-07-26 11:26:14,274 - __logger__ - INFO - [17916, (127.0.0.1:61360)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:14,352 - __logger__ - DEBUG - [5356, (127.0.0.1:61359)] Fin has been received!
+2021-07-26 11:26:14,364 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61362)
+2021-07-26 11:26:14,382 - __logger__ - INFO - [22068, (127.0.0.1:61362)] Authentication success with user gportal!
+2021-07-26 11:26:14,399 - __logger__ - INFO - [22068, (127.0.0.1:61362)] User gportal has requested DirList
+2021-07-26 11:26:14,420 - __logger__ - INFO - [22068, (127.0.0.1:61362)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:14,447 - __logger__ - INFO - [22068, (127.0.0.1:61362)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:14,667 - __logger__ - DEBUG - [17916, (127.0.0.1:61360)] Fin has been received!
+2021-07-26 11:26:14,798 - __logger__ - DEBUG - [22068, (127.0.0.1:61362)] Fin has been received!
+2021-07-26 11:26:14,798 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61363)
+2021-07-26 11:26:14,813 - __logger__ - INFO - [23084, (127.0.0.1:61363)] Authentication success with user gportal!
+2021-07-26 11:26:14,826 - __logger__ - INFO - [23084, (127.0.0.1:61363)] User gportal has requested DirList
+2021-07-26 11:26:14,842 - __logger__ - INFO - [23084, (127.0.0.1:61363)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:14,856 - __logger__ - INFO - [23084, (127.0.0.1:61363)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:14,865 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61364)
+2021-07-26 11:26:14,880 - __logger__ - INFO - [23956, (127.0.0.1:61364)] Authentication success with user gportal!
+2021-07-26 11:26:14,898 - __logger__ - INFO - [23956, (127.0.0.1:61364)] User gportal has requested DirList
+2021-07-26 11:26:14,920 - __logger__ - INFO - [23956, (127.0.0.1:61364)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:14,940 - __logger__ - INFO - [23956, (127.0.0.1:61364)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:14,950 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61365)
+2021-07-26 11:26:14,975 - __logger__ - INFO - [13680, (127.0.0.1:61365)] Authentication success with user gportal!
+2021-07-26 11:26:14,998 - __logger__ - INFO - [13680, (127.0.0.1:61365)] User gportal has requested DirList
+2021-07-26 11:26:15,018 - __logger__ - INFO - [13680, (127.0.0.1:61365)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:15,040 - __logger__ - INFO - [13680, (127.0.0.1:61365)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:15,055 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61366)
+2021-07-26 11:26:15,156 - __logger__ - DEBUG - [23084, (127.0.0.1:61363)] Fin has been received!
+2021-07-26 11:26:15,173 - __logger__ - INFO - [4856, (127.0.0.1:61366)] Authentication success with user gportal!
+2021-07-26 11:26:15,354 - __logger__ - DEBUG - [23956, (127.0.0.1:61364)] Fin has been received!
+2021-07-26 11:26:15,354 - __logger__ - DEBUG - [13680, (127.0.0.1:61365)] Fin has been received!
+2021-07-26 11:26:15,355 - __logger__ - INFO - [4856, (127.0.0.1:61366)] User gportal has requested DirList
+2021-07-26 11:26:15,373 - __logger__ - INFO - [4856, (127.0.0.1:61366)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:15,387 - __logger__ - INFO - [4856, (127.0.0.1:61366)] User gportal get the file: 355.pdf
+2021-07-26 11:26:15,394 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61367)
+2021-07-26 11:26:15,415 - __logger__ - INFO - [7976, (127.0.0.1:61367)] Authentication success with user gportal!
+2021-07-26 11:26:15,435 - __logger__ - INFO - [7976, (127.0.0.1:61367)] User gportal has requested DirList
+2021-07-26 11:26:15,456 - __logger__ - INFO - [7976, (127.0.0.1:61367)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:15,476 - __logger__ - INFO - [7976, (127.0.0.1:61367)] User gportal get the file: 355.pdf
+2021-07-26 11:26:15,487 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61368)
+2021-07-26 11:26:15,507 - __logger__ - INFO - [5920, (127.0.0.1:61368)] Authentication success with user gportal!
+2021-07-26 11:26:15,526 - __logger__ - INFO - [5920, (127.0.0.1:61368)] User gportal has requested DirList
+2021-07-26 11:26:15,549 - __logger__ - INFO - [5920, (127.0.0.1:61368)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:15,572 - __logger__ - INFO - [5920, (127.0.0.1:61368)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:15,586 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61369)
+2021-07-26 11:26:15,618 - __logger__ - INFO - [19056, (127.0.0.1:61369)] Authentication success with user gportal!
+2021-07-26 11:26:15,860 - __logger__ - DEBUG - [4856, (127.0.0.1:61366)] Fin has been received!
+2021-07-26 11:26:15,918 - __logger__ - INFO - [19056, (127.0.0.1:61369)] User gportal has requested DirList
+2021-07-26 11:26:15,918 - __logger__ - DEBUG - [7976, (127.0.0.1:61367)] Fin has been received!
+2021-07-26 11:26:15,919 - __logger__ - DEBUG - [5920, (127.0.0.1:61368)] Fin has been received!
+2021-07-26 11:26:15,936 - __logger__ - INFO - [19056, (127.0.0.1:61369)] User gportal get the file: very_important.txt
+2021-07-26 11:26:15,986 - __logger__ - INFO - [19056, (127.0.0.1:61369)] User gportal get the file: 341.pdf
+2021-07-26 11:26:15,992 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61370)
+2021-07-26 11:26:16,103 - __logger__ - INFO - [22764, (127.0.0.1:61370)] Authentication success with user gportal!
+2021-07-26 11:26:16,122 - __logger__ - INFO - [22764, (127.0.0.1:61370)] User gportal has requested DirList
+2021-07-26 11:26:16,144 - __logger__ - INFO - [22764, (127.0.0.1:61370)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:16,274 - __logger__ - INFO - [22764, (127.0.0.1:61370)] User gportal get the file: 355.pdf
+2021-07-26 11:26:16,307 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61371)
+2021-07-26 11:26:16,566 - __logger__ - DEBUG - [19056, (127.0.0.1:61369)] Fin has been received!
+2021-07-26 11:26:16,584 - __logger__ - INFO - [17852, (127.0.0.1:61371)] Authentication success with user gportal!
+2021-07-26 11:26:16,601 - __logger__ - INFO - [17852, (127.0.0.1:61371)] User gportal has requested DirList
+2021-07-26 11:26:16,699 - __logger__ - DEBUG - [22764, (127.0.0.1:61370)] Fin has been received!
+2021-07-26 11:26:16,700 - __logger__ - INFO - [17852, (127.0.0.1:61371)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:16,733 - __logger__ - INFO - [17852, (127.0.0.1:61371)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:16,991 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61372)
+2021-07-26 11:26:17,036 - __logger__ - INFO - [23080, (127.0.0.1:61372)] Authentication success with user gportal!
+2021-07-26 11:26:17,066 - __logger__ - INFO - [23080, (127.0.0.1:61372)] User gportal has requested DirList
+2021-07-26 11:26:17,086 - __logger__ - INFO - [23080, (127.0.0.1:61372)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:17,172 - __logger__ - DEBUG - [17852, (127.0.0.1:61371)] Fin has been received!
+2021-07-26 11:26:17,181 - __logger__ - INFO - [23080, (127.0.0.1:61372)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:17,485 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61373)
+2021-07-26 11:26:17,485 - __logger__ - DEBUG - [23080, (127.0.0.1:61372)] Fin has been received!
+2021-07-26 11:26:17,514 - __logger__ - INFO - [21020, (127.0.0.1:61373)] Authentication success with user gportal!
+2021-07-26 11:26:17,532 - __logger__ - INFO - [21020, (127.0.0.1:61373)] User gportal has requested DirList
+2021-07-26 11:26:17,569 - __logger__ - INFO - [21020, (127.0.0.1:61373)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:17,596 - __logger__ - INFO - [21020, (127.0.0.1:61373)] User gportal get the file: 355.pdf
+2021-07-26 11:26:17,603 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61374)
+2021-07-26 11:26:17,634 - __logger__ - INFO - [10556, (127.0.0.1:61374)] Authentication success with user gportal!
+2021-07-26 11:26:17,651 - __logger__ - INFO - [10556, (127.0.0.1:61374)] User gportal has requested DirList
+2021-07-26 11:26:17,675 - __logger__ - INFO - [10556, (127.0.0.1:61374)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:17,703 - __logger__ - INFO - [10556, (127.0.0.1:61374)] User gportal get the file: 341.pdf
+2021-07-26 11:26:17,711 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61375)
+2021-07-26 11:26:17,788 - __logger__ - INFO - [6576, (127.0.0.1:61375)] Authentication success with user gportal!
+2021-07-26 11:26:17,824 - __logger__ - INFO - [6576, (127.0.0.1:61375)] User gportal has requested DirList
+2021-07-26 11:26:17,847 - __logger__ - INFO - [6576, (127.0.0.1:61375)] User gportal get the file: very_important.txt
+2021-07-26 11:26:18,010 - __logger__ - DEBUG - [21020, (127.0.0.1:61373)] Fin has been received!
+2021-07-26 11:26:18,015 - __logger__ - INFO - [6576, (127.0.0.1:61375)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:18,029 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61376)
+2021-07-26 11:26:18,150 - __logger__ - DEBUG - [10556, (127.0.0.1:61374)] Fin has been received!
+2021-07-26 11:26:18,167 - __logger__ - INFO - [15088, (127.0.0.1:61376)] Authentication success with user gportal!
+2021-07-26 11:26:18,188 - __logger__ - INFO - [15088, (127.0.0.1:61376)] User gportal has requested DirList
+2021-07-26 11:26:18,208 - __logger__ - INFO - [15088, (127.0.0.1:61376)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:18,256 - __logger__ - INFO - [15088, (127.0.0.1:61376)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:18,396 - __logger__ - DEBUG - [6576, (127.0.0.1:61375)] Fin has been received!
+2021-07-26 11:26:18,576 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61377)
+2021-07-26 11:26:18,597 - __logger__ - INFO - [17308, (127.0.0.1:61377)] Authentication success with user gportal!
+2021-07-26 11:26:18,612 - __logger__ - INFO - [17308, (127.0.0.1:61377)] User gportal has requested DirList
+2021-07-26 11:26:18,769 - __logger__ - DEBUG - [15088, (127.0.0.1:61376)] Fin has been received!
+2021-07-26 11:26:18,770 - __logger__ - INFO - [17308, (127.0.0.1:61377)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:18,792 - __logger__ - INFO - [17308, (127.0.0.1:61377)] User gportal get the file: 355.pdf
+2021-07-26 11:26:18,814 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61378)
+2021-07-26 11:26:18,854 - __logger__ - INFO - [15944, (127.0.0.1:61378)] Authentication success with user gportal!
+2021-07-26 11:26:18,874 - __logger__ - INFO - [15944, (127.0.0.1:61378)] User gportal has requested DirList
+2021-07-26 11:26:18,897 - __logger__ - INFO - [15944, (127.0.0.1:61378)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:18,924 - __logger__ - INFO - [15944, (127.0.0.1:61378)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:18,933 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61379)
+2021-07-26 11:26:18,975 - __logger__ - INFO - [24104, (127.0.0.1:61379)] Authentication success with user gportal!
+2021-07-26 11:26:18,997 - __logger__ - INFO - [24104, (127.0.0.1:61379)] User gportal has requested DirList
+2021-07-26 11:26:19,017 - __logger__ - INFO - [24104, (127.0.0.1:61379)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:19,053 - __logger__ - INFO - [24104, (127.0.0.1:61379)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:19,060 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61380)
+2021-07-26 11:26:19,157 - __logger__ - INFO - [13596, (127.0.0.1:61380)] Authentication success with user gportal!
+2021-07-26 11:26:19,191 - __logger__ - INFO - [13596, (127.0.0.1:61380)] User gportal has requested DirList
+2021-07-26 11:26:19,422 - __logger__ - DEBUG - [17308, (127.0.0.1:61377)] Fin has been received!
+2021-07-26 11:26:19,488 - __logger__ - DEBUG - [15944, (127.0.0.1:61378)] Fin has been received!
+2021-07-26 11:26:19,488 - __logger__ - DEBUG - [24104, (127.0.0.1:61379)] Fin has been received!
+2021-07-26 11:26:19,506 - __logger__ - INFO - [13596, (127.0.0.1:61380)] User gportal get the file: very_important.txt
+2021-07-26 11:26:19,522 - __logger__ - INFO - [13596, (127.0.0.1:61380)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:19,533 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61381)
+2021-07-26 11:26:19,551 - __logger__ - INFO - [15492, (127.0.0.1:61381)] Authentication success with user gportal!
+2021-07-26 11:26:19,568 - __logger__ - INFO - [15492, (127.0.0.1:61381)] User gportal has requested DirList
+2021-07-26 11:26:19,587 - __logger__ - INFO - [15492, (127.0.0.1:61381)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:19,606 - __logger__ - INFO - [15492, (127.0.0.1:61381)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:19,617 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61382)
+2021-07-26 11:26:19,635 - __logger__ - INFO - [20440, (127.0.0.1:61382)] Authentication success with user gportal!
+2021-07-26 11:26:19,652 - __logger__ - INFO - [20440, (127.0.0.1:61382)] User gportal has requested DirList
+2021-07-26 11:26:19,670 - __logger__ - INFO - [20440, (127.0.0.1:61382)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:19,866 - __logger__ - DEBUG - [13596, (127.0.0.1:61380)] Fin has been received!
+2021-07-26 11:26:19,866 - __logger__ - DEBUG - [15492, (127.0.0.1:61381)] Fin has been received!
+2021-07-26 11:26:19,867 - __logger__ - INFO - [20440, (127.0.0.1:61382)] User gportal get the file: 355.pdf
+2021-07-26 11:26:19,875 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61383)
+2021-07-26 11:26:19,892 - __logger__ - INFO - [15996, (127.0.0.1:61383)] Authentication success with user gportal!
+2021-07-26 11:26:19,909 - __logger__ - INFO - [15996, (127.0.0.1:61383)] User gportal has requested DirList
+2021-07-26 11:26:19,930 - __logger__ - INFO - [15996, (127.0.0.1:61383)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:19,948 - __logger__ - INFO - [15996, (127.0.0.1:61383)] User gportal get the file: 355.pdf
+2021-07-26 11:26:19,955 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61384)
+2021-07-26 11:26:19,978 - __logger__ - INFO - [20204, (127.0.0.1:61384)] Authentication success with user gportal!
+2021-07-26 11:26:19,996 - __logger__ - INFO - [20204, (127.0.0.1:61384)] User gportal has requested DirList
+2021-07-26 11:26:20,017 - __logger__ - INFO - [20204, (127.0.0.1:61384)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:20,049 - __logger__ - INFO - [20204, (127.0.0.1:61384)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:20,053 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61385)
+2021-07-26 11:26:20,213 - __logger__ - DEBUG - [20440, (127.0.0.1:61382)] Fin has been received!
+2021-07-26 11:26:20,230 - __logger__ - INFO - [21032, (127.0.0.1:61385)] Authentication success with user gportal!
+2021-07-26 11:26:20,248 - __logger__ - INFO - [21032, (127.0.0.1:61385)] User gportal has requested DirList
+2021-07-26 11:26:20,268 - __logger__ - INFO - [21032, (127.0.0.1:61385)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:20,403 - __logger__ - DEBUG - [15996, (127.0.0.1:61383)] Fin has been received!
+2021-07-26 11:26:20,403 - __logger__ - DEBUG - [20204, (127.0.0.1:61384)] Fin has been received!
+2021-07-26 11:26:20,404 - __logger__ - INFO - [21032, (127.0.0.1:61385)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:20,412 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61386)
+2021-07-26 11:26:20,430 - __logger__ - INFO - [3668, (127.0.0.1:61386)] Authentication success with user gportal!
+2021-07-26 11:26:20,448 - __logger__ - INFO - [3668, (127.0.0.1:61386)] User gportal has requested DirList
+2021-07-26 11:26:20,469 - __logger__ - INFO - [3668, (127.0.0.1:61386)] User gportal get the file: very_important.txt
+2021-07-26 11:26:20,490 - __logger__ - INFO - [3668, (127.0.0.1:61386)] User gportal get the file: 356.pdf
+2021-07-26 11:26:20,500 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61387)
+2021-07-26 11:26:20,520 - __logger__ - INFO - [19936, (127.0.0.1:61387)] Authentication success with user gportal!
+2021-07-26 11:26:20,540 - __logger__ - INFO - [19936, (127.0.0.1:61387)] User gportal has requested DirList
+2021-07-26 11:26:20,561 - __logger__ - INFO - [19936, (127.0.0.1:61387)] User gportal get the file: very_important.txt
+2021-07-26 11:26:20,579 - __logger__ - INFO - [19936, (127.0.0.1:61387)] User gportal get the file: 340.pdf
+2021-07-26 11:26:20,669 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61388)
+2021-07-26 11:26:20,669 - __logger__ - DEBUG - [21032, (127.0.0.1:61385)] Fin has been received!
+2021-07-26 11:26:20,815 - __logger__ - DEBUG - [3668, (127.0.0.1:61386)] Fin has been received!
+2021-07-26 11:26:20,816 - __logger__ - INFO - [888, (127.0.0.1:61388)] Authentication success with user gportal!
+2021-07-26 11:26:20,900 - __logger__ - DEBUG - [19936, (127.0.0.1:61387)] Fin has been received!
+2021-07-26 11:26:20,900 - __logger__ - INFO - [888, (127.0.0.1:61388)] User gportal has requested DirList
+2021-07-26 11:26:20,919 - __logger__ - INFO - [888, (127.0.0.1:61388)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:20,933 - __logger__ - INFO - [888, (127.0.0.1:61388)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:20,943 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61389)
+2021-07-26 11:26:20,961 - __logger__ - INFO - [14224, (127.0.0.1:61389)] Authentication success with user gportal!
+2021-07-26 11:26:20,977 - __logger__ - INFO - [14224, (127.0.0.1:61389)] User gportal has requested DirList
+2021-07-26 11:26:20,998 - __logger__ - INFO - [14224, (127.0.0.1:61389)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:21,015 - __logger__ - INFO - [14224, (127.0.0.1:61389)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:21,018 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61390)
+2021-07-26 11:26:21,038 - __logger__ - INFO - [19152, (127.0.0.1:61390)] Authentication success with user gportal!
+2021-07-26 11:26:21,056 - __logger__ - INFO - [19152, (127.0.0.1:61390)] User gportal has requested DirList
+2021-07-26 11:26:21,076 - __logger__ - INFO - [19152, (127.0.0.1:61390)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:21,203 - __logger__ - DEBUG - [888, (127.0.0.1:61388)] Fin has been received!
+2021-07-26 11:26:21,206 - __logger__ - INFO - [19152, (127.0.0.1:61390)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:21,308 - __logger__ - DEBUG - [14224, (127.0.0.1:61389)] Fin has been received!
+2021-07-26 11:26:21,309 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61391)
+2021-07-26 11:26:21,332 - __logger__ - INFO - [24156, (127.0.0.1:61391)] Authentication success with user gportal!
+2021-07-26 11:26:21,349 - __logger__ - INFO - [24156, (127.0.0.1:61391)] User gportal has requested DirList
+2021-07-26 11:26:21,366 - __logger__ - INFO - [24156, (127.0.0.1:61391)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:21,443 - __logger__ - DEBUG - [19152, (127.0.0.1:61390)] Fin has been received!
+2021-07-26 11:26:21,452 - __logger__ - INFO - [24156, (127.0.0.1:61391)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:21,738 - __logger__ - DEBUG - [24156, (127.0.0.1:61391)] Fin has been received!
+2021-07-26 11:26:21,738 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61392)
+2021-07-26 11:26:21,757 - __logger__ - INFO - [20992, (127.0.0.1:61392)] Authentication success with user gportal!
+2021-07-26 11:26:21,773 - __logger__ - INFO - [20992, (127.0.0.1:61392)] User gportal has requested DirList
+2021-07-26 11:26:21,794 - __logger__ - INFO - [20992, (127.0.0.1:61392)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:21,813 - __logger__ - INFO - [20992, (127.0.0.1:61392)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:21,828 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61393)
+2021-07-26 11:26:21,849 - __logger__ - INFO - [11832, (127.0.0.1:61393)] Authentication success with user gportal!
+2021-07-26 11:26:21,864 - __logger__ - INFO - [11832, (127.0.0.1:61393)] User gportal has requested DirList
+2021-07-26 11:26:21,882 - __logger__ - INFO - [11832, (127.0.0.1:61393)] User gportal get the file: very_important.txt
+2021-07-26 11:26:21,899 - __logger__ - INFO - [11832, (127.0.0.1:61393)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:21,904 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61394)
+2021-07-26 11:26:21,920 - __logger__ - INFO - [11324, (127.0.0.1:61394)] Authentication success with user gportal!
+2021-07-26 11:26:22,035 - __logger__ - DEBUG - [20992, (127.0.0.1:61392)] Fin has been received!
+2021-07-26 11:26:22,036 - __logger__ - INFO - [11324, (127.0.0.1:61394)] User gportal has requested DirList
+2021-07-26 11:26:22,128 - __logger__ - DEBUG - [11832, (127.0.0.1:61393)] Fin has been received!
+2021-07-26 11:26:22,128 - __logger__ - INFO - [11324, (127.0.0.1:61394)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:22,144 - __logger__ - INFO - [11324, (127.0.0.1:61394)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:22,149 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61395)
+2021-07-26 11:26:22,166 - __logger__ - INFO - [4600, (127.0.0.1:61395)] Authentication success with user gportal!
+2021-07-26 11:26:22,183 - __logger__ - INFO - [4600, (127.0.0.1:61395)] User gportal has requested DirList
+2021-07-26 11:26:22,203 - __logger__ - INFO - [4600, (127.0.0.1:61395)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:22,221 - __logger__ - INFO - [4600, (127.0.0.1:61395)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:22,225 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61396)
+2021-07-26 11:26:22,243 - __logger__ - INFO - [14512, (127.0.0.1:61396)] Authentication success with user gportal!
+2021-07-26 11:26:22,263 - __logger__ - INFO - [14512, (127.0.0.1:61396)] User gportal has requested DirList
+2021-07-26 11:26:22,283 - __logger__ - INFO - [14512, (127.0.0.1:61396)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:22,393 - __logger__ - DEBUG - [11324, (127.0.0.1:61394)] Fin has been received!
+2021-07-26 11:26:22,395 - __logger__ - INFO - [14512, (127.0.0.1:61396)] User gportal get the file: 355.pdf
+2021-07-26 11:26:22,476 - __logger__ - DEBUG - [4600, (127.0.0.1:61395)] Fin has been received!
+2021-07-26 11:26:22,476 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61397)
+2021-07-26 11:26:22,498 - __logger__ - INFO - [15828, (127.0.0.1:61397)] Authentication success with user gportal!
+2021-07-26 11:26:22,515 - __logger__ - INFO - [15828, (127.0.0.1:61397)] User gportal has requested DirList
+2021-07-26 11:26:22,536 - __logger__ - INFO - [15828, (127.0.0.1:61397)] User gportal get the file: very_important.txt
+2021-07-26 11:26:22,555 - __logger__ - INFO - [15828, (127.0.0.1:61397)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:22,563 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61398)
+2021-07-26 11:26:22,661 - __logger__ - DEBUG - [14512, (127.0.0.1:61396)] Fin has been received!
+2021-07-26 11:26:22,661 - __logger__ - INFO - [23900, (127.0.0.1:61398)] Authentication success with user gportal!
+2021-07-26 11:26:22,680 - __logger__ - INFO - [23900, (127.0.0.1:61398)] User gportal has requested DirList
+2021-07-26 11:26:22,701 - __logger__ - INFO - [23900, (127.0.0.1:61398)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:22,835 - __logger__ - DEBUG - [15828, (127.0.0.1:61397)] Fin has been received!
+2021-07-26 11:26:22,836 - __logger__ - INFO - [23900, (127.0.0.1:61398)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:22,848 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61399)
+2021-07-26 11:26:22,865 - __logger__ - INFO - [7276, (127.0.0.1:61399)] Authentication success with user gportal!
+2021-07-26 11:26:22,881 - __logger__ - INFO - [7276, (127.0.0.1:61399)] User gportal has requested DirList
+2021-07-26 11:26:22,902 - __logger__ - INFO - [7276, (127.0.0.1:61399)] User gportal get the file: very_important.txt
+2021-07-26 11:26:22,922 - __logger__ - INFO - [7276, (127.0.0.1:61399)] User gportal get the file: 340.pdf
+2021-07-26 11:26:22,932 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61400)
+2021-07-26 11:26:22,957 - __logger__ - INFO - [17376, (127.0.0.1:61400)] Authentication success with user gportal!
+2021-07-26 11:26:22,975 - __logger__ - INFO - [17376, (127.0.0.1:61400)] User gportal has requested DirList
+2021-07-26 11:26:22,998 - __logger__ - INFO - [17376, (127.0.0.1:61400)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:23,016 - __logger__ - INFO - [17376, (127.0.0.1:61400)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:23,021 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61401)
+2021-07-26 11:26:23,133 - __logger__ - DEBUG - [23900, (127.0.0.1:61398)] Fin has been received!
+2021-07-26 11:26:23,134 - __logger__ - INFO - [13284, (127.0.0.1:61401)] Authentication success with user gportal!
+2021-07-26 11:26:23,155 - __logger__ - INFO - [13284, (127.0.0.1:61401)] User gportal has requested DirList
+2021-07-26 11:26:23,308 - __logger__ - DEBUG - [7276, (127.0.0.1:61399)] Fin has been received!
+2021-07-26 11:26:23,308 - __logger__ - DEBUG - [17376, (127.0.0.1:61400)] Fin has been received!
+2021-07-26 11:26:23,308 - __logger__ - INFO - [13284, (127.0.0.1:61401)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:23,324 - __logger__ - INFO - [13284, (127.0.0.1:61401)] User gportal get the file: 2254133.log
+2021-07-26 11:26:23,327 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61402)
+2021-07-26 11:26:23,344 - __logger__ - INFO - [20504, (127.0.0.1:61402)] Authentication success with user gportal!
+2021-07-26 11:26:23,362 - __logger__ - INFO - [20504, (127.0.0.1:61402)] User gportal has requested DirList
+2021-07-26 11:26:23,385 - __logger__ - INFO - [20504, (127.0.0.1:61402)] User gportal get the file: very_important.txt
+2021-07-26 11:26:23,404 - __logger__ - INFO - [20504, (127.0.0.1:61402)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:23,414 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61403)
+2021-07-26 11:26:23,439 - __logger__ - INFO - [22004, (127.0.0.1:61403)] Authentication success with user gportal!
+2021-07-26 11:26:23,458 - __logger__ - INFO - [22004, (127.0.0.1:61403)] User gportal has requested DirList
+2021-07-26 11:26:23,484 - __logger__ - INFO - [22004, (127.0.0.1:61403)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:23,567 - __logger__ - DEBUG - [13284, (127.0.0.1:61401)] Fin has been received!
+2021-07-26 11:26:23,568 - __logger__ - INFO - [22004, (127.0.0.1:61403)] User gportal get the file: 341.pdf
+2021-07-26 11:26:23,576 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61404)
+2021-07-26 11:26:23,677 - __logger__ - DEBUG - [20504, (127.0.0.1:61402)] Fin has been received!
+2021-07-26 11:26:23,699 - __logger__ - INFO - [6012, (127.0.0.1:61404)] Authentication success with user gportal!
+2021-07-26 11:26:23,818 - __logger__ - INFO - [6012, (127.0.0.1:61404)] User gportal has requested DirList
+2021-07-26 11:26:23,843 - __logger__ - INFO - [6012, (127.0.0.1:61404)] User gportal get the file: very_important.txt
+2021-07-26 11:26:23,932 - __logger__ - INFO - [6012, (127.0.0.1:61404)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:23,946 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61405)
+2021-07-26 11:26:24,136 - __logger__ - DEBUG - [22004, (127.0.0.1:61403)] Fin has been received!
+2021-07-26 11:26:24,158 - __logger__ - INFO - [10380, (127.0.0.1:61405)] Authentication success with user gportal!
+2021-07-26 11:26:24,178 - __logger__ - INFO - [10380, (127.0.0.1:61405)] User gportal has requested DirList
+2021-07-26 11:26:24,198 - __logger__ - INFO - [10380, (127.0.0.1:61405)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:24,227 - __logger__ - INFO - [10380, (127.0.0.1:61405)] User gportal get the file: 341.pdf
+2021-07-26 11:26:24,235 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61406)
+2021-07-26 11:26:24,485 - __logger__ - DEBUG - [6012, (127.0.0.1:61404)] Fin has been received!
+2021-07-26 11:26:24,503 - __logger__ - INFO - [16096, (127.0.0.1:61406)] Authentication success with user gportal!
+2021-07-26 11:26:24,524 - __logger__ - INFO - [16096, (127.0.0.1:61406)] User gportal has requested DirList
+2021-07-26 11:26:24,543 - __logger__ - INFO - [16096, (127.0.0.1:61406)] User gportal get the file: very_important.txt
+2021-07-26 11:26:24,587 - __logger__ - INFO - [16096, (127.0.0.1:61406)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:24,821 - __logger__ - DEBUG - [10380, (127.0.0.1:61405)] Fin has been received!
+2021-07-26 11:26:24,884 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61407)
+2021-07-26 11:26:24,915 - __logger__ - INFO - [4476, (127.0.0.1:61407)] Authentication success with user gportal!
+2021-07-26 11:26:24,941 - __logger__ - INFO - [4476, (127.0.0.1:61407)] User gportal has requested DirList
+2021-07-26 11:26:24,964 - __logger__ - INFO - [4476, (127.0.0.1:61407)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:24,995 - __logger__ - INFO - [4476, (127.0.0.1:61407)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:25,010 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61408)
+2021-07-26 11:26:25,066 - __logger__ - INFO - [24444, (127.0.0.1:61408)] Authentication success with user gportal!
+2021-07-26 11:26:25,101 - __logger__ - INFO - [24444, (127.0.0.1:61408)] User gportal has requested DirList
+2021-07-26 11:26:25,121 - __logger__ - INFO - [24444, (127.0.0.1:61408)] User gportal get the file: very_important.txt
+2021-07-26 11:26:25,158 - __logger__ - INFO - [24444, (127.0.0.1:61408)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:25,174 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61409)
+2021-07-26 11:26:25,513 - __logger__ - DEBUG - [16096, (127.0.0.1:61406)] Fin has been received!
+2021-07-26 11:26:25,623 - __logger__ - INFO - [19516, (127.0.0.1:61409)] Authentication success with user gportal!
+2021-07-26 11:26:25,605 - __logger__ - DEBUG - [4476, (127.0.0.1:61407)] Fin has been received!
+2021-07-26 11:26:25,643 - __logger__ - DEBUG - [24444, (127.0.0.1:61408)] Fin has been received!
+2021-07-26 11:26:25,643 - __logger__ - INFO - [19516, (127.0.0.1:61409)] User gportal has requested DirList
+2021-07-26 11:26:25,664 - __logger__ - INFO - [19516, (127.0.0.1:61409)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:25,682 - __logger__ - INFO - [19516, (127.0.0.1:61409)] User gportal get the file: 341.pdf
+2021-07-26 11:26:26,032 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61410)
+2021-07-26 11:26:26,032 - __logger__ - DEBUG - [19516, (127.0.0.1:61409)] Fin has been received!
+2021-07-26 11:26:26,071 - __logger__ - INFO - [6936, (127.0.0.1:61410)] Authentication success with user gportal!
+2021-07-26 11:26:26,107 - __logger__ - INFO - [6936, (127.0.0.1:61410)] User gportal has requested DirList
+2021-07-26 11:26:26,126 - __logger__ - INFO - [6936, (127.0.0.1:61410)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:26,145 - __logger__ - INFO - [6936, (127.0.0.1:61410)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:26,158 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61411)
+2021-07-26 11:26:26,189 - __logger__ - INFO - [2460, (127.0.0.1:61411)] Authentication success with user gportal!
+2021-07-26 11:26:26,205 - __logger__ - INFO - [2460, (127.0.0.1:61411)] User gportal has requested DirList
+2021-07-26 11:26:26,234 - __logger__ - INFO - [2460, (127.0.0.1:61411)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:26,270 - __logger__ - INFO - [2460, (127.0.0.1:61411)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:26,760 - __logger__ - DEBUG - [6936, (127.0.0.1:61410)] Fin has been received!
+2021-07-26 11:26:26,760 - __logger__ - DEBUG - [2460, (127.0.0.1:61411)] Fin has been received!
+2021-07-26 11:26:26,761 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61412)
+2021-07-26 11:26:26,775 - __logger__ - INFO - [19116, (127.0.0.1:61412)] Authentication success with user gportal!
+2021-07-26 11:26:26,788 - __logger__ - INFO - [19116, (127.0.0.1:61412)] User gportal has requested DirList
+2021-07-26 11:26:26,803 - __logger__ - INFO - [19116, (127.0.0.1:61412)] User gportal get the file: very_important.txt
+2021-07-26 11:26:26,816 - __logger__ - INFO - [19116, (127.0.0.1:61412)] User gportal get the file: 341.pdf
+2021-07-26 11:26:26,822 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61413)
+2021-07-26 11:26:26,837 - __logger__ - INFO - [23288, (127.0.0.1:61413)] Authentication success with user gportal!
+2021-07-26 11:26:26,854 - __logger__ - INFO - [23288, (127.0.0.1:61413)] User gportal has requested DirList
+2021-07-26 11:26:26,873 - __logger__ - INFO - [23288, (127.0.0.1:61413)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:26,892 - __logger__ - INFO - [23288, (127.0.0.1:61413)] User gportal get the file: 356.pdf
+2021-07-26 11:26:26,898 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61414)
+2021-07-26 11:26:26,916 - __logger__ - INFO - [21912, (127.0.0.1:61414)] Authentication success with user gportal!
+2021-07-26 11:26:26,934 - __logger__ - INFO - [21912, (127.0.0.1:61414)] User gportal has requested DirList
+2021-07-26 11:26:26,954 - __logger__ - INFO - [21912, (127.0.0.1:61414)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:26,984 - __logger__ - INFO - [21912, (127.0.0.1:61414)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:27,000 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61415)
+2021-07-26 11:26:27,128 - __logger__ - DEBUG - [19116, (127.0.0.1:61412)] Fin has been received!
+2021-07-26 11:26:27,305 - __logger__ - DEBUG - [23288, (127.0.0.1:61413)] Fin has been received!
+2021-07-26 11:26:27,305 - __logger__ - DEBUG - [21912, (127.0.0.1:61414)] Fin has been received!
+2021-07-26 11:26:27,305 - __logger__ - INFO - [15348, (127.0.0.1:61415)] Authentication success with user gportal!
+2021-07-26 11:26:27,325 - __logger__ - INFO - [15348, (127.0.0.1:61415)] User gportal has requested DirList
+2021-07-26 11:26:27,346 - __logger__ - INFO - [15348, (127.0.0.1:61415)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:27,362 - __logger__ - INFO - [15348, (127.0.0.1:61415)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:27,367 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61416)
+2021-07-26 11:26:27,384 - __logger__ - INFO - [3808, (127.0.0.1:61416)] Authentication success with user gportal!
+2021-07-26 11:26:27,401 - __logger__ - INFO - [3808, (127.0.0.1:61416)] User gportal has requested DirList
+2021-07-26 11:26:27,419 - __logger__ - INFO - [3808, (127.0.0.1:61416)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:27,436 - __logger__ - INFO - [3808, (127.0.0.1:61416)] User gportal get the file: 2254133.log
+2021-07-26 11:26:27,441 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61417)
+2021-07-26 11:26:27,467 - __logger__ - INFO - [20676, (127.0.0.1:61417)] Authentication success with user gportal!
+2021-07-26 11:26:27,506 - __logger__ - INFO - [20676, (127.0.0.1:61417)] User gportal has requested DirList
+2021-07-26 11:26:27,530 - __logger__ - INFO - [20676, (127.0.0.1:61417)] User gportal get the file: very_important.txt
+2021-07-26 11:26:27,639 - __logger__ - DEBUG - [15348, (127.0.0.1:61415)] Fin has been received!
+2021-07-26 11:26:27,640 - __logger__ - INFO - [20676, (127.0.0.1:61417)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:27,717 - __logger__ - DEBUG - [3808, (127.0.0.1:61416)] Fin has been received!
+2021-07-26 11:26:27,723 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61418)
+2021-07-26 11:26:27,754 - __logger__ - INFO - [9540, (127.0.0.1:61418)] Authentication success with user gportal!
+2021-07-26 11:26:27,791 - __logger__ - INFO - [9540, (127.0.0.1:61418)] User gportal has requested DirList
+2021-07-26 11:26:27,815 - __logger__ - INFO - [9540, (127.0.0.1:61418)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:27,836 - __logger__ - INFO - [9540, (127.0.0.1:61418)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:27,852 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61419)
+2021-07-26 11:26:27,893 - __logger__ - INFO - [14452, (127.0.0.1:61419)] Authentication success with user gportal!
+2021-07-26 11:26:27,933 - __logger__ - INFO - [14452, (127.0.0.1:61419)] User gportal has requested DirList
+2021-07-26 11:26:27,954 - __logger__ - INFO - [14452, (127.0.0.1:61419)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:27,976 - __logger__ - INFO - [14452, (127.0.0.1:61419)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:27,989 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61420)
+2021-07-26 11:26:28,149 - __logger__ - DEBUG - [20676, (127.0.0.1:61417)] Fin has been received!
+2021-07-26 11:26:28,167 - __logger__ - INFO - [21728, (127.0.0.1:61420)] Authentication success with user gportal!
+2021-07-26 11:26:28,319 - __logger__ - DEBUG - [9540, (127.0.0.1:61418)] Fin has been received!
+2021-07-26 11:26:28,320 - __logger__ - DEBUG - [14452, (127.0.0.1:61419)] Fin has been received!
+2021-07-26 11:26:28,334 - __logger__ - INFO - [21728, (127.0.0.1:61420)] User gportal has requested DirList
+2021-07-26 11:26:28,349 - __logger__ - INFO - [21728, (127.0.0.1:61420)] User gportal get the file: very_important.txt
+2021-07-26 11:26:28,362 - __logger__ - INFO - [21728, (127.0.0.1:61420)] User gportal get the file: 341.pdf
+2021-07-26 11:26:28,367 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61421)
+2021-07-26 11:26:28,383 - __logger__ - INFO - [23784, (127.0.0.1:61421)] Authentication success with user gportal!
+2021-07-26 11:26:28,400 - __logger__ - INFO - [23784, (127.0.0.1:61421)] User gportal has requested DirList
+2021-07-26 11:26:28,423 - __logger__ - INFO - [23784, (127.0.0.1:61421)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:28,442 - __logger__ - INFO - [23784, (127.0.0.1:61421)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:28,448 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61422)
+2021-07-26 11:26:28,470 - __logger__ - INFO - [19652, (127.0.0.1:61422)] Authentication success with user gportal!
+2021-07-26 11:26:28,488 - __logger__ - INFO - [19652, (127.0.0.1:61422)] User gportal has requested DirList
+2021-07-26 11:26:28,510 - __logger__ - INFO - [19652, (127.0.0.1:61422)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:28,529 - __logger__ - INFO - [19652, (127.0.0.1:61422)] User gportal get the file: 355.pdf
+2021-07-26 11:26:28,749 - __logger__ - DEBUG - [21728, (127.0.0.1:61420)] Fin has been received!
+2021-07-26 11:26:28,835 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61423)
+2021-07-26 11:26:28,835 - __logger__ - DEBUG - [23784, (127.0.0.1:61421)] Fin has been received!
+2021-07-26 11:26:28,835 - __logger__ - DEBUG - [19652, (127.0.0.1:61422)] Fin has been received!
+2021-07-26 11:26:28,851 - __logger__ - INFO - [21740, (127.0.0.1:61423)] Authentication success with user gportal!
+2021-07-26 11:26:28,863 - __logger__ - INFO - [21740, (127.0.0.1:61423)] User gportal has requested DirList
+2021-07-26 11:26:28,881 - __logger__ - INFO - [21740, (127.0.0.1:61423)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:28,896 - __logger__ - INFO - [21740, (127.0.0.1:61423)] User gportal get the file: 2254133.log
+2021-07-26 11:26:28,899 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61424)
+2021-07-26 11:26:28,917 - __logger__ - INFO - [18684, (127.0.0.1:61424)] Authentication success with user gportal!
+2021-07-26 11:26:28,932 - __logger__ - INFO - [18684, (127.0.0.1:61424)] User gportal has requested DirList
+2021-07-26 11:26:28,950 - __logger__ - INFO - [18684, (127.0.0.1:61424)] User gportal get the file: very_important.txt
+2021-07-26 11:26:28,975 - __logger__ - INFO - [18684, (127.0.0.1:61424)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:29,192 - __logger__ - DEBUG - [21740, (127.0.0.1:61423)] Fin has been received!
+2021-07-26 11:26:29,285 - __logger__ - DEBUG - [18684, (127.0.0.1:61424)] Fin has been received!
+2021-07-26 11:26:29,285 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61425)
+2021-07-26 11:26:29,305 - __logger__ - INFO - [19572, (127.0.0.1:61425)] Authentication success with user gportal!
+2021-07-26 11:26:29,319 - __logger__ - INFO - [19572, (127.0.0.1:61425)] User gportal has requested DirList
+2021-07-26 11:26:29,336 - __logger__ - INFO - [19572, (127.0.0.1:61425)] User gportal get the file: very_important.txt
+2021-07-26 11:26:29,353 - __logger__ - INFO - [19572, (127.0.0.1:61425)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:29,367 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61426)
+2021-07-26 11:26:29,384 - __logger__ - INFO - [13008, (127.0.0.1:61426)] Authentication success with user gportal!
+2021-07-26 11:26:29,399 - __logger__ - INFO - [13008, (127.0.0.1:61426)] User gportal has requested DirList
+2021-07-26 11:26:29,416 - __logger__ - INFO - [13008, (127.0.0.1:61426)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:29,433 - __logger__ - INFO - [13008, (127.0.0.1:61426)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:29,444 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61427)
+2021-07-26 11:26:29,461 - __logger__ - INFO - [4496, (127.0.0.1:61427)] Authentication success with user gportal!
+2021-07-26 11:26:29,478 - __logger__ - INFO - [4496, (127.0.0.1:61427)] User gportal has requested DirList
+2021-07-26 11:26:29,571 - __logger__ - DEBUG - [19572, (127.0.0.1:61425)] Fin has been received!
+2021-07-26 11:26:29,671 - __logger__ - DEBUG - [13008, (127.0.0.1:61426)] Fin has been received!
+2021-07-26 11:26:29,671 - __logger__ - INFO - [4496, (127.0.0.1:61427)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:29,703 - __logger__ - INFO - [4496, (127.0.0.1:61427)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:29,978 - __logger__ - DEBUG - [4496, (127.0.0.1:61427)] Fin has been received!
+2021-07-26 11:26:29,979 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61428)
+2021-07-26 11:26:29,997 - __logger__ - INFO - [17024, (127.0.0.1:61428)] Authentication success with user gportal!
+2021-07-26 11:26:30,014 - __logger__ - INFO - [17024, (127.0.0.1:61428)] User gportal has requested DirList
+2021-07-26 11:26:30,035 - __logger__ - INFO - [17024, (127.0.0.1:61428)] User gportal get the file: very_important.txt
+2021-07-26 11:26:30,053 - __logger__ - INFO - [17024, (127.0.0.1:61428)] User gportal get the file: 355.pdf
+2021-07-26 11:26:30,063 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61429)
+2021-07-26 11:26:30,082 - __logger__ - INFO - [16132, (127.0.0.1:61429)] Authentication success with user gportal!
+2021-07-26 11:26:30,100 - __logger__ - INFO - [16132, (127.0.0.1:61429)] User gportal has requested DirList
+2021-07-26 11:26:30,119 - __logger__ - INFO - [16132, (127.0.0.1:61429)] User gportal get the file: very_important.txt
+2021-07-26 11:26:30,137 - __logger__ - INFO - [16132, (127.0.0.1:61429)] User gportal get the file: 2254133.log
+2021-07-26 11:26:30,140 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61431)
+2021-07-26 11:26:30,157 - __logger__ - INFO - [13372, (127.0.0.1:61431)] Authentication success with user gportal!
+2021-07-26 11:26:30,173 - __logger__ - INFO - [13372, (127.0.0.1:61431)] User gportal has requested DirList
+2021-07-26 11:26:30,287 - __logger__ - DEBUG - [17024, (127.0.0.1:61428)] Fin has been received!
+2021-07-26 11:26:30,287 - __logger__ - INFO - [13372, (127.0.0.1:61431)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:30,382 - __logger__ - DEBUG - [16132, (127.0.0.1:61429)] Fin has been received!
+2021-07-26 11:26:30,383 - __logger__ - INFO - [13372, (127.0.0.1:61431)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:30,388 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61432)
+2021-07-26 11:26:30,404 - __logger__ - INFO - [21192, (127.0.0.1:61432)] Authentication success with user gportal!
+2021-07-26 11:26:30,420 - __logger__ - INFO - [21192, (127.0.0.1:61432)] User gportal has requested DirList
+2021-07-26 11:26:30,437 - __logger__ - INFO - [21192, (127.0.0.1:61432)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:30,453 - __logger__ - INFO - [21192, (127.0.0.1:61432)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:30,458 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61433)
+2021-07-26 11:26:30,476 - __logger__ - INFO - [17756, (127.0.0.1:61433)] Authentication success with user gportal!
+2021-07-26 11:26:30,494 - __logger__ - INFO - [17756, (127.0.0.1:61433)] User gportal has requested DirList
+2021-07-26 11:26:30,610 - __logger__ - DEBUG - [13372, (127.0.0.1:61431)] Fin has been received!
+2021-07-26 11:26:30,612 - __logger__ - INFO - [17756, (127.0.0.1:61433)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:30,691 - __logger__ - DEBUG - [21192, (127.0.0.1:61432)] Fin has been received!
+2021-07-26 11:26:30,692 - __logger__ - INFO - [17756, (127.0.0.1:61433)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:30,697 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61434)
+2021-07-26 11:26:30,714 - __logger__ - INFO - [2436, (127.0.0.1:61434)] Authentication success with user gportal!
+2021-07-26 11:26:30,736 - __logger__ - INFO - [2436, (127.0.0.1:61434)] User gportal has requested DirList
+2021-07-26 11:26:30,762 - __logger__ - INFO - [2436, (127.0.0.1:61434)] User gportal get the file: very_important.txt
+2021-07-26 11:26:30,785 - __logger__ - INFO - [2436, (127.0.0.1:61434)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:30,792 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61435)
+2021-07-26 11:26:30,818 - __logger__ - INFO - [17300, (127.0.0.1:61435)] Authentication success with user gportal!
+2021-07-26 11:26:30,846 - __logger__ - INFO - [17300, (127.0.0.1:61435)] User gportal has requested DirList
+2021-07-26 11:26:30,869 - __logger__ - INFO - [17300, (127.0.0.1:61435)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:30,903 - __logger__ - INFO - [17300, (127.0.0.1:61435)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:30,908 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61436)
+2021-07-26 11:26:31,082 - __logger__ - DEBUG - [17756, (127.0.0.1:61433)] Fin has been received!
+2021-07-26 11:26:31,240 - __logger__ - DEBUG - [2436, (127.0.0.1:61434)] Fin has been received!
+2021-07-26 11:26:31,240 - __logger__ - DEBUG - [17300, (127.0.0.1:61435)] Fin has been received!
+2021-07-26 11:26:31,240 - __logger__ - INFO - [22620, (127.0.0.1:61436)] Authentication success with user gportal!
+2021-07-26 11:26:31,257 - __logger__ - INFO - [22620, (127.0.0.1:61436)] User gportal has requested DirList
+2021-07-26 11:26:31,273 - __logger__ - INFO - [22620, (127.0.0.1:61436)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:31,287 - __logger__ - INFO - [22620, (127.0.0.1:61436)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:31,291 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61437)
+2021-07-26 11:26:31,306 - __logger__ - INFO - [22396, (127.0.0.1:61437)] Authentication success with user gportal!
+2021-07-26 11:26:31,321 - __logger__ - INFO - [22396, (127.0.0.1:61437)] User gportal has requested DirList
+2021-07-26 11:26:31,338 - __logger__ - INFO - [22396, (127.0.0.1:61437)] User gportal get the file: very_important.txt
+2021-07-26 11:26:31,354 - __logger__ - INFO - [22396, (127.0.0.1:61437)] User gportal get the file: 2254133.log
+2021-07-26 11:26:31,358 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61438)
+2021-07-26 11:26:31,375 - __logger__ - INFO - [24136, (127.0.0.1:61438)] Authentication success with user gportal!
+2021-07-26 11:26:31,392 - __logger__ - INFO - [24136, (127.0.0.1:61438)] User gportal has requested DirList
+2021-07-26 11:26:31,506 - __logger__ - DEBUG - [22620, (127.0.0.1:61436)] Fin has been received!
+2021-07-26 11:26:31,507 - __logger__ - INFO - [24136, (127.0.0.1:61438)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:31,608 - __logger__ - DEBUG - [22396, (127.0.0.1:61437)] Fin has been received!
+2021-07-26 11:26:31,609 - __logger__ - INFO - [24136, (127.0.0.1:61438)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:31,625 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61439)
+2021-07-26 11:26:31,656 - __logger__ - INFO - [12348, (127.0.0.1:61439)] Authentication success with user gportal!
+2021-07-26 11:26:31,673 - __logger__ - INFO - [12348, (127.0.0.1:61439)] User gportal has requested DirList
+2021-07-26 11:26:31,697 - __logger__ - INFO - [12348, (127.0.0.1:61439)] User gportal get the file: very_important.txt
+2021-07-26 11:26:31,715 - __logger__ - INFO - [12348, (127.0.0.1:61439)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:31,733 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61440)
+2021-07-26 11:26:31,795 - __logger__ - INFO - [7156, (127.0.0.1:61440)] Authentication success with user gportal!
+2021-07-26 11:26:31,839 - __logger__ - INFO - [7156, (127.0.0.1:61440)] User gportal has requested DirList
+2021-07-26 11:26:31,860 - __logger__ - INFO - [7156, (127.0.0.1:61440)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:32,070 - __logger__ - DEBUG - [24136, (127.0.0.1:61438)] Fin has been received!
+2021-07-26 11:26:32,071 - __logger__ - INFO - [7156, (127.0.0.1:61440)] User gportal get the file: 355.pdf
+2021-07-26 11:26:32,174 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61441)
+2021-07-26 11:26:32,174 - __logger__ - DEBUG - [12348, (127.0.0.1:61439)] Fin has been received!
+2021-07-26 11:26:32,201 - __logger__ - INFO - [4256, (127.0.0.1:61441)] Authentication success with user gportal!
+2021-07-26 11:26:32,217 - __logger__ - INFO - [4256, (127.0.0.1:61441)] User gportal has requested DirList
+2021-07-26 11:26:32,239 - __logger__ - INFO - [4256, (127.0.0.1:61441)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:32,401 - __logger__ - DEBUG - [7156, (127.0.0.1:61440)] Fin has been received!
+2021-07-26 11:26:32,402 - __logger__ - INFO - [4256, (127.0.0.1:61441)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:32,409 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61442)
+2021-07-26 11:26:32,439 - __logger__ - INFO - [20640, (127.0.0.1:61442)] Authentication success with user gportal!
+2021-07-26 11:26:32,456 - __logger__ - INFO - [20640, (127.0.0.1:61442)] User gportal has requested DirList
+2021-07-26 11:26:32,480 - __logger__ - INFO - [20640, (127.0.0.1:61442)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:32,511 - __logger__ - INFO - [20640, (127.0.0.1:61442)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:32,818 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61443)
+2021-07-26 11:26:32,820 - __logger__ - DEBUG - [4256, (127.0.0.1:61441)] Fin has been received!
+2021-07-26 11:26:32,958 - __logger__ - DEBUG - [20640, (127.0.0.1:61442)] Fin has been received!
+2021-07-26 11:26:32,958 - __logger__ - INFO - [13732, (127.0.0.1:61443)] Authentication success with user gportal!
+2021-07-26 11:26:32,978 - __logger__ - INFO - [13732, (127.0.0.1:61443)] User gportal has requested DirList
+2021-07-26 11:26:32,998 - __logger__ - INFO - [13732, (127.0.0.1:61443)] User gportal get the file: very_important.txt
+2021-07-26 11:26:33,015 - __logger__ - INFO - [13732, (127.0.0.1:61443)] User gportal get the file: 356.pdf
+2021-07-26 11:26:33,021 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61444)
+2021-07-26 11:26:33,047 - __logger__ - INFO - [23736, (127.0.0.1:61444)] Authentication success with user gportal!
+2021-07-26 11:26:33,065 - __logger__ - INFO - [23736, (127.0.0.1:61444)] User gportal has requested DirList
+2021-07-26 11:26:33,086 - __logger__ - INFO - [23736, (127.0.0.1:61444)] User gportal get the file: very_important.txt
+2021-07-26 11:26:33,108 - __logger__ - INFO - [23736, (127.0.0.1:61444)] User gportal get the file: 355.pdf
+2021-07-26 11:26:33,119 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61445)
+2021-07-26 11:26:33,154 - __logger__ - INFO - [20392, (127.0.0.1:61445)] Authentication success with user gportal!
+2021-07-26 11:26:33,178 - __logger__ - INFO - [20392, (127.0.0.1:61445)] User gportal has requested DirList
+2021-07-26 11:26:33,200 - __logger__ - INFO - [20392, (127.0.0.1:61445)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:33,231 - __logger__ - INFO - [20392, (127.0.0.1:61445)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:33,245 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61446)
+2021-07-26 11:26:33,308 - __logger__ - INFO - [21636, (127.0.0.1:61446)] Authentication success with user gportal!
+2021-07-26 11:26:33,339 - __logger__ - INFO - [21636, (127.0.0.1:61446)] User gportal has requested DirList
+2021-07-26 11:26:33,439 - __logger__ - DEBUG - [13732, (127.0.0.1:61443)] Fin has been received!
+2021-07-26 11:26:33,440 - __logger__ - INFO - [21636, (127.0.0.1:61446)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:33,590 - __logger__ - DEBUG - [23736, (127.0.0.1:61444)] Fin has been received!
+2021-07-26 11:26:33,590 - __logger__ - DEBUG - [20392, (127.0.0.1:61445)] Fin has been received!
+2021-07-26 11:26:33,606 - __logger__ - INFO - [21636, (127.0.0.1:61446)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:33,617 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61447)
+2021-07-26 11:26:33,632 - __logger__ - INFO - [14232, (127.0.0.1:61447)] Authentication success with user gportal!
+2021-07-26 11:26:33,648 - __logger__ - INFO - [14232, (127.0.0.1:61447)] User gportal has requested DirList
+2021-07-26 11:26:33,669 - __logger__ - INFO - [14232, (127.0.0.1:61447)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:33,688 - __logger__ - INFO - [14232, (127.0.0.1:61447)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:33,701 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61448)
+2021-07-26 11:26:33,727 - __logger__ - INFO - [16060, (127.0.0.1:61448)] Authentication success with user gportal!
+2021-07-26 11:26:33,748 - __logger__ - INFO - [16060, (127.0.0.1:61448)] User gportal has requested DirList
+2021-07-26 11:26:33,770 - __logger__ - INFO - [16060, (127.0.0.1:61448)] User gportal get the file: very_important.txt
+2021-07-26 11:26:33,971 - __logger__ - DEBUG - [21636, (127.0.0.1:61446)] Fin has been received!
+2021-07-26 11:26:33,971 - __logger__ - DEBUG - [14232, (127.0.0.1:61447)] Fin has been received!
+2021-07-26 11:26:33,973 - __logger__ - INFO - [16060, (127.0.0.1:61448)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:33,986 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61449)
+2021-07-26 11:26:34,003 - __logger__ - INFO - [1980, (127.0.0.1:61449)] Authentication success with user gportal!
+2021-07-26 11:26:34,020 - __logger__ - INFO - [1980, (127.0.0.1:61449)] User gportal has requested DirList
+2021-07-26 11:26:34,040 - __logger__ - INFO - [1980, (127.0.0.1:61449)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:34,058 - __logger__ - INFO - [1980, (127.0.0.1:61449)] User gportal get the file: 341.pdf
+2021-07-26 11:26:34,064 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61450)
+2021-07-26 11:26:34,082 - __logger__ - INFO - [2944, (127.0.0.1:61450)] Authentication success with user gportal!
+2021-07-26 11:26:34,099 - __logger__ - INFO - [2944, (127.0.0.1:61450)] User gportal has requested DirList
+2021-07-26 11:26:34,187 - __logger__ - DEBUG - [16060, (127.0.0.1:61448)] Fin has been received!
+2021-07-26 11:26:34,188 - __logger__ - INFO - [2944, (127.0.0.1:61450)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:34,208 - __logger__ - INFO - [2944, (127.0.0.1:61450)] User gportal get the file: 341.pdf
+2021-07-26 11:26:34,215 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61451)
+2021-07-26 11:26:34,360 - __logger__ - DEBUG - [1980, (127.0.0.1:61449)] Fin has been received!
+2021-07-26 11:26:34,377 - __logger__ - INFO - [21704, (127.0.0.1:61451)] Authentication success with user gportal!
+2021-07-26 11:26:34,393 - __logger__ - INFO - [21704, (127.0.0.1:61451)] User gportal has requested DirList
+2021-07-26 11:26:34,414 - __logger__ - INFO - [21704, (127.0.0.1:61451)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:34,529 - __logger__ - DEBUG - [2944, (127.0.0.1:61450)] Fin has been received!
+2021-07-26 11:26:34,532 - __logger__ - INFO - [21704, (127.0.0.1:61451)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:34,538 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61453)
+2021-07-26 11:26:34,555 - __logger__ - INFO - [18796, (127.0.0.1:61453)] Authentication success with user gportal!
+2021-07-26 11:26:34,572 - __logger__ - INFO - [18796, (127.0.0.1:61453)] User gportal has requested DirList
+2021-07-26 11:26:34,593 - __logger__ - INFO - [18796, (127.0.0.1:61453)] User gportal get the file: very_important.txt
+2021-07-26 11:26:34,614 - __logger__ - INFO - [18796, (127.0.0.1:61453)] User gportal get the file: 2254133.log
+2021-07-26 11:26:34,619 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61454)
+2021-07-26 11:26:34,640 - __logger__ - INFO - [21708, (127.0.0.1:61454)] Authentication success with user gportal!
+2021-07-26 11:26:34,659 - __logger__ - INFO - [21708, (127.0.0.1:61454)] User gportal has requested DirList
+2021-07-26 11:26:34,685 - __logger__ - INFO - [21708, (127.0.0.1:61454)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:34,710 - __logger__ - INFO - [21708, (127.0.0.1:61454)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:34,718 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61455)
+2021-07-26 11:26:34,821 - __logger__ - DEBUG - [21704, (127.0.0.1:61451)] Fin has been received!
+2021-07-26 11:26:34,835 - __logger__ - INFO - [16664, (127.0.0.1:61455)] Authentication success with user gportal!
+2021-07-26 11:26:34,856 - __logger__ - INFO - [16664, (127.0.0.1:61455)] User gportal has requested DirList
+2021-07-26 11:26:34,883 - __logger__ - INFO - [16664, (127.0.0.1:61455)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:34,992 - __logger__ - DEBUG - [18796, (127.0.0.1:61453)] Fin has been received!
+2021-07-26 11:26:35,049 - __logger__ - DEBUG - [21708, (127.0.0.1:61454)] Fin has been received!
+2021-07-26 11:26:35,050 - __logger__ - INFO - [16664, (127.0.0.1:61455)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:35,057 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61456)
+2021-07-26 11:26:35,073 - __logger__ - INFO - [1368, (127.0.0.1:61456)] Authentication success with user gportal!
+2021-07-26 11:26:35,091 - __logger__ - INFO - [1368, (127.0.0.1:61456)] User gportal has requested DirList
+2021-07-26 11:26:35,116 - __logger__ - INFO - [1368, (127.0.0.1:61456)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:35,139 - __logger__ - INFO - [1368, (127.0.0.1:61456)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:35,155 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61457)
+2021-07-26 11:26:35,179 - __logger__ - INFO - [4460, (127.0.0.1:61457)] Authentication success with user gportal!
+2021-07-26 11:26:35,195 - __logger__ - INFO - [4460, (127.0.0.1:61457)] User gportal has requested DirList
+2021-07-26 11:26:35,215 - __logger__ - INFO - [4460, (127.0.0.1:61457)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:35,233 - __logger__ - INFO - [4460, (127.0.0.1:61457)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:35,238 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61458)
+2021-07-26 11:26:35,447 - __logger__ - DEBUG - [16664, (127.0.0.1:61455)] Fin has been received!
+2021-07-26 11:26:35,447 - __logger__ - DEBUG - [1368, (127.0.0.1:61456)] Fin has been received!
+2021-07-26 11:26:35,512 - __logger__ - DEBUG - [4460, (127.0.0.1:61457)] Fin has been received!
+2021-07-26 11:26:35,512 - __logger__ - INFO - [1132, (127.0.0.1:61458)] Authentication success with user gportal!
+2021-07-26 11:26:35,525 - __logger__ - INFO - [1132, (127.0.0.1:61458)] User gportal has requested DirList
+2021-07-26 11:26:35,540 - __logger__ - INFO - [1132, (127.0.0.1:61458)] User gportal get the file: very_important.txt
+2021-07-26 11:26:35,554 - __logger__ - INFO - [1132, (127.0.0.1:61458)] User gportal get the file: 356.pdf
+2021-07-26 11:26:35,559 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61460)
+2021-07-26 11:26:35,576 - __logger__ - INFO - [4620, (127.0.0.1:61460)] Authentication success with user gportal!
+2021-07-26 11:26:35,591 - __logger__ - INFO - [4620, (127.0.0.1:61460)] User gportal has requested DirList
+2021-07-26 11:26:35,609 - __logger__ - INFO - [4620, (127.0.0.1:61460)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:35,627 - __logger__ - INFO - [4620, (127.0.0.1:61460)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:35,638 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61461)
+2021-07-26 11:26:35,656 - __logger__ - INFO - [1804, (127.0.0.1:61461)] Authentication success with user gportal!
+2021-07-26 11:26:35,677 - __logger__ - INFO - [1804, (127.0.0.1:61461)] User gportal has requested DirList
+2021-07-26 11:26:35,799 - __logger__ - DEBUG - [1132, (127.0.0.1:61458)] Fin has been received!
+2021-07-26 11:26:35,800 - __logger__ - INFO - [1804, (127.0.0.1:61461)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:35,885 - __logger__ - DEBUG - [4620, (127.0.0.1:61460)] Fin has been received!
+2021-07-26 11:26:35,904 - __logger__ - INFO - [1804, (127.0.0.1:61461)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:35,916 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61462)
+2021-07-26 11:26:35,933 - __logger__ - INFO - [23124, (127.0.0.1:61462)] Authentication success with user gportal!
+2021-07-26 11:26:35,949 - __logger__ - INFO - [23124, (127.0.0.1:61462)] User gportal has requested DirList
+2021-07-26 11:26:35,966 - __logger__ - INFO - [23124, (127.0.0.1:61462)] User gportal get the file: very_important.txt
+2021-07-26 11:26:35,984 - __logger__ - INFO - [23124, (127.0.0.1:61462)] User gportal get the file: 341.pdf
+2021-07-26 11:26:35,991 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61463)
+2021-07-26 11:26:36,009 - __logger__ - INFO - [16300, (127.0.0.1:61463)] Authentication success with user gportal!
+2021-07-26 11:26:36,026 - __logger__ - INFO - [16300, (127.0.0.1:61463)] User gportal has requested DirList
+2021-07-26 11:26:36,108 - __logger__ - DEBUG - [1804, (127.0.0.1:61461)] Fin has been received!
+2021-07-26 11:26:36,108 - __logger__ - INFO - [16300, (127.0.0.1:61463)] User gportal get the file: very_important.txt
+2021-07-26 11:26:36,220 - __logger__ - DEBUG - [23124, (127.0.0.1:61462)] Fin has been received!
+2021-07-26 11:26:36,222 - __logger__ - INFO - [16300, (127.0.0.1:61463)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:36,227 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61464)
+2021-07-26 11:26:36,247 - __logger__ - INFO - [19812, (127.0.0.1:61464)] Authentication success with user gportal!
+2021-07-26 11:26:36,262 - __logger__ - INFO - [19812, (127.0.0.1:61464)] User gportal has requested DirList
+2021-07-26 11:26:36,281 - __logger__ - INFO - [19812, (127.0.0.1:61464)] User gportal get the file: very_important.txt
+2021-07-26 11:26:36,296 - __logger__ - INFO - [19812, (127.0.0.1:61464)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:36,301 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61465)
+2021-07-26 11:26:36,317 - __logger__ - INFO - [23272, (127.0.0.1:61465)] Authentication success with user gportal!
+2021-07-26 11:26:36,334 - __logger__ - INFO - [23272, (127.0.0.1:61465)] User gportal has requested DirList
+2021-07-26 11:26:36,436 - __logger__ - DEBUG - [16300, (127.0.0.1:61463)] Fin has been received!
+2021-07-26 11:26:36,455 - __logger__ - INFO - [23272, (127.0.0.1:61465)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:36,526 - __logger__ - DEBUG - [19812, (127.0.0.1:61464)] Fin has been received!
+2021-07-26 11:26:36,527 - __logger__ - INFO - [23272, (127.0.0.1:61465)] User gportal get the file: 340.pdf
+2021-07-26 11:26:36,533 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61466)
+2021-07-26 11:26:36,551 - __logger__ - INFO - [8584, (127.0.0.1:61466)] Authentication success with user gportal!
+2021-07-26 11:26:36,570 - __logger__ - INFO - [8584, (127.0.0.1:61466)] User gportal has requested DirList
+2021-07-26 11:26:36,592 - __logger__ - INFO - [8584, (127.0.0.1:61466)] User gportal get the file: very_important.txt
+2021-07-26 11:26:36,613 - __logger__ - INFO - [8584, (127.0.0.1:61466)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:36,617 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61475)
+2021-07-26 11:26:36,641 - __logger__ - INFO - [16936, (127.0.0.1:61475)] Authentication success with user gportal!
+2021-07-26 11:26:36,663 - __logger__ - INFO - [16936, (127.0.0.1:61475)] User gportal has requested DirList
+2021-07-26 11:26:36,683 - __logger__ - INFO - [16936, (127.0.0.1:61475)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:36,701 - __logger__ - INFO - [16936, (127.0.0.1:61475)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:36,706 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61476)
+2021-07-26 11:26:36,987 - __logger__ - DEBUG - [8584, (127.0.0.1:61466)] Fin has been received!
+2021-07-26 11:26:36,988 - __logger__ - INFO - [18700, (127.0.0.1:61476)] Authentication success with user gportal!
+2021-07-26 11:26:36,988 - __logger__ - DEBUG - [23272, (127.0.0.1:61465)] Fin has been received!
+2021-07-26 11:26:36,988 - __logger__ - DEBUG - [16936, (127.0.0.1:61475)] Fin has been received!
+2021-07-26 11:26:37,004 - __logger__ - INFO - [18700, (127.0.0.1:61476)] User gportal has requested DirList
+2021-07-26 11:26:37,022 - __logger__ - INFO - [18700, (127.0.0.1:61476)] User gportal get the file: very_important.txt
+2021-07-26 11:26:37,124 - __logger__ - INFO - [18700, (127.0.0.1:61476)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:37,140 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61477)
+2021-07-26 11:26:37,242 - __logger__ - INFO - [7740, (127.0.0.1:61477)] Authentication success with user gportal!
+2021-07-26 11:26:37,316 - __logger__ - INFO - [7740, (127.0.0.1:61477)] User gportal has requested DirList
+2021-07-26 11:26:37,338 - __logger__ - INFO - [7740, (127.0.0.1:61477)] User gportal get the file: very_important.txt
+2021-07-26 11:26:37,378 - __logger__ - INFO - [7740, (127.0.0.1:61477)] User gportal get the file: 340.pdf
+2021-07-26 11:26:37,386 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61478)
+2021-07-26 11:26:37,442 - __logger__ - INFO - [18864, (127.0.0.1:61478)] Authentication success with user gportal!
+2021-07-26 11:26:37,480 - __logger__ - INFO - [18864, (127.0.0.1:61478)] User gportal has requested DirList
+2021-07-26 11:26:37,505 - __logger__ - INFO - [18864, (127.0.0.1:61478)] User gportal get the file: very_important.txt
+2021-07-26 11:26:37,737 - __logger__ - DEBUG - [18700, (127.0.0.1:61476)] Fin has been received!
+2021-07-26 11:26:37,738 - __logger__ - INFO - [18864, (127.0.0.1:61478)] User gportal get the file: 341.pdf
+2021-07-26 11:26:37,749 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61479)
+2021-07-26 11:26:37,816 - __logger__ - INFO - [20412, (127.0.0.1:61479)] Authentication success with user gportal!
+2021-07-26 11:26:37,831 - __logger__ - INFO - [20412, (127.0.0.1:61479)] User gportal has requested DirList
+2021-07-26 11:26:37,854 - __logger__ - INFO - [20412, (127.0.0.1:61479)] User gportal get the file: very_important.txt
+2021-07-26 11:26:37,964 - __logger__ - DEBUG - [7740, (127.0.0.1:61477)] Fin has been received!
+2021-07-26 11:26:37,966 - __logger__ - INFO - [20412, (127.0.0.1:61479)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:37,975 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61480)
+2021-07-26 11:26:38,205 - __logger__ - DEBUG - [18864, (127.0.0.1:61478)] Fin has been received!
+2021-07-26 11:26:38,229 - __logger__ - INFO - [18488, (127.0.0.1:61480)] Authentication success with user gportal!
+2021-07-26 11:26:38,255 - __logger__ - INFO - [18488, (127.0.0.1:61480)] User gportal has requested DirList
+2021-07-26 11:26:38,279 - __logger__ - INFO - [18488, (127.0.0.1:61480)] User gportal get the file: very_important.txt
+2021-07-26 11:26:38,300 - __logger__ - INFO - [18488, (127.0.0.1:61480)] User gportal get the file: 340.pdf
+2021-07-26 11:26:38,306 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61481)
+2021-07-26 11:26:38,428 - __logger__ - INFO - [24296, (127.0.0.1:61481)] Authentication success with user gportal!
+2021-07-26 11:26:38,428 - __logger__ - DEBUG - [20412, (127.0.0.1:61479)] Fin has been received!
+2021-07-26 11:26:38,459 - __logger__ - INFO - [24296, (127.0.0.1:61481)] User gportal has requested DirList
+2021-07-26 11:26:38,485 - __logger__ - INFO - [24296, (127.0.0.1:61481)] User gportal get the file: very_important.txt
+2021-07-26 11:26:38,522 - __logger__ - INFO - [24296, (127.0.0.1:61481)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:38,537 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61482)
+2021-07-26 11:26:38,604 - __logger__ - INFO - [15728, (127.0.0.1:61482)] Authentication success with user gportal!
+2021-07-26 11:26:38,783 - __logger__ - DEBUG - [18488, (127.0.0.1:61480)] Fin has been received!
+2021-07-26 11:26:38,784 - __logger__ - INFO - [15728, (127.0.0.1:61482)] User gportal has requested DirList
+2021-07-26 11:26:38,802 - __logger__ - INFO - [15728, (127.0.0.1:61482)] User gportal get the file: very_important.txt
+2021-07-26 11:26:38,831 - __logger__ - INFO - [15728, (127.0.0.1:61482)] User gportal get the file: 2254133.log
+2021-07-26 11:26:38,835 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61483)
+2021-07-26 11:26:39,014 - __logger__ - DEBUG - [24296, (127.0.0.1:61481)] Fin has been received!
+2021-07-26 11:26:39,014 - __logger__ - INFO - [7492, (127.0.0.1:61483)] Authentication success with user gportal!
+2021-07-26 11:26:39,052 - __logger__ - INFO - [7492, (127.0.0.1:61483)] User gportal has requested DirList
+2021-07-26 11:26:39,074 - __logger__ - INFO - [7492, (127.0.0.1:61483)] User gportal get the file: very_important.txt
+2021-07-26 11:26:39,116 - __logger__ - INFO - [7492, (127.0.0.1:61483)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:39,121 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61484)
+2021-07-26 11:26:39,274 - __logger__ - DEBUG - [15728, (127.0.0.1:61482)] Fin has been received!
+2021-07-26 11:26:39,291 - __logger__ - INFO - [14276, (127.0.0.1:61484)] Authentication success with user gportal!
+2021-07-26 11:26:39,320 - __logger__ - INFO - [14276, (127.0.0.1:61484)] User gportal has requested DirList
+2021-07-26 11:26:39,344 - __logger__ - INFO - [14276, (127.0.0.1:61484)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:39,382 - __logger__ - INFO - [14276, (127.0.0.1:61484)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:39,396 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61485)
+2021-07-26 11:26:39,509 - __logger__ - DEBUG - [7492, (127.0.0.1:61483)] Fin has been received!
+2021-07-26 11:26:39,532 - __logger__ - INFO - [22836, (127.0.0.1:61485)] Authentication success with user gportal!
+2021-07-26 11:26:39,566 - __logger__ - INFO - [22836, (127.0.0.1:61485)] User gportal has requested DirList
+2021-07-26 11:26:39,588 - __logger__ - INFO - [22836, (127.0.0.1:61485)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:39,610 - __logger__ - INFO - [22836, (127.0.0.1:61485)] User gportal get the file: 355.pdf
+2021-07-26 11:26:39,620 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61486)
+2021-07-26 11:26:39,640 - __logger__ - INFO - [24512, (127.0.0.1:61486)] Authentication success with user gportal!
+2021-07-26 11:26:39,745 - __logger__ - DEBUG - [14276, (127.0.0.1:61484)] Fin has been received!
+2021-07-26 11:26:39,746 - __logger__ - INFO - [24512, (127.0.0.1:61486)] User gportal has requested DirList
+2021-07-26 11:26:39,770 - __logger__ - INFO - [24512, (127.0.0.1:61486)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:39,803 - __logger__ - INFO - [24512, (127.0.0.1:61486)] User gportal get the file: 355.pdf
+2021-07-26 11:26:39,817 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61487)
+2021-07-26 11:26:39,866 - __logger__ - INFO - [17512, (127.0.0.1:61487)] Authentication success with user gportal!
+2021-07-26 11:26:39,885 - __logger__ - INFO - [17512, (127.0.0.1:61487)] User gportal has requested DirList
+2021-07-26 11:26:39,904 - __logger__ - INFO - [17512, (127.0.0.1:61487)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:40,041 - __logger__ - INFO - [17512, (127.0.0.1:61487)] User gportal get the file: 355.pdf
+2021-07-26 11:26:40,041 - __logger__ - DEBUG - [22836, (127.0.0.1:61485)] Fin has been received!
+2021-07-26 11:26:40,051 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61488)
+2021-07-26 11:26:40,163 - __logger__ - DEBUG - [24512, (127.0.0.1:61486)] Fin has been received!
+2021-07-26 11:26:40,176 - __logger__ - INFO - [700, (127.0.0.1:61488)] Authentication success with user gportal!
+2021-07-26 11:26:40,195 - __logger__ - INFO - [700, (127.0.0.1:61488)] User gportal has requested DirList
+2021-07-26 11:26:40,215 - __logger__ - INFO - [700, (127.0.0.1:61488)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:40,235 - __logger__ - INFO - [700, (127.0.0.1:61488)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:40,247 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61489)
+2021-07-26 11:26:40,433 - __logger__ - DEBUG - [17512, (127.0.0.1:61487)] Fin has been received!
+2021-07-26 11:26:40,433 - __logger__ - INFO - [20168, (127.0.0.1:61489)] Authentication success with user gportal!
+2021-07-26 11:26:40,456 - __logger__ - INFO - [20168, (127.0.0.1:61489)] User gportal has requested DirList
+2021-07-26 11:26:40,478 - __logger__ - INFO - [20168, (127.0.0.1:61489)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:40,499 - __logger__ - INFO - [20168, (127.0.0.1:61489)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:40,504 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61491)
+2021-07-26 11:26:40,613 - __logger__ - DEBUG - [700, (127.0.0.1:61488)] Fin has been received!
+2021-07-26 11:26:40,613 - __logger__ - INFO - [23512, (127.0.0.1:61491)] Authentication success with user gportal!
+2021-07-26 11:26:40,631 - __logger__ - INFO - [23512, (127.0.0.1:61491)] User gportal has requested DirList
+2021-07-26 11:26:40,649 - __logger__ - INFO - [23512, (127.0.0.1:61491)] User gportal get the file: very_important.txt
+2021-07-26 11:26:40,665 - __logger__ - INFO - [23512, (127.0.0.1:61491)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:40,678 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61492)
+2021-07-26 11:26:40,802 - __logger__ - DEBUG - [20168, (127.0.0.1:61489)] Fin has been received!
+2021-07-26 11:26:40,818 - __logger__ - INFO - [23148, (127.0.0.1:61492)] Authentication success with user gportal!
+2021-07-26 11:26:40,835 - __logger__ - INFO - [23148, (127.0.0.1:61492)] User gportal has requested DirList
+2021-07-26 11:26:40,852 - __logger__ - INFO - [23148, (127.0.0.1:61492)] User gportal get the file: very_important.txt
+2021-07-26 11:26:40,867 - __logger__ - INFO - [23148, (127.0.0.1:61492)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:40,955 - __logger__ - DEBUG - [23512, (127.0.0.1:61491)] Fin has been received!
+2021-07-26 11:26:40,971 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61493)
+2021-07-26 11:26:40,994 - __logger__ - INFO - [24456, (127.0.0.1:61493)] Authentication success with user gportal!
+2021-07-26 11:26:41,013 - __logger__ - INFO - [24456, (127.0.0.1:61493)] User gportal has requested DirList
+2021-07-26 11:26:41,031 - __logger__ - INFO - [24456, (127.0.0.1:61493)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:41,055 - __logger__ - INFO - [24456, (127.0.0.1:61493)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:41,295 - __logger__ - DEBUG - [23148, (127.0.0.1:61492)] Fin has been received!
+2021-07-26 11:26:41,428 - __logger__ - DEBUG - [24456, (127.0.0.1:61493)] Fin has been received!
+2021-07-26 11:26:41,429 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61494)
+2021-07-26 11:26:41,448 - __logger__ - INFO - [20524, (127.0.0.1:61494)] Authentication success with user gportal!
+2021-07-26 11:26:41,464 - __logger__ - INFO - [20524, (127.0.0.1:61494)] User gportal has requested DirList
+2021-07-26 11:26:41,481 - __logger__ - INFO - [20524, (127.0.0.1:61494)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:41,495 - __logger__ - INFO - [20524, (127.0.0.1:61494)] User gportal get the file: 341.pdf
+2021-07-26 11:26:41,501 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61495)
+2021-07-26 11:26:41,517 - __logger__ - INFO - [19212, (127.0.0.1:61495)] Authentication success with user gportal!
+2021-07-26 11:26:41,533 - __logger__ - INFO - [19212, (127.0.0.1:61495)] User gportal has requested DirList
+2021-07-26 11:26:41,551 - __logger__ - INFO - [19212, (127.0.0.1:61495)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:41,568 - __logger__ - INFO - [19212, (127.0.0.1:61495)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:41,572 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61496)
+2021-07-26 11:26:41,590 - __logger__ - INFO - [22124, (127.0.0.1:61496)] Authentication success with user gportal!
+2021-07-26 11:26:41,687 - __logger__ - DEBUG - [20524, (127.0.0.1:61494)] Fin has been received!
+2021-07-26 11:26:41,687 - __logger__ - INFO - [22124, (127.0.0.1:61496)] User gportal has requested DirList
+2021-07-26 11:26:41,821 - __logger__ - DEBUG - [19212, (127.0.0.1:61495)] Fin has been received!
+2021-07-26 11:26:41,822 - __logger__ - INFO - [22124, (127.0.0.1:61496)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:41,837 - __logger__ - INFO - [22124, (127.0.0.1:61496)] User gportal get the file: 340.pdf
+2021-07-26 11:26:41,843 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61497)
+2021-07-26 11:26:41,861 - __logger__ - INFO - [1644, (127.0.0.1:61497)] Authentication success with user gportal!
+2021-07-26 11:26:41,878 - __logger__ - INFO - [1644, (127.0.0.1:61497)] User gportal has requested DirList
+2021-07-26 11:26:41,897 - __logger__ - INFO - [1644, (127.0.0.1:61497)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:41,920 - __logger__ - INFO - [1644, (127.0.0.1:61497)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:41,925 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61498)
+2021-07-26 11:26:41,966 - __logger__ - INFO - [19276, (127.0.0.1:61498)] Authentication success with user gportal!
+2021-07-26 11:26:41,986 - __logger__ - INFO - [19276, (127.0.0.1:61498)] User gportal has requested DirList
+2021-07-26 11:26:42,086 - __logger__ - DEBUG - [22124, (127.0.0.1:61496)] Fin has been received!
+2021-07-26 11:26:42,087 - __logger__ - INFO - [19276, (127.0.0.1:61498)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:42,105 - __logger__ - INFO - [19276, (127.0.0.1:61498)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:42,195 - __logger__ - DEBUG - [1644, (127.0.0.1:61497)] Fin has been received!
+2021-07-26 11:26:42,195 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61499)
+2021-07-26 11:26:42,216 - __logger__ - INFO - [24152, (127.0.0.1:61499)] Authentication success with user gportal!
+2021-07-26 11:26:42,234 - __logger__ - INFO - [24152, (127.0.0.1:61499)] User gportal has requested DirList
+2021-07-26 11:26:42,254 - __logger__ - INFO - [24152, (127.0.0.1:61499)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:42,272 - __logger__ - INFO - [24152, (127.0.0.1:61499)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:42,279 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61500)
+2021-07-26 11:26:42,297 - __logger__ - INFO - [19396, (127.0.0.1:61500)] Authentication success with user gportal!
+2021-07-26 11:26:42,315 - __logger__ - INFO - [19396, (127.0.0.1:61500)] User gportal has requested DirList
+2021-07-26 11:26:42,336 - __logger__ - INFO - [19396, (127.0.0.1:61500)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:42,367 - __logger__ - INFO - [19396, (127.0.0.1:61500)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:42,372 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61501)
+2021-07-26 11:26:42,482 - __logger__ - DEBUG - [19276, (127.0.0.1:61498)] Fin has been received!
+2021-07-26 11:26:42,499 - __logger__ - INFO - [18540, (127.0.0.1:61501)] Authentication success with user gportal!
+2021-07-26 11:26:42,515 - __logger__ - INFO - [18540, (127.0.0.1:61501)] User gportal has requested DirList
+2021-07-26 11:26:42,537 - __logger__ - INFO - [18540, (127.0.0.1:61501)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:42,728 - __logger__ - INFO - [18540, (127.0.0.1:61501)] User gportal get the file: 340.pdf
+2021-07-26 11:26:42,729 - __logger__ - DEBUG - [24152, (127.0.0.1:61499)] Fin has been received!
+2021-07-26 11:26:42,729 - __logger__ - DEBUG - [19396, (127.0.0.1:61500)] Fin has been received!
+2021-07-26 11:26:42,738 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61502)
+2021-07-26 11:26:42,766 - __logger__ - INFO - [15104, (127.0.0.1:61502)] Authentication success with user gportal!
+2021-07-26 11:26:42,788 - __logger__ - INFO - [15104, (127.0.0.1:61502)] User gportal has requested DirList
+2021-07-26 11:26:42,808 - __logger__ - INFO - [15104, (127.0.0.1:61502)] User gportal get the file: very_important.txt
+2021-07-26 11:26:42,831 - __logger__ - INFO - [15104, (127.0.0.1:61502)] User gportal get the file: 42takziv2004.xlsx.001
+2021-07-26 11:26:42,836 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61503)
+2021-07-26 11:26:42,858 - __logger__ - INFO - [18316, (127.0.0.1:61503)] Authentication success with user gportal!
+2021-07-26 11:26:42,876 - __logger__ - INFO - [18316, (127.0.0.1:61503)] User gportal has requested DirList
+2021-07-26 11:26:42,897 - __logger__ - INFO - [18316, (127.0.0.1:61503)] User gportal get the file: very_important.txt
+2021-07-26 11:26:42,916 - __logger__ - INFO - [18316, (127.0.0.1:61503)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:42,921 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61512)
+2021-07-26 11:26:43,056 - __logger__ - DEBUG - [18540, (127.0.0.1:61501)] Fin has been received!
+2021-07-26 11:26:43,074 - __logger__ - INFO - [18124, (127.0.0.1:61512)] Authentication success with user gportal!
+2021-07-26 11:26:43,225 - __logger__ - DEBUG - [15104, (127.0.0.1:61502)] Fin has been received!
+2021-07-26 11:26:43,225 - __logger__ - DEBUG - [18316, (127.0.0.1:61503)] Fin has been received!
+2021-07-26 11:26:43,225 - __logger__ - INFO - [18124, (127.0.0.1:61512)] User gportal has requested DirList
+2021-07-26 11:26:43,242 - __logger__ - INFO - [18124, (127.0.0.1:61512)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:43,257 - __logger__ - INFO - [18124, (127.0.0.1:61512)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:43,260 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61513)
+2021-07-26 11:26:43,277 - __logger__ - INFO - [6808, (127.0.0.1:61513)] Authentication success with user gportal!
+2021-07-26 11:26:43,297 - __logger__ - INFO - [6808, (127.0.0.1:61513)] User gportal has requested DirList
+2021-07-26 11:26:43,319 - __logger__ - INFO - [6808, (127.0.0.1:61513)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:43,337 - __logger__ - INFO - [6808, (127.0.0.1:61513)] User gportal get the file: 2254133.log
+2021-07-26 11:26:43,342 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61514)
+2021-07-26 11:26:43,401 - __logger__ - INFO - [6304, (127.0.0.1:61514)] Authentication success with user gportal!
+2021-07-26 11:26:43,420 - __logger__ - INFO - [6304, (127.0.0.1:61514)] User gportal has requested DirList
+2021-07-26 11:26:43,439 - __logger__ - INFO - [6304, (127.0.0.1:61514)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:43,623 - __logger__ - DEBUG - [18124, (127.0.0.1:61512)] Fin has been received!
+2021-07-26 11:26:43,624 - __logger__ - DEBUG - [6808, (127.0.0.1:61513)] Fin has been received!
+2021-07-26 11:26:43,625 - __logger__ - INFO - [6304, (127.0.0.1:61514)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:43,638 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61515)
+2021-07-26 11:26:43,654 - __logger__ - INFO - [19060, (127.0.0.1:61515)] Authentication success with user gportal!
+2021-07-26 11:26:43,671 - __logger__ - INFO - [19060, (127.0.0.1:61515)] User gportal has requested DirList
+2021-07-26 11:26:43,692 - __logger__ - INFO - [19060, (127.0.0.1:61515)] User gportal get the file: very_important.txt
+2021-07-26 11:26:43,710 - __logger__ - INFO - [19060, (127.0.0.1:61515)] User gportal get the file: 340.pdf
+2021-07-26 11:26:43,716 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61516)
+2021-07-26 11:26:43,737 - __logger__ - INFO - [22756, (127.0.0.1:61516)] Authentication success with user gportal!
+2021-07-26 11:26:43,758 - __logger__ - INFO - [22756, (127.0.0.1:61516)] User gportal has requested DirList
+2021-07-26 11:26:43,780 - __logger__ - INFO - [22756, (127.0.0.1:61516)] User gportal get the file: very_important.txt
+2021-07-26 11:26:43,897 - __logger__ - DEBUG - [6304, (127.0.0.1:61514)] Fin has been received!
+2021-07-26 11:26:43,898 - __logger__ - INFO - [22756, (127.0.0.1:61516)] User gportal get the file: 340.pdf
+2021-07-26 11:26:43,906 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61517)
+2021-07-26 11:26:44,002 - __logger__ - DEBUG - [19060, (127.0.0.1:61515)] Fin has been received!
+2021-07-26 11:26:44,018 - __logger__ - INFO - [23928, (127.0.0.1:61517)] Authentication success with user gportal!
+2021-07-26 11:26:44,034 - __logger__ - INFO - [23928, (127.0.0.1:61517)] User gportal has requested DirList
+2021-07-26 11:26:44,055 - __logger__ - INFO - [23928, (127.0.0.1:61517)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:44,072 - __logger__ - INFO - [23928, (127.0.0.1:61517)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:44,078 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61518)
+2021-07-26 11:26:44,174 - __logger__ - DEBUG - [22756, (127.0.0.1:61516)] Fin has been received!
+2021-07-26 11:26:44,175 - __logger__ - INFO - [7708, (127.0.0.1:61518)] Authentication success with user gportal!
+2021-07-26 11:26:44,197 - __logger__ - INFO - [7708, (127.0.0.1:61518)] User gportal has requested DirList
+2021-07-26 11:26:44,220 - __logger__ - INFO - [7708, (127.0.0.1:61518)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:44,239 - __logger__ - INFO - [7708, (127.0.0.1:61518)] User gportal get the file: 356.pdf
+2021-07-26 11:26:44,247 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61519)
+2021-07-26 11:26:44,353 - __logger__ - DEBUG - [23928, (127.0.0.1:61517)] Fin has been received!
+2021-07-26 11:26:44,353 - __logger__ - INFO - [19884, (127.0.0.1:61519)] Authentication success with user gportal!
+2021-07-26 11:26:44,372 - __logger__ - INFO - [19884, (127.0.0.1:61519)] User gportal has requested DirList
+2021-07-26 11:26:44,391 - __logger__ - INFO - [19884, (127.0.0.1:61519)] User gportal get the file: very_important.txt
+2021-07-26 11:26:44,408 - __logger__ - INFO - [19884, (127.0.0.1:61519)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:44,499 - __logger__ - DEBUG - [7708, (127.0.0.1:61518)] Fin has been received!
+2021-07-26 11:26:44,499 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61520)
+2021-07-26 11:26:44,520 - __logger__ - INFO - [11076, (127.0.0.1:61520)] Authentication success with user gportal!
+2021-07-26 11:26:44,539 - __logger__ - INFO - [11076, (127.0.0.1:61520)] User gportal has requested DirList
+2021-07-26 11:26:44,560 - __logger__ - INFO - [11076, (127.0.0.1:61520)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:44,579 - __logger__ - INFO - [11076, (127.0.0.1:61520)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:44,593 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61521)
+2021-07-26 11:26:44,614 - __logger__ - INFO - [23616, (127.0.0.1:61521)] Authentication success with user gportal!
+2021-07-26 11:26:44,636 - __logger__ - INFO - [23616, (127.0.0.1:61521)] User gportal has requested DirList
+2021-07-26 11:26:44,656 - __logger__ - INFO - [23616, (127.0.0.1:61521)] User gportal get the file: very_important.txt
+2021-07-26 11:26:44,888 - __logger__ - DEBUG - [19884, (127.0.0.1:61519)] Fin has been received!
+2021-07-26 11:26:44,888 - __logger__ - DEBUG - [11076, (127.0.0.1:61520)] Fin has been received!
+2021-07-26 11:26:44,900 - __logger__ - INFO - [23616, (127.0.0.1:61521)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:45,142 - __logger__ - DEBUG - [23616, (127.0.0.1:61521)] Fin has been received!
+2021-07-26 11:26:45,142 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61522)
+2021-07-26 11:26:45,160 - __logger__ - INFO - [21840, (127.0.0.1:61522)] Authentication success with user gportal!
+2021-07-26 11:26:45,177 - __logger__ - INFO - [21840, (127.0.0.1:61522)] User gportal has requested DirList
+2021-07-26 11:26:45,197 - __logger__ - INFO - [21840, (127.0.0.1:61522)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:45,215 - __logger__ - INFO - [21840, (127.0.0.1:61522)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:45,229 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61523)
+2021-07-26 11:26:45,247 - __logger__ - INFO - [16528, (127.0.0.1:61523)] Authentication success with user gportal!
+2021-07-26 11:26:45,263 - __logger__ - INFO - [16528, (127.0.0.1:61523)] User gportal has requested DirList
+2021-07-26 11:26:45,283 - __logger__ - INFO - [16528, (127.0.0.1:61523)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:45,300 - __logger__ - INFO - [16528, (127.0.0.1:61523)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:45,312 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61524)
+2021-07-26 11:26:45,494 - __logger__ - INFO - [24180, (127.0.0.1:61524)] Authentication success with user gportal!
+2021-07-26 11:26:45,495 - __logger__ - DEBUG - [21840, (127.0.0.1:61522)] Fin has been received!
+2021-07-26 11:26:45,566 - __logger__ - INFO - [24180, (127.0.0.1:61524)] User gportal has requested DirList
+2021-07-26 11:26:45,672 - __logger__ - DEBUG - [16528, (127.0.0.1:61523)] Fin has been received!
+2021-07-26 11:26:45,691 - __logger__ - INFO - [24180, (127.0.0.1:61524)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:45,715 - __logger__ - INFO - [24180, (127.0.0.1:61524)] User gportal get the file: 355.pdf
+2021-07-26 11:26:45,724 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61525)
+2021-07-26 11:26:45,879 - __logger__ - INFO - [17480, (127.0.0.1:61525)] Authentication success with user gportal!
+2021-07-26 11:26:45,897 - __logger__ - INFO - [17480, (127.0.0.1:61525)] User gportal has requested DirList
+2021-07-26 11:26:45,968 - __logger__ - INFO - [17480, (127.0.0.1:61525)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:46,077 - __logger__ - INFO - [17480, (127.0.0.1:61525)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:46,084 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61526)
+2021-07-26 11:26:46,151 - __logger__ - INFO - [20896, (127.0.0.1:61526)] Authentication success with user gportal!
+2021-07-26 11:26:46,221 - __logger__ - INFO - [20896, (127.0.0.1:61526)] User gportal has requested DirList
+2021-07-26 11:26:46,242 - __logger__ - INFO - [20896, (127.0.0.1:61526)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:46,424 - __logger__ - DEBUG - [24180, (127.0.0.1:61524)] Fin has been received!
+2021-07-26 11:26:46,428 - __logger__ - INFO - [20896, (127.0.0.1:61526)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:46,450 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61527)
+2021-07-26 11:26:46,617 - __logger__ - DEBUG - [17480, (127.0.0.1:61525)] Fin has been received!
+2021-07-26 11:26:46,638 - __logger__ - INFO - [19864, (127.0.0.1:61527)] Authentication success with user gportal!
+2021-07-26 11:26:46,673 - __logger__ - INFO - [19864, (127.0.0.1:61527)] User gportal has requested DirList
+2021-07-26 11:26:46,695 - __logger__ - INFO - [19864, (127.0.0.1:61527)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:46,754 - __logger__ - INFO - [19864, (127.0.0.1:61527)] User gportal get the file: 356.pdf
+2021-07-26 11:26:46,763 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61528)
+2021-07-26 11:26:46,952 - __logger__ - DEBUG - [20896, (127.0.0.1:61526)] Fin has been received!
+2021-07-26 11:26:46,973 - __logger__ - INFO - [18156, (127.0.0.1:61528)] Authentication success with user gportal!
+2021-07-26 11:26:47,018 - __logger__ - INFO - [18156, (127.0.0.1:61528)] User gportal has requested DirList
+2021-07-26 11:26:47,039 - __logger__ - INFO - [18156, (127.0.0.1:61528)] User gportal get the file: very_important.txt
+2021-07-26 11:26:47,074 - __logger__ - INFO - [18156, (127.0.0.1:61528)] User gportal get the file: 355.pdf
+2021-07-26 11:26:47,288 - __logger__ - DEBUG - [19864, (127.0.0.1:61527)] Fin has been received!
+2021-07-26 11:26:47,439 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61537)
+2021-07-26 11:26:47,440 - __logger__ - DEBUG - [18156, (127.0.0.1:61528)] Fin has been received!
+2021-07-26 11:26:47,479 - __logger__ - INFO - [13024, (127.0.0.1:61537)] Authentication success with user gportal!
+2021-07-26 11:26:47,495 - __logger__ - INFO - [13024, (127.0.0.1:61537)] User gportal has requested DirList
+2021-07-26 11:26:47,516 - __logger__ - INFO - [13024, (127.0.0.1:61537)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:47,540 - __logger__ - INFO - [13024, (127.0.0.1:61537)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:47,545 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61538)
+2021-07-26 11:26:47,593 - __logger__ - INFO - [20748, (127.0.0.1:61538)] Authentication success with user gportal!
+2021-07-26 11:26:47,646 - __logger__ - INFO - [20748, (127.0.0.1:61538)] User gportal has requested DirList
+2021-07-26 11:26:47,665 - __logger__ - INFO - [20748, (127.0.0.1:61538)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:47,734 - __logger__ - INFO - [20748, (127.0.0.1:61538)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:47,753 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61539)
+2021-07-26 11:26:47,837 - __logger__ - INFO - [20132, (127.0.0.1:61539)] Authentication success with user gportal!
+2021-07-26 11:26:47,896 - __logger__ - INFO - [20132, (127.0.0.1:61539)] User gportal has requested DirList
+2021-07-26 11:26:47,919 - __logger__ - INFO - [20132, (127.0.0.1:61539)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:47,965 - __logger__ - INFO - [20132, (127.0.0.1:61539)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:48,102 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61541)
+2021-07-26 11:26:48,103 - __logger__ - DEBUG - [13024, (127.0.0.1:61537)] Fin has been received!
+2021-07-26 11:26:48,235 - __logger__ - DEBUG - [20748, (127.0.0.1:61538)] Fin has been received!
+2021-07-26 11:26:48,313 - __logger__ - DEBUG - [20132, (127.0.0.1:61539)] Fin has been received!
+2021-07-26 11:26:48,313 - __logger__ - INFO - [16052, (127.0.0.1:61541)] Authentication success with user gportal!
+2021-07-26 11:26:48,326 - __logger__ - INFO - [16052, (127.0.0.1:61541)] User gportal has requested DirList
+2021-07-26 11:26:48,342 - __logger__ - INFO - [16052, (127.0.0.1:61541)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:48,355 - __logger__ - INFO - [16052, (127.0.0.1:61541)] User gportal get the file: 341.pdf
+2021-07-26 11:26:48,361 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61543)
+2021-07-26 11:26:48,380 - __logger__ - INFO - [19564, (127.0.0.1:61543)] Authentication success with user gportal!
+2021-07-26 11:26:48,397 - __logger__ - INFO - [19564, (127.0.0.1:61543)] User gportal has requested DirList
+2021-07-26 11:26:48,415 - __logger__ - INFO - [19564, (127.0.0.1:61543)] User gportal get the file: very_important.txt
+2021-07-26 11:26:48,431 - __logger__ - INFO - [19564, (127.0.0.1:61543)] User gportal get the file: 340.pdf
+2021-07-26 11:26:48,437 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61544)
+2021-07-26 11:26:48,455 - __logger__ - INFO - [13020, (127.0.0.1:61544)] Authentication success with user gportal!
+2021-07-26 11:26:48,484 - __logger__ - INFO - [13020, (127.0.0.1:61544)] User gportal has requested DirList
+2021-07-26 11:26:48,506 - __logger__ - INFO - [13020, (127.0.0.1:61544)] User gportal get the file: very_important.txt
+2021-07-26 11:26:48,529 - __logger__ - INFO - [13020, (127.0.0.1:61544)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:48,536 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61545)
+2021-07-26 11:26:48,634 - __logger__ - DEBUG - [16052, (127.0.0.1:61541)] Fin has been received!
+2021-07-26 11:26:48,846 - __logger__ - DEBUG - [19564, (127.0.0.1:61543)] Fin has been received!
+2021-07-26 11:26:48,847 - __logger__ - INFO - [19832, (127.0.0.1:61545)] Authentication success with user gportal!
+2021-07-26 11:26:48,847 - __logger__ - DEBUG - [13020, (127.0.0.1:61544)] Fin has been received!
+2021-07-26 11:26:48,864 - __logger__ - INFO - [19832, (127.0.0.1:61545)] User gportal has requested DirList
+2021-07-26 11:26:48,879 - __logger__ - INFO - [19832, (127.0.0.1:61545)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:48,899 - __logger__ - INFO - [19832, (127.0.0.1:61545)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:48,912 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61546)
+2021-07-26 11:26:48,931 - __logger__ - INFO - [18552, (127.0.0.1:61546)] Authentication success with user gportal!
+2021-07-26 11:26:48,947 - __logger__ - INFO - [18552, (127.0.0.1:61546)] User gportal has requested DirList
+2021-07-26 11:26:48,964 - __logger__ - INFO - [18552, (127.0.0.1:61546)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:48,982 - __logger__ - INFO - [18552, (127.0.0.1:61546)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:48,989 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61547)
+2021-07-26 11:26:49,014 - __logger__ - INFO - [14592, (127.0.0.1:61547)] Authentication success with user gportal!
+2021-07-26 11:26:49,032 - __logger__ - INFO - [14592, (127.0.0.1:61547)] User gportal has requested DirList
+2021-07-26 11:26:49,052 - __logger__ - INFO - [14592, (127.0.0.1:61547)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:49,085 - __logger__ - INFO - [14592, (127.0.0.1:61547)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:49,174 - __logger__ - DEBUG - [19832, (127.0.0.1:61545)] Fin has been received!
+2021-07-26 11:26:49,274 - __logger__ - DEBUG - [18552, (127.0.0.1:61546)] Fin has been received!
+2021-07-26 11:26:49,520 - __logger__ - DEBUG - [14592, (127.0.0.1:61547)] Fin has been received!
+2021-07-26 11:26:49,520 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61548)
+2021-07-26 11:26:49,540 - __logger__ - INFO - [6208, (127.0.0.1:61548)] Authentication success with user gportal!
+2021-07-26 11:26:49,559 - __logger__ - INFO - [6208, (127.0.0.1:61548)] User gportal has requested DirList
+2021-07-26 11:26:49,580 - __logger__ - INFO - [6208, (127.0.0.1:61548)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:49,596 - __logger__ - INFO - [6208, (127.0.0.1:61548)] User gportal get the file: 2254133.log
+2021-07-26 11:26:49,600 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61549)
+2021-07-26 11:26:49,618 - __logger__ - INFO - [19840, (127.0.0.1:61549)] Authentication success with user gportal!
+2021-07-26 11:26:49,635 - __logger__ - INFO - [19840, (127.0.0.1:61549)] User gportal has requested DirList
+2021-07-26 11:26:49,653 - __logger__ - INFO - [19840, (127.0.0.1:61549)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:49,670 - __logger__ - INFO - [19840, (127.0.0.1:61549)] User gportal get the file: 356.pdf
+2021-07-26 11:26:49,677 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61550)
+2021-07-26 11:26:49,694 - __logger__ - INFO - [16056, (127.0.0.1:61550)] Authentication success with user gportal!
+2021-07-26 11:26:49,808 - __logger__ - DEBUG - [6208, (127.0.0.1:61548)] Fin has been received!
+2021-07-26 11:26:49,809 - __logger__ - INFO - [16056, (127.0.0.1:61550)] User gportal has requested DirList
+2021-07-26 11:26:49,836 - __logger__ - INFO - [16056, (127.0.0.1:61550)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:49,922 - __logger__ - DEBUG - [19840, (127.0.0.1:61549)] Fin has been received!
+2021-07-26 11:26:49,922 - __logger__ - INFO - [16056, (127.0.0.1:61550)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:49,928 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61551)
+2021-07-26 11:26:49,947 - __logger__ - INFO - [8116, (127.0.0.1:61551)] Authentication success with user gportal!
+2021-07-26 11:26:49,964 - __logger__ - INFO - [8116, (127.0.0.1:61551)] User gportal has requested DirList
+2021-07-26 11:26:49,984 - __logger__ - INFO - [8116, (127.0.0.1:61551)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:50,002 - __logger__ - INFO - [8116, (127.0.0.1:61551)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:26:50,014 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61552)
+2021-07-26 11:26:50,054 - __logger__ - INFO - [10460, (127.0.0.1:61552)] Authentication success with user gportal!
+2021-07-26 11:26:50,086 - __logger__ - INFO - [10460, (127.0.0.1:61552)] User gportal has requested DirList
+2021-07-26 11:26:50,108 - __logger__ - INFO - [10460, (127.0.0.1:61552)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:50,210 - __logger__ - DEBUG - [16056, (127.0.0.1:61550)] Fin has been received!
+2021-07-26 11:26:50,212 - __logger__ - INFO - [10460, (127.0.0.1:61552)] User gportal get the file: 355.pdf
+2021-07-26 11:26:50,220 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61553)
+2021-07-26 11:26:50,333 - __logger__ - DEBUG - [8116, (127.0.0.1:61551)] Fin has been received!
+2021-07-26 11:26:50,334 - __logger__ - INFO - [14876, (127.0.0.1:61553)] Authentication success with user gportal!
+2021-07-26 11:26:50,356 - __logger__ - INFO - [14876, (127.0.0.1:61553)] User gportal has requested DirList
+2021-07-26 11:26:50,380 - __logger__ - INFO - [14876, (127.0.0.1:61553)] User gportal get the file: very_important.txt
+2021-07-26 11:26:50,395 - __logger__ - INFO - [14876, (127.0.0.1:61553)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:50,400 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61554)
+2021-07-26 11:26:50,513 - __logger__ - DEBUG - [10460, (127.0.0.1:61552)] Fin has been received!
+2021-07-26 11:26:50,513 - __logger__ - INFO - [22808, (127.0.0.1:61554)] Authentication success with user gportal!
+2021-07-26 11:26:50,529 - __logger__ - INFO - [22808, (127.0.0.1:61554)] User gportal has requested DirList
+2021-07-26 11:26:50,549 - __logger__ - INFO - [22808, (127.0.0.1:61554)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:50,569 - __logger__ - INFO - [22808, (127.0.0.1:61554)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:50,681 - __logger__ - DEBUG - [14876, (127.0.0.1:61553)] Fin has been received!
+2021-07-26 11:26:50,681 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61563)
+2021-07-26 11:26:50,701 - __logger__ - INFO - [20552, (127.0.0.1:61563)] Authentication success with user gportal!
+2021-07-26 11:26:50,714 - __logger__ - INFO - [20552, (127.0.0.1:61563)] User gportal has requested DirList
+2021-07-26 11:26:50,739 - __logger__ - INFO - [20552, (127.0.0.1:61563)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:50,848 - __logger__ - DEBUG - [22808, (127.0.0.1:61554)] Fin has been received!
+2021-07-26 11:26:50,851 - __logger__ - INFO - [20552, (127.0.0.1:61563)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:50,868 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61564)
+2021-07-26 11:26:50,883 - __logger__ - INFO - [7532, (127.0.0.1:61564)] Authentication success with user gportal!
+2021-07-26 11:26:50,899 - __logger__ - INFO - [7532, (127.0.0.1:61564)] User gportal has requested DirList
+2021-07-26 11:26:50,918 - __logger__ - INFO - [7532, (127.0.0.1:61564)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:50,935 - __logger__ - INFO - [7532, (127.0.0.1:61564)] User gportal get the file: 2254133.log
+2021-07-26 11:26:50,939 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61565)
+2021-07-26 11:26:50,960 - __logger__ - INFO - [22612, (127.0.0.1:61565)] Authentication success with user gportal!
+2021-07-26 11:26:50,981 - __logger__ - INFO - [22612, (127.0.0.1:61565)] User gportal has requested DirList
+2021-07-26 11:26:51,002 - __logger__ - INFO - [22612, (127.0.0.1:61565)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:51,111 - __logger__ - DEBUG - [20552, (127.0.0.1:61563)] Fin has been received!
+2021-07-26 11:26:51,112 - __logger__ - INFO - [22612, (127.0.0.1:61565)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:26:51,120 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61566)
+2021-07-26 11:26:51,236 - __logger__ - INFO - [10436, (127.0.0.1:61566)] Authentication success with user gportal!
+2021-07-26 11:26:51,236 - __logger__ - DEBUG - [7532, (127.0.0.1:61564)] Fin has been received!
+2021-07-26 11:26:51,257 - __logger__ - INFO - [10436, (127.0.0.1:61566)] User gportal has requested DirList
+2021-07-26 11:26:51,280 - __logger__ - INFO - [10436, (127.0.0.1:61566)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:51,295 - __logger__ - INFO - [10436, (127.0.0.1:61566)] User gportal get the file: 340.pdf
+2021-07-26 11:26:51,382 - __logger__ - DEBUG - [22612, (127.0.0.1:61565)] Fin has been received!
+2021-07-26 11:26:51,382 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61567)
+2021-07-26 11:26:51,405 - __logger__ - INFO - [10124, (127.0.0.1:61567)] Authentication success with user gportal!
+2021-07-26 11:26:51,423 - __logger__ - INFO - [10124, (127.0.0.1:61567)] User gportal has requested DirList
+2021-07-26 11:26:51,445 - __logger__ - INFO - [10124, (127.0.0.1:61567)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:51,544 - __logger__ - DEBUG - [10436, (127.0.0.1:61566)] Fin has been received!
+2021-07-26 11:26:51,546 - __logger__ - INFO - [10124, (127.0.0.1:61567)] User gportal get the file: 356.pdf
+2021-07-26 11:26:51,554 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61568)
+2021-07-26 11:26:51,571 - __logger__ - INFO - [11388, (127.0.0.1:61568)] Authentication success with user gportal!
+2021-07-26 11:26:51,586 - __logger__ - INFO - [11388, (127.0.0.1:61568)] User gportal has requested DirList
+2021-07-26 11:26:51,602 - __logger__ - INFO - [11388, (127.0.0.1:61568)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:51,619 - __logger__ - INFO - [11388, (127.0.0.1:61568)] User gportal get the file: 355.pdf
+2021-07-26 11:26:51,628 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61569)
+2021-07-26 11:26:51,652 - __logger__ - INFO - [12724, (127.0.0.1:61569)] Authentication success with user gportal!
+2021-07-26 11:26:51,672 - __logger__ - INFO - [12724, (127.0.0.1:61569)] User gportal has requested DirList
+2021-07-26 11:26:51,696 - __logger__ - INFO - [12724, (127.0.0.1:61569)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:51,811 - __logger__ - DEBUG - [10124, (127.0.0.1:61567)] Fin has been received!
+2021-07-26 11:26:51,813 - __logger__ - INFO - [12724, (127.0.0.1:61569)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:51,896 - __logger__ - DEBUG - [11388, (127.0.0.1:61568)] Fin has been received!
+2021-07-26 11:26:51,908 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61570)
+2021-07-26 11:26:51,937 - __logger__ - INFO - [11064, (127.0.0.1:61570)] Authentication success with user gportal!
+2021-07-26 11:26:51,955 - __logger__ - INFO - [11064, (127.0.0.1:61570)] User gportal has requested DirList
+2021-07-26 11:26:51,977 - __logger__ - INFO - [11064, (127.0.0.1:61570)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:51,997 - __logger__ - INFO - [11064, (127.0.0.1:61570)] User gportal get the file: 2254133.log
+2021-07-26 11:26:52,001 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61571)
+2021-07-26 11:26:52,018 - __logger__ - INFO - [13604, (127.0.0.1:61571)] Authentication success with user gportal!
+2021-07-26 11:26:52,035 - __logger__ - INFO - [13604, (127.0.0.1:61571)] User gportal has requested DirList
+2021-07-26 11:26:52,055 - __logger__ - INFO - [13604, (127.0.0.1:61571)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:52,075 - __logger__ - INFO - [13604, (127.0.0.1:61571)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:52,087 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61572)
+2021-07-26 11:26:52,114 - __logger__ - INFO - [6676, (127.0.0.1:61572)] Authentication success with user gportal!
+2021-07-26 11:26:52,315 - __logger__ - DEBUG - [12724, (127.0.0.1:61569)] Fin has been received!
+2021-07-26 11:26:52,377 - __logger__ - DEBUG - [11064, (127.0.0.1:61570)] Fin has been received!
+2021-07-26 11:26:52,378 - __logger__ - DEBUG - [13604, (127.0.0.1:61571)] Fin has been received!
+2021-07-26 11:26:52,378 - __logger__ - INFO - [6676, (127.0.0.1:61572)] User gportal has requested DirList
+2021-07-26 11:26:52,396 - __logger__ - INFO - [6676, (127.0.0.1:61572)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:52,408 - __logger__ - INFO - [6676, (127.0.0.1:61572)] User gportal get the file: 355.pdf
+2021-07-26 11:26:52,414 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61573)
+2021-07-26 11:26:52,430 - __logger__ - INFO - [8404, (127.0.0.1:61573)] Authentication success with user gportal!
+2021-07-26 11:26:52,447 - __logger__ - INFO - [8404, (127.0.0.1:61573)] User gportal has requested DirList
+2021-07-26 11:26:52,464 - __logger__ - INFO - [8404, (127.0.0.1:61573)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:52,479 - __logger__ - INFO - [8404, (127.0.0.1:61573)] User gportal get the file: 355.pdf
+2021-07-26 11:26:52,486 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61574)
+2021-07-26 11:26:52,502 - __logger__ - INFO - [23016, (127.0.0.1:61574)] Authentication success with user gportal!
+2021-07-26 11:26:52,579 - __logger__ - DEBUG - [6676, (127.0.0.1:61572)] Fin has been received!
+2021-07-26 11:26:52,580 - __logger__ - INFO - [23016, (127.0.0.1:61574)] User gportal has requested DirList
+2021-07-26 11:26:52,699 - __logger__ - DEBUG - [8404, (127.0.0.1:61573)] Fin has been received!
+2021-07-26 11:26:52,700 - __logger__ - INFO - [23016, (127.0.0.1:61574)] User gportal get the file: very_important.txt
+2021-07-26 11:26:52,732 - __logger__ - INFO - [23016, (127.0.0.1:61574)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:53,017 - __logger__ - DEBUG - [23016, (127.0.0.1:61574)] Fin has been received!
+2021-07-26 11:26:53,017 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61575)
+2021-07-26 11:26:53,041 - __logger__ - INFO - [10348, (127.0.0.1:61575)] Authentication success with user gportal!
+2021-07-26 11:26:53,105 - __logger__ - INFO - [10348, (127.0.0.1:61575)] User gportal has requested DirList
+2021-07-26 11:26:53,125 - __logger__ - INFO - [10348, (127.0.0.1:61575)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:53,185 - __logger__ - INFO - [10348, (127.0.0.1:61575)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:53,701 - __logger__ - DEBUG - [10348, (127.0.0.1:61575)] Fin has been received!
+2021-07-26 11:26:53,701 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61576)
+2021-07-26 11:26:53,794 - __logger__ - INFO - [21156, (127.0.0.1:61576)] Authentication success with user gportal!
+2021-07-26 11:26:53,860 - __logger__ - INFO - [21156, (127.0.0.1:61576)] User gportal has requested DirList
+2021-07-26 11:26:53,883 - __logger__ - INFO - [21156, (127.0.0.1:61576)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:53,919 - __logger__ - INFO - [21156, (127.0.0.1:61576)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:53,981 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61577)
+2021-07-26 11:26:54,079 - __logger__ - INFO - [2524, (127.0.0.1:61577)] Authentication success with user gportal!
+2021-07-26 11:26:54,107 - __logger__ - INFO - [2524, (127.0.0.1:61577)] User gportal has requested DirList
+2021-07-26 11:26:54,130 - __logger__ - INFO - [2524, (127.0.0.1:61577)] User gportal get the file: very_important.txt
+2021-07-26 11:26:54,174 - __logger__ - INFO - [2524, (127.0.0.1:61577)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:54,187 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61578)
+2021-07-26 11:26:54,227 - __logger__ - INFO - [6324, (127.0.0.1:61578)] Authentication success with user gportal!
+2021-07-26 11:26:54,248 - __logger__ - INFO - [6324, (127.0.0.1:61578)] User gportal has requested DirList
+2021-07-26 11:26:54,388 - __logger__ - INFO - [6324, (127.0.0.1:61578)] User gportal get the file: very_important.txt
+2021-07-26 11:26:54,389 - __logger__ - DEBUG - [21156, (127.0.0.1:61576)] Fin has been received!
+2021-07-26 11:26:54,432 - __logger__ - INFO - [6324, (127.0.0.1:61578)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:54,445 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61579)
+2021-07-26 11:26:54,487 - __logger__ - INFO - [24256, (127.0.0.1:61579)] Authentication success with user gportal!
+2021-07-26 11:26:54,507 - __logger__ - INFO - [24256, (127.0.0.1:61579)] User gportal has requested DirList
+2021-07-26 11:26:54,594 - __logger__ - DEBUG - [2524, (127.0.0.1:61577)] Fin has been received!
+2021-07-26 11:26:54,625 - __logger__ - INFO - [24256, (127.0.0.1:61579)] User gportal get the file: very_important.txt
+2021-07-26 11:26:54,689 - __logger__ - INFO - [24256, (127.0.0.1:61579)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:54,698 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61580)
+2021-07-26 11:26:54,933 - __logger__ - DEBUG - [6324, (127.0.0.1:61578)] Fin has been received!
+2021-07-26 11:26:54,933 - __logger__ - INFO - [19756, (127.0.0.1:61580)] Authentication success with user gportal!
+2021-07-26 11:26:54,994 - __logger__ - INFO - [19756, (127.0.0.1:61580)] User gportal has requested DirList
+2021-07-26 11:26:55,022 - __logger__ - INFO - [19756, (127.0.0.1:61580)] User gportal get the file: very_important.txt
+2021-07-26 11:26:55,042 - __logger__ - INFO - [19756, (127.0.0.1:61580)] User gportal get the file: SecretCrazyRoomSouth.zip
+2021-07-26 11:26:55,053 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61581)
+2021-07-26 11:26:55,167 - __logger__ - DEBUG - [24256, (127.0.0.1:61579)] Fin has been received!
+2021-07-26 11:26:55,185 - __logger__ - INFO - [19028, (127.0.0.1:61581)] Authentication success with user gportal!
+2021-07-26 11:26:55,214 - __logger__ - INFO - [19028, (127.0.0.1:61581)] User gportal has requested DirList
+2021-07-26 11:26:55,237 - __logger__ - INFO - [19028, (127.0.0.1:61581)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:55,266 - __logger__ - INFO - [19028, (127.0.0.1:61581)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:55,272 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61582)
+2021-07-26 11:26:55,316 - __logger__ - INFO - [10032, (127.0.0.1:61582)] Authentication success with user gportal!
+2021-07-26 11:26:55,420 - __logger__ - INFO - [10032, (127.0.0.1:61582)] User gportal has requested DirList
+2021-07-26 11:26:55,420 - __logger__ - DEBUG - [19756, (127.0.0.1:61580)] Fin has been received!
+2021-07-26 11:26:55,448 - __logger__ - INFO - [10032, (127.0.0.1:61582)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:55,496 - __logger__ - INFO - [10032, (127.0.0.1:61582)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:55,596 - __logger__ - DEBUG - [19028, (127.0.0.1:61581)] Fin has been received!
+2021-07-26 11:26:55,721 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61584)
+2021-07-26 11:26:55,753 - __logger__ - INFO - [9188, (127.0.0.1:61584)] Authentication success with user gportal!
+2021-07-26 11:26:55,773 - __logger__ - INFO - [9188, (127.0.0.1:61584)] User gportal has requested DirList
+2021-07-26 11:26:55,794 - __logger__ - INFO - [9188, (127.0.0.1:61584)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:55,814 - __logger__ - INFO - [9188, (127.0.0.1:61584)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:26:55,827 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61585)
+2021-07-26 11:26:55,849 - __logger__ - INFO - [12168, (127.0.0.1:61585)] Authentication success with user gportal!
+2021-07-26 11:26:55,871 - __logger__ - INFO - [12168, (127.0.0.1:61585)] User gportal has requested DirList
+2021-07-26 11:26:56,016 - __logger__ - DEBUG - [10032, (127.0.0.1:61582)] Fin has been received!
+2021-07-26 11:26:56,017 - __logger__ - INFO - [12168, (127.0.0.1:61585)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:56,039 - __logger__ - INFO - [12168, (127.0.0.1:61585)] User gportal get the file: hoze.pdf
+2021-07-26 11:26:56,046 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61586)
+2021-07-26 11:26:56,085 - __logger__ - INFO - [21228, (127.0.0.1:61586)] Authentication success with user gportal!
+2021-07-26 11:26:56,219 - __logger__ - DEBUG - [9188, (127.0.0.1:61584)] Fin has been received!
+2021-07-26 11:26:56,220 - __logger__ - INFO - [21228, (127.0.0.1:61586)] User gportal has requested DirList
+2021-07-26 11:26:56,245 - __logger__ - INFO - [21228, (127.0.0.1:61586)] User gportal get the file: TOPSECRET.txt
+2021-07-26 11:26:56,269 - __logger__ - INFO - [21228, (127.0.0.1:61586)] User gportal get the file: 2254133.log
+2021-07-26 11:26:56,273 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61587)
+2021-07-26 11:26:56,452 - __logger__ - DEBUG - [12168, (127.0.0.1:61585)] Fin has been received!
+2021-07-26 11:26:56,471 - __logger__ - INFO - [20336, (127.0.0.1:61587)] Authentication success with user gportal!
+2021-07-26 11:26:56,489 - __logger__ - INFO - [20336, (127.0.0.1:61587)] User gportal has requested DirList
+2021-07-26 11:26:56,508 - __logger__ - INFO - [20336, (127.0.0.1:61587)] User gportal get the file: very_important.txt
+2021-07-26 11:26:56,529 - __logger__ - INFO - [20336, (127.0.0.1:61587)] User gportal get the file: 355.pdf
+2021-07-26 11:26:56,537 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61588)
+2021-07-26 11:26:56,630 - __logger__ - DEBUG - [21228, (127.0.0.1:61586)] Fin has been received!
+2021-07-26 11:26:56,646 - __logger__ - INFO - [13500, (127.0.0.1:61588)] Authentication success with user gportal!
+2021-07-26 11:26:56,662 - __logger__ - INFO - [13500, (127.0.0.1:61588)] User gportal has requested DirList
+2021-07-26 11:26:56,683 - __logger__ - INFO - [13500, (127.0.0.1:61588)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:26:56,700 - __logger__ - INFO - [13500, (127.0.0.1:61588)] User gportal get the file: 356.pdf
+2021-07-26 11:26:56,708 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61590)
+2021-07-26 11:26:56,823 - __logger__ - DEBUG - [20336, (127.0.0.1:61587)] Fin has been received!
+2021-07-26 11:26:56,841 - __logger__ - INFO - [12392, (127.0.0.1:61590)] Authentication success with user gportal!
+2021-07-26 11:26:56,858 - __logger__ - INFO - [12392, (127.0.0.1:61590)] User gportal has requested DirList
+2021-07-26 11:26:56,879 - __logger__ - INFO - [12392, (127.0.0.1:61590)] User gportal get the file: very_important.txt
+2021-07-26 11:26:56,897 - __logger__ - INFO - [12392, (127.0.0.1:61590)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:56,903 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61591)
+2021-07-26 11:26:57,058 - __logger__ - DEBUG - [13500, (127.0.0.1:61588)] Fin has been received!
+2021-07-26 11:26:57,073 - __logger__ - INFO - [6572, (127.0.0.1:61591)] Authentication success with user gportal!
+2021-07-26 11:26:57,091 - __logger__ - INFO - [6572, (127.0.0.1:61591)] User gportal has requested DirList
+2021-07-26 11:26:57,110 - __logger__ - INFO - [6572, (127.0.0.1:61591)] User gportal get the file: very_important.txt
+2021-07-26 11:26:57,235 - __logger__ - INFO - [6572, (127.0.0.1:61591)] User gportal get the file: presentation.pptx
+2021-07-26 11:26:57,235 - __logger__ - DEBUG - [12392, (127.0.0.1:61590)] Fin has been received!
+2021-07-26 11:26:57,506 - __logger__ - DEBUG - [6572, (127.0.0.1:61591)] Fin has been received!
+2021-07-26 11:26:57,506 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61592)
+2021-07-26 11:26:57,523 - __logger__ - INFO - [23852, (127.0.0.1:61592)] Authentication success with user gportal!
+2021-07-26 11:26:57,538 - __logger__ - INFO - [23852, (127.0.0.1:61592)] User gportal has requested DirList
+2021-07-26 11:26:57,556 - __logger__ - INFO - [23852, (127.0.0.1:61592)] User gportal get the file: very_important.txt
+2021-07-26 11:26:57,572 - __logger__ - INFO - [23852, (127.0.0.1:61592)] User gportal get the file: 356.pdf
+2021-07-26 11:26:57,580 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61593)
+2021-07-26 11:26:57,599 - __logger__ - INFO - [13480, (127.0.0.1:61593)] Authentication success with user gportal!
+2021-07-26 11:26:57,617 - __logger__ - INFO - [13480, (127.0.0.1:61593)] User gportal has requested DirList
+2021-07-26 11:26:57,636 - __logger__ - INFO - [13480, (127.0.0.1:61593)] User gportal get the file: very_important.txt
+2021-07-26 11:26:57,654 - __logger__ - INFO - [13480, (127.0.0.1:61593)] User gportal get the file: 2254133.log
+2021-07-26 11:26:57,658 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61594)
+2021-07-26 11:26:57,676 - __logger__ - INFO - [20140, (127.0.0.1:61594)] Authentication success with user gportal!
+2021-07-26 11:26:57,692 - __logger__ - INFO - [20140, (127.0.0.1:61594)] User gportal has requested DirList
+2021-07-26 11:26:57,892 - __logger__ - DEBUG - [23852, (127.0.0.1:61592)] Fin has been received!
+2021-07-26 11:26:57,892 - __logger__ - DEBUG - [13480, (127.0.0.1:61593)] Fin has been received!
+2021-07-26 11:26:57,893 - __logger__ - INFO - [20140, (127.0.0.1:61594)] User gportal get the file: very_important.txt
+2021-07-26 11:26:57,911 - __logger__ - INFO - [20140, (127.0.0.1:61594)] User gportal get the file: 42takziv2004.xlsx.002
+2021-07-26 11:26:58,067 - __logger__ - DEBUG - [20140, (127.0.0.1:61594)] Fin has been received!
+2021-07-26 11:32:16,111 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63290)
+2021-07-26 11:32:16,144 - __logger__ - INFO - [5952, (127.0.0.1:63290)] Authentication success with user gportal!
+2021-07-26 11:32:16,191 - __logger__ - INFO - [5952, (127.0.0.1:63290)] User gportal has requested DirList
+2021-07-26 11:32:16,210 - __logger__ - INFO - [5952, (127.0.0.1:63290)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-26 11:32:16,232 - __logger__ - INFO - [5952, (127.0.0.1:63290)] User gportal get the file: 355.pdf
+2021-07-26 11:32:16,580 - __logger__ - INFO - [5952, (127.0.0.1:63290)] User gportal has requested DirList
+2021-07-26 11:32:16,612 - __logger__ - INFO - [5952, (127.0.0.1:63290)] User gportal get the file: very_important.txt
+2021-07-26 11:32:16,631 - __logger__ - INFO - [5952, (127.0.0.1:63290)] User gportal get the file: 42takziv2004.xlsx.003
+2021-07-26 11:32:17,032 - __logger__ - DEBUG - [5952, (127.0.0.1:63290)] Fin has been received!

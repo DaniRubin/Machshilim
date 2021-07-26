@@ -11,3 +11,12 @@
 2021-07-26 10:37:01,519 - __logger__ - INFO - [17716, (127.0.0.1:61329)] Authentication success with user gportal!
 2021-07-26 10:37:11,517 - __logger__ - INFO - [17716, (127.0.0.1:61329)] User gportal get the file: TOPSECRET.txt
 2021-07-26 10:38:37,340 - __logger__ - DEBUG - [17716, (127.0.0.1:61329)] Unknown error while receiving a packet!
+2021-07-26 10:40:15,551 - __logger__ - INFO - Got connection from: ('127.0.0.1', 60309)
+2021-07-26 10:40:18,296 - __logger__ - INFO - [18884, (127.0.0.1:60309)] Authentication success with user gportal!
+2021-07-26 10:40:47,743 - __logger__ - INFO - [18884, (127.0.0.1:60309)] User gportal get the file: hoze.pdf
+2021-07-26 10:49:18,514 - __logger__ - INFO - [18884, (127.0.0.1:60309)] User gportal get the file: hoze.pdf
+2021-07-26 10:49:28,179 - __logger__ - DEBUG - [18884, (127.0.0.1:60309)] Unknown error while receiving a packet!
+2021-07-26 10:50:04,181 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56904)
+2021-07-26 10:50:07,400 - __logger__ - INFO - [1340, (127.0.0.1:56904)] Authentication success with user gportal!
+2021-07-26 10:50:08,377 - __logger__ - INFO - [1340, (127.0.0.1:56904)] User gportal has requested DirList
+2021-07-26 10:50:16,012 - __logger__ - INFO - [1340, (127.0.0.1:56904)] User gportal get the file: hoze.pdf

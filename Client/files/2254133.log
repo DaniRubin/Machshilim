@@ -1,0 +1,17 @@
+﻿#Software: Microsoft Internet Information Services 2.0
+#Version: 1.0
+#Date: 2014-09-04 09:20:34
+#Fields: date time cs-username s-computername s-content
+2014-09-04 08:20:10 yweb SMTPSVC1 EXCHANGE1 EHLO - +yweb 250 0 325 13 60 SMTP
+2014-09-04 08:27:24 yweb SMTPSVC1 EXCHANGE1 +FROM:<gportal258@gmail.com> 250 0 46 33 20 SMTP
+2014-09-04 08:27:24 yweb SMTPSVC1 EXCHANGE1 +TO:<aviad.kas.1337@gmail.com, Batel1987batel@gmail.com> 250 0 31 28 10 SMTP -האם כל הלוגים של התכתבויות התוכנית מוצפנים, כמו שדיברנו?
+2014-09-04 08:28:57 yweb SMTPSVC1 EXCHANGE1 +<YWEBWgtc2S6AATi0000b0ae@yweb> 250 0 76 101761 831 SMTP
+2014-09-04 08:42:13 yweb SMTPSVC1 EXCHANGE1 +FROM:<aviad.kas.1337@gmail.com> 250 0 46 33 20 SMTP
+2014-09-04 08:43:10 yweb SMTPSVC1 EXCHANGE1 +TO:<gportal258@gmail.com, Batel1987batel@gmail.com> 250 0 31 28 10 SMTP -בוודאי!! הכל מוצפן לפי טבלאות אסקי ויוניקוד, אין לך מה לדאוג...
+2014-09-04 08:50:45 yweb SMTPSVC1 EXCHANGE1 +<YWEBWgtc2S6AATi0000b0ae@yweb> 250 0 76 101761 831 SMTP2014-09-04 08:20:11 yweb SMTPSVC1 EXCHANGE1 yweb 240 1512 69 4 0 SMTP
+2014-09-04 08:42:13 yweb SMTPSVC1 EXCHANGE1 +FROM:<wall151978@gmail.com> 250 0 46 33 20 SMTP
+2014-09-04 08:43:10 yweb SMTPSVC1 EXCHANGE1 +TO:<group:allMachshilim> 250 0 31 28 10 SMTP - שימו לב, קראתי באינטרנט על מתקפת באג 2000, נא לוודא שכל המחשבים שלכם מכוונים על 1999, עדיף על 1998... ליתר ביטחון
+2014-09-04 08:42:13 yweb SMTPSVC1 EXCHANGE1 +FROM:<haomrix00x@gmail.com> 250 0 46 33 20 SMTP
+2014-09-04 08:43:10 yweb SMTPSVC1 EXCHANGE1 +TO:<Batel1987batel@gmail.com> 250 0 31 28 10 SMTP היי בת-אל! שימי לב שבקורס רשתות את מלמדת את מודל שתי השכבות אחרי שהחניכים לומדים אינטג'רים ועושים קצת פעולות עם מספרים בקורס תכנות, שלא יתבלבלו...
+2014-09-04 08:42:13 yweb SMTPSVC1 EXCHANGE1 +FROM:<aviad.kas.1337@gmail.com> 250 0 46 33 20 SMTP
+2014-09-04 08:43:10 yweb SMTPSVC1 EXCHANGE1 +TO:<Risenshine.yuval@gmail.com> 250 0 31 28 10 SMTP - בהמשך לשיחתנו על בסיס הקסא-דצימאלי ובסיס בינארי, הצלחתי למצוא את הידיעה על בסיסים נוספים, שלא מגלים לנו עליהם... אני מכין על זה משהו לחניכים. בינתיים תבדוק את הקישור על זה: http://www.jdn.co.il/news/tag/%D7%91%D7%A1%D7%99%D7%A1-%D7%A6%D7%91%D7%90%D7%99-%D7%A1%D7%95%D7%93%D7%99

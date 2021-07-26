@@ -1,0 +1,60 @@
+2021-07-26 11:09:05,682 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-26 11:09:05,683 - __logger__ - INFO - Enters the main loop
+2021-07-26 11:09:08,654 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49237)
+2021-07-26 11:09:15,383 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63598)
+2021-07-26 11:09:15,400 - __logger__ - INFO - [15328, (127.0.0.1:63598)] Authentication success with user gportal!
+2021-07-26 11:09:15,419 - __logger__ - INFO - [15328, (127.0.0.1:63598)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:09:15,766 - __logger__ - DEBUG - [15328, (127.0.0.1:63598)] Unknown error while receiving a packet!
+2021-07-26 11:09:40,897 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63602)
+2021-07-26 11:09:40,913 - __logger__ - INFO - [23528, (127.0.0.1:63602)] Authentication success with user gportal!
+2021-07-26 11:09:40,927 - __logger__ - INFO - [23528, (127.0.0.1:63602)] User gportal get the file: 2254133.log
+2021-07-26 11:09:41,055 - __logger__ - DEBUG - [23528, (127.0.0.1:63602)] Unknown error while receiving a packet!
+2021-07-26 11:09:53,426 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63604)
+2021-07-26 11:09:53,461 - __logger__ - INFO - [9276, (127.0.0.1:63604)] Authentication success with user gportal!
+2021-07-26 11:09:53,481 - __logger__ - INFO - [9276, (127.0.0.1:63604)] User gportal has requested DirList
+2021-07-26 11:09:53,502 - __logger__ - INFO - [9276, (127.0.0.1:63604)] User gportal get the file: very_important.txt
+2021-07-26 11:09:53,864 - __logger__ - DEBUG - [9276, (127.0.0.1:63604)] Fin has been received!
+2021-07-26 11:10:26,311 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63610)
+2021-07-26 11:10:26,330 - __logger__ - INFO - [4544, (127.0.0.1:63610)] Authentication success with user gportal!
+2021-07-26 11:10:26,342 - __logger__ - INFO - [4544, (127.0.0.1:63610)] User gportal has requested DirList
+2021-07-26 11:10:26,357 - __logger__ - INFO - [4544, (127.0.0.1:63610)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-26 11:10:26,483 - __logger__ - DEBUG - [4544, (127.0.0.1:63610)] Unknown error while receiving a packet!
+2021-07-26 11:13:09,843 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56954)
+2021-07-26 11:13:09,874 - __logger__ - INFO - [16276, (127.0.0.1:56954)] Authentication success with user gportal!
+2021-07-26 11:13:09,922 - __logger__ - INFO - [16276, (127.0.0.1:56954)] User gportal has requested DirList
+2021-07-26 11:13:10,175 - __logger__ - DEBUG - [16276, (127.0.0.1:56954)] Fin has been received!
+2021-07-26 11:13:25,058 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56957)
+2021-07-26 11:13:25,077 - __logger__ - INFO - [20740, (127.0.0.1:56957)] Authentication success with user gportal!
+2021-07-26 11:13:25,092 - __logger__ - INFO - [20740, (127.0.0.1:56957)] User gportal has requested DirList
+2021-07-26 11:13:25,111 - __logger__ - INFO - [20740, (127.0.0.1:56957)] User gportal get the file: very_important.txt
+2021-07-26 11:13:25,130 - __logger__ - INFO - [20740, (127.0.0.1:56957)] User gportal get the file: 341.pdf
+2021-07-26 11:13:25,281 - __logger__ - DEBUG - [20740, (127.0.0.1:56957)] Fin has been received!
+2021-07-26 11:13:35,399 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56958)
+2021-07-26 11:13:35,421 - __logger__ - INFO - [1616, (127.0.0.1:56958)] Authentication success with user gportal!
+2021-07-26 11:13:35,437 - __logger__ - INFO - [1616, (127.0.0.1:56958)] User gportal has requested DirList
+2021-07-26 11:13:35,455 - __logger__ - INFO - [1616, (127.0.0.1:56958)] User gportal get the file: very_important.txt
+2021-07-26 11:13:35,472 - __logger__ - INFO - [1616, (127.0.0.1:56958)] User gportal get the file: 340.pdf
+2021-07-26 11:13:35,666 - __logger__ - DEBUG - [1616, (127.0.0.1:56958)] Fin has been received!
+2021-07-26 11:13:39,081 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56959)
+2021-07-26 11:13:39,102 - __logger__ - INFO - [12856, (127.0.0.1:56959)] Authentication success with user gportal!
+2021-07-26 11:13:39,119 - __logger__ - INFO - [12856, (127.0.0.1:56959)] User gportal has requested DirList
+2021-07-26 11:13:39,139 - __logger__ - INFO - [12856, (127.0.0.1:56959)] User gportal get the file: very_important.txt
+2021-07-26 11:13:39,164 - __logger__ - INFO - [12856, (127.0.0.1:56959)] User gportal get the file: presentation.pptx
+2021-07-26 11:13:39,595 - __logger__ - DEBUG - [12856, (127.0.0.1:56959)] Fin has been received!
+2021-07-26 11:13:40,150 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56960)
+2021-07-26 11:13:40,179 - __logger__ - INFO - [4824, (127.0.0.1:56960)] Authentication success with user gportal!
+2021-07-26 11:13:40,196 - __logger__ - INFO - [4824, (127.0.0.1:56960)] User gportal has requested DirList
+2021-07-26 11:13:40,243 - __logger__ - INFO - [4824, (127.0.0.1:56960)] User gportal get the file: very_important.txt
+2021-07-26 11:13:40,266 - __logger__ - INFO - [4824, (127.0.0.1:56960)] User gportal get the file: SecretCrazyRoomCenter.zip
+2021-07-26 11:13:40,849 - __logger__ - DEBUG - [4824, (127.0.0.1:56960)] Fin has been received!
+2021-07-26 11:13:41,630 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56961)
+2021-07-26 11:13:42,008 - __logger__ - INFO - [8356, (127.0.0.1:56961)] Authentication success with user gportal!
+2021-07-26 11:13:42,058 - __logger__ - INFO - [8356, (127.0.0.1:56961)] User gportal has requested DirList
+2021-07-26 11:13:42,078 - __logger__ - INFO - [8356, (127.0.0.1:56961)] User gportal get the file: very_important.txt
+2021-07-26 11:13:42,134 - __logger__ - INFO - [8356, (127.0.0.1:56961)] User gportal get the file: presentation.pptx
+2021-07-26 11:13:42,663 - __logger__ - DEBUG - [8356, (127.0.0.1:56961)] Fin has been received!
+2021-07-26 11:13:43,696 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56962)
+2021-07-26 11:13:43,718 - __logger__ - INFO - [12904, (127.0.0.1:56962)] Authentication success with user gportal!
+2021-07-26 11:13:43,754 - __logger__ - INFO - [12904, (127.0.0.1:56962)] User gportal has requested DirList
+2021-07-26 11:13:43,774 - __logger__ - INFO - [12904, (127.0.0.1:56962)] User gportal get the file: 2254133.log
+2021-07-26 11:13:44,090 - __logger__ - DEBUG - [12904, (127.0.0.1:56962)] Unknown error while receiving a packet!
