@@ -1,0 +1,117 @@
+2016-04-03 17:29:40,999 - __logger__ - DEBUG - The server's logger has been initialized!
+2016-04-03 17:29:41,000 - __logger__ - INFO - Enters the main loop
+2016-04-03 17:29:53,410 - __logger__ - INFO - Got connection from: ('79.179.97.99', 51769)
+2016-04-03 17:30:01,023 - __logger__ - INFO - [139705642784512, (79.179.97.99:51769)] Authentication success with user gportal!
+2016-04-03 17:30:04,575 - __logger__ - INFO - [139705642784512, (79.179.97.99:51769)] User gportal has requested DirList
+2016-04-03 17:30:44,525 - __logger__ - INFO - [139705642784512, (79.179.97.99:51769)] User gportal get the file: second.png
+2016-04-03 17:31:43,292 - __logger__ - INFO - Got connection from: ('79.179.97.99', 51842)
+2016-04-03 17:31:46,403 - __logger__ - INFO - [139705642784512, (79.179.97.99:51842)] Authentication success with user gportal!
+2016-04-03 17:31:49,530 - __logger__ - INFO - [139705642784512, (79.179.97.99:51842)] User gportal has requested DirList
+2016-04-03 17:31:54,944 - __logger__ - INFO - [139705642784512, (79.179.97.99:51842)] User gportal get the file: second.png
+2016-04-03 17:32:11,185 - __logger__ - INFO - Got connection from: ('79.179.97.99', 51846)
+2016-04-03 17:32:14,606 - __logger__ - INFO - [139705642784512, (79.179.97.99:51846)] Authentication success with user gportal!
+2016-04-03 17:32:15,540 - __logger__ - INFO - [139705642784512, (79.179.97.99:51846)] User gportal has requested DirList
+2016-04-03 17:32:19,543 - __logger__ - INFO - [139705642784512, (79.179.97.99:51846)] User gportal get the file: second.png
+2016-04-03 17:32:43,973 - __logger__ - INFO - Got connection from: ('79.179.97.99', 51850)
+2016-04-03 17:32:50,913 - __logger__ - INFO - [139705642784512, (79.179.97.99:51850)] Authentication success with user gportal!
+2016-04-03 17:32:51,655 - __logger__ - INFO - [139705642784512, (79.179.97.99:51850)] User gportal has requested DirList
+2016-04-03 17:32:53,310 - __logger__ - INFO - [139705642784512, (79.179.97.99:51850)] User gportal get the file: second.png
+2016-04-03 22:14:16,491 - __logger__ - INFO - Got connection from: ('79.179.97.99', 60469)
+2016-04-03 22:14:38,127 - __logger__ - INFO - [139705634391808, (79.179.97.99:60469)] Authentication success with user giggs!
+2016-04-03 22:15:35,274 - __logger__ - INFO - Got connection from: ('79.179.97.99', 60498)
+2016-04-03 22:15:37,603 - __logger__ - INFO - [139705634391808, (79.179.97.99:60498)] Authentication success with user giggs!
+2016-04-03 22:16:40,153 - __logger__ - INFO - Got connection from: ('79.179.97.99', 60514)
+2016-04-03 22:16:41,953 - __logger__ - INFO - [139705634391808, (79.179.97.99:60514)] Authentication success with user giggs!
+2016-04-03 22:18:13,594 - __logger__ - INFO - Got connection from: ('79.179.97.99', 60551)
+2016-04-03 22:18:14,693 - __logger__ - INFO - [139705634391808, (79.179.97.99:60551)] Authentication success with user giggs!
+2016-04-03 22:19:41,673 - __logger__ - INFO - Got connection from: ('79.179.97.99', 60585)
+2016-04-03 22:19:42,357 - __logger__ - INFO - [139705634391808, (79.179.97.99:60585)] Authentication success with user giggs!
+2016-04-03 22:20:17,470 - __logger__ - INFO - Got connection from: ('79.179.97.99', 60607)
+2016-04-03 22:20:31,377 - __logger__ - INFO - [139705634391808, (79.179.97.99:60607)] Authentication success with user giggs!
+2016-04-03 22:23:28,930 - __logger__ - INFO - Got connection from: ('79.179.97.99', 60893)
+2016-04-03 22:23:29,558 - __logger__ - INFO - [139705634391808, (79.179.97.99:60893)] Authentication success with user giggs!
+2016-04-03 22:23:31,780 - __logger__ - INFO - [139705634391808, (79.179.97.99:60893)] User giggs has requested DirList
+2016-04-03 22:23:45,745 - __logger__ - INFO - [139705634391808, (79.179.97.99:60893)] User giggs get the file: gportal_password.txt
+2016-04-03 22:25:11,884 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61064)
+2016-04-03 22:25:12,725 - __logger__ - INFO - [139705634391808, (79.179.97.99:61064)] Authentication success with user giggs!
+2016-04-03 22:25:14,025 - __logger__ - INFO - [139705634391808, (79.179.97.99:61064)] User giggs has requested DirList
+2016-04-03 22:25:16,318 - __logger__ - INFO - [139705634391808, (79.179.97.99:61064)] User giggs get the file: gportal_password.txt
+2016-04-03 22:25:58,901 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61144)
+2016-04-03 22:25:59,490 - __logger__ - INFO - [139705634391808, (79.179.97.99:61144)] Authentication success with user giggs!
+2016-04-03 22:26:00,285 - __logger__ - INFO - [139705634391808, (79.179.97.99:61144)] User giggs has requested DirList
+2016-04-03 22:26:03,314 - __logger__ - INFO - [139705634391808, (79.179.97.99:61144)] User giggs get the file: gportal_password.txt
+2016-04-03 22:26:21,372 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61173)
+2016-04-03 22:26:21,988 - __logger__ - INFO - [139705634391808, (79.179.97.99:61173)] Authentication success with user giggs!
+2016-04-03 22:26:22,704 - __logger__ - INFO - [139705634391808, (79.179.97.99:61173)] User giggs has requested DirList
+2016-04-03 22:26:24,173 - __logger__ - INFO - [139705634391808, (79.179.97.99:61173)] User giggs get the file: gportal_password.txt
+2016-04-03 22:27:12,727 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61218)
+2016-04-03 22:27:13,225 - __logger__ - INFO - [139705634391808, (79.179.97.99:61218)] Authentication success with user giggs!
+2016-04-03 22:27:14,187 - __logger__ - INFO - [139705634391808, (79.179.97.99:61218)] User giggs has requested DirList
+2016-04-03 22:27:16,145 - __logger__ - INFO - [139705634391808, (79.179.97.99:61218)] User giggs get the file: gportal_password.txt
+2016-04-03 22:28:21,067 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61293)
+2016-04-03 22:28:22,964 - __logger__ - INFO - [139705634391808, (79.179.97.99:61293)] Authentication success with user giggs!
+2016-04-03 22:28:24,304 - __logger__ - INFO - [139705634391808, (79.179.97.99:61293)] User giggs has requested DirList
+2016-04-03 22:28:25,447 - __logger__ - INFO - [139705634391808, (79.179.97.99:61293)] User giggs get the file: gportal_password.txt
+2016-04-03 22:28:38,290 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61317)
+2016-04-03 22:28:38,863 - __logger__ - INFO - [139705634391808, (79.179.97.99:61317)] Authentication success with user giggs!
+2016-04-03 22:28:39,714 - __logger__ - INFO - [139705634391808, (79.179.97.99:61317)] User giggs has requested DirList
+2016-04-03 22:28:40,542 - __logger__ - INFO - [139705634391808, (79.179.97.99:61317)] User giggs get the file: gportal_password.txt
+2016-04-03 22:28:41,355 - __logger__ - WARNING - [139705634391808, (79.179.97.99:61317)] Packet with non-existing request code: 401 has been received!
+2016-04-03 22:30:01,004 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61418)
+2016-04-03 22:30:05,772 - __logger__ - INFO - [139705634391808, (79.179.97.99:61418)] Authentication success with user gportal!
+2016-04-03 22:30:14,325 - __logger__ - INFO - [139705634391808, (79.179.97.99:61418)] User gportal has requested DirList
+2016-04-03 22:30:30,968 - __logger__ - INFO - [139705634391808, (79.179.97.99:61418)] User gportal get the file: second.png
+2016-04-03 22:30:56,410 - __logger__ - INFO - [139705634391808, (79.179.97.99:61418)] User gportal has logged out
+2016-04-03 22:39:32,950 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61843)
+2016-04-03 22:43:08,175 - __logger__ - INFO - Got connection from: ('79.179.97.99', 61917)
+2016-04-04 21:47:04,196 - __logger__ - INFO - Got connection from: ('61.216.2.14', 41694)
+2016-04-04 21:47:06,188 - __logger__ - DEBUG - [139705018476288, (61.216.2.14:41694)] Packet with less data than possible minimal has received!
+2016-04-05 15:45:42,836 - __logger__ - INFO - Got connection from: ('79.183.57.205', 56853)
+2016-04-05 15:47:06,495 - __logger__ - INFO - Got connection from: ('79.183.57.205', 56871)
+2016-04-05 15:48:20,054 - __logger__ - INFO - Got connection from: ('79.183.57.205', 56878)
+2016-04-05 15:51:13,014 - __logger__ - INFO - Got connection from: ('79.183.57.205', 56885)
+2016-04-05 15:51:51,979 - __logger__ - INFO - [139705010083584, (79.183.57.205:56885)] Authentication success with user gportal!
+2016-04-05 15:52:17,770 - __logger__ - INFO - [139705010083584, (79.183.57.205:56885)] User gportal has logged out
+2016-04-05 17:26:16,551 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57707)
+2016-04-05 17:27:24,018 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57714)
+2016-04-05 17:27:24,018 - __logger__ - INFO - [139705010083584, (79.183.57.205:57714)] Authentication success with user giggs!
+2016-04-05 17:27:50,358 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57719)
+2016-04-05 17:27:50,360 - __logger__ - INFO - [139705010083584, (79.183.57.205:57719)] Authentication success with user giggs!
+2016-04-05 17:28:36,427 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57723)
+2016-04-05 17:28:36,429 - __logger__ - INFO - [139705010083584, (79.183.57.205:57723)] Authentication success with user giggs!
+2016-04-05 17:29:04,721 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57725)
+2016-04-05 17:29:04,721 - __logger__ - INFO - [139705010083584, (79.183.57.205:57725)] Authentication success with user giggs!
+2016-04-05 17:29:33,683 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57729)
+2016-04-05 17:29:33,684 - __logger__ - INFO - [139705010083584, (79.183.57.205:57729)] Authentication success with user giggs!
+2016-04-05 17:32:02,272 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57739)
+2016-04-05 17:32:02,273 - __logger__ - INFO - [139705010083584, (79.183.57.205:57739)] Authentication success with user giggs!
+2016-04-05 17:32:34,503 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57745)
+2016-04-05 17:32:34,504 - __logger__ - INFO - [139705010083584, (79.183.57.205:57745)] Authentication success with user giggs!
+2016-04-05 17:32:40,041 - __logger__ - INFO - [139705010083584, (79.183.57.205:57745)] User giggs has requested DirList
+2016-04-05 17:32:56,992 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57748)
+2016-04-05 17:32:56,993 - __logger__ - INFO - [139705010083584, (79.183.57.205:57748)] Authentication success with user giggs!
+2016-04-05 17:32:59,889 - __logger__ - INFO - [139705010083584, (79.183.57.205:57748)] User giggs has requested DirList
+2016-04-05 17:33:15,697 - __logger__ - INFO - [139705010083584, (79.183.57.205:57748)] User giggs get the file: gportal_password.txt
+2016-04-05 17:33:36,202 - __logger__ - WARNING - [139705010083584, (79.183.57.205:57748)] User giggs tried to get non-existing file: gportal_password.tx
+2016-04-05 17:35:59,505 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57757)
+2016-04-05 17:35:59,506 - __logger__ - INFO - [139705010083584, (79.183.57.205:57757)] Authentication success with user giggs!
+2016-04-05 17:36:01,218 - __logger__ - INFO - [139705010083584, (79.183.57.205:57757)] User giggs has requested DirList
+2016-04-05 17:36:34,657 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57759)
+2016-04-05 17:36:34,659 - __logger__ - INFO - [139705010083584, (79.183.57.205:57759)] Authentication success with user giggs!
+2016-04-05 17:36:37,215 - __logger__ - INFO - [139705010083584, (79.183.57.205:57759)] User giggs has requested DirList
+2016-04-05 17:36:41,775 - __logger__ - WARNING - [139705010083584, (79.183.57.205:57759)] User giggs tried to get non-existing file: gportal_password.tx
+2016-04-05 17:37:45,759 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57764)
+2016-04-05 17:37:45,760 - __logger__ - INFO - [139705010083584, (79.183.57.205:57764)] Authentication success with user giggs!
+2016-04-05 17:37:47,493 - __logger__ - INFO - [139705010083584, (79.183.57.205:57764)] User giggs has requested DirList
+2016-04-05 17:37:50,222 - __logger__ - WARNING - [139705010083584, (79.183.57.205:57764)] User giggs tried to get non-existing file: gportal_password.tx
+2016-04-05 17:37:57,546 - __logger__ - INFO - [139705010083584, (79.183.57.205:57764)] User giggs has logged out
+2016-04-05 17:38:05,249 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57766)
+2016-04-05 17:38:05,250 - __logger__ - INFO - [139705010083584, (79.183.57.205:57766)] Authentication success with user giggs!
+2016-04-05 17:38:06,455 - __logger__ - INFO - [139705010083584, (79.183.57.205:57766)] User giggs has requested DirList
+2016-04-05 17:38:34,453 - __logger__ - INFO - [139705010083584, (79.183.57.205:57766)] User giggs get the file: gportal_password.txt
+2016-04-05 17:38:41,897 - __logger__ - INFO - [139705010083584, (79.183.57.205:57766)] User giggs has logged out
+2016-04-05 17:40:11,326 - __logger__ - INFO - Got connection from: ('79.183.57.205', 57776)
+2016-04-05 17:40:11,328 - __logger__ - INFO - [139705010083584, (79.183.57.205:57776)] Authentication success with user gportal!
+2016-04-05 17:40:13,435 - __logger__ - INFO - [139705010083584, (79.183.57.205:57776)] User gportal has requested DirList
+2016-04-05 17:40:31,253 - __logger__ - INFO - [139705010083584, (79.183.57.205:57776)] User gportal get the file: first.png
+2016-04-05 17:41:42,973 - __logger__ - INFO - [139705010083584, (79.183.57.205:57776)] User gportal has logged out

@@ -1,0 +1,4 @@
+2021-07-23 22:50:12,425 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 22:50:12,428 - __logger__ - INFO - Enters the main loop
+2021-07-23 22:50:31,638 - __logger__ - INFO - Got connection from: ('127.0.0.1', 50181)
+2021-07-23 22:50:35,807 - __logger__ - INFO - [19544, (127.0.0.1:50181)] Authentication success with user giggs!

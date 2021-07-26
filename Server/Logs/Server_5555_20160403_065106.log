@@ -1,0 +1,93 @@
+2016-04-03 06:51:06,491 - __logger__ - DEBUG - The server's logger has been initialized!
+2016-04-03 06:51:06,492 - __logger__ - INFO - Enters the main loop
+2016-04-03 06:52:40,086 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34253)
+2016-04-03 06:52:40,087 - __logger__ - DEBUG - [140170415511296, (109.65.30.82:34253)] Packet with less data than possible minimal has received!
+2016-04-03 07:15:57,854 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34365)
+2016-04-03 07:17:17,267 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34368)
+2016-04-03 07:18:23,716 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34371)
+2016-04-03 07:19:14,468 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34382)
+2016-04-03 07:19:44,999 - __logger__ - DEBUG - [140170415511296, (109.65.30.82:34382)] Packet with invalid json structure has been received!
+2016-04-03 07:20:20,451 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34387)
+2016-04-03 07:20:43,446 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34388)
+2016-04-03 07:20:50,097 - __logger__ - DEBUG - [140170415511296, (109.65.30.82:34388)] Packet with invalid json structure has been received!
+2016-04-03 07:21:23,977 - __logger__ - DEBUG - [140170415511296, (109.65.30.82:34388)] Packet with invalid json structure has been received!
+2016-04-03 07:27:25,126 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34402)
+2016-04-03 07:28:19,403 - __logger__ - INFO - Got connection from: ('109.65.30.82', 34403)
+2016-04-03 07:28:27,572 - __logger__ - INFO - [140170415511296, (109.65.30.82:34403)] Authentication success with user giggs!
+2016-04-03 07:39:19,568 - __logger__ - INFO - Got connection from: ('113.240.250.156', 35537)
+2016-04-03 07:39:25,574 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:35537)] Packet with less data than possible minimal has received!
+2016-04-03 07:39:30,801 - __logger__ - INFO - Got connection from: ('113.240.250.156', 56830)
+2016-04-03 07:39:30,802 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:56830)] Packet with less data than possible minimal has received!
+2016-04-03 07:39:36,019 - __logger__ - INFO - Got connection from: ('113.240.250.156', 50696)
+2016-04-03 07:39:36,020 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:50696)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:39:41,251 - __logger__ - INFO - Got connection from: ('113.240.250.156', 7768)
+2016-04-03 07:39:41,252 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:7768)] Packet with less data than possible minimal has received!
+2016-04-03 07:39:46,494 - __logger__ - INFO - Got connection from: ('113.240.250.156', 62421)
+2016-04-03 07:39:46,496 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:62421)] Packet with less data than possible minimal has received!
+2016-04-03 07:39:51,726 - __logger__ - INFO - Got connection from: ('113.240.250.156', 12797)
+2016-04-03 07:39:51,728 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:12797)] Packet with less data than possible minimal has received!
+2016-04-03 07:39:56,935 - __logger__ - INFO - Got connection from: ('113.240.250.156', 26486)
+2016-04-03 07:39:56,935 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:26486)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:40:03,571 - __logger__ - INFO - Got connection from: ('113.240.250.156', 41470)
+2016-04-03 07:40:03,572 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:41470)] Packet with less data than possible minimal has received!
+2016-04-03 07:40:08,582 - __logger__ - INFO - Got connection from: ('113.240.250.156', 38800)
+2016-04-03 07:40:08,584 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:38800)] Packet with less data than possible minimal has received!
+2016-04-03 07:40:19,736 - __logger__ - INFO - Got connection from: ('113.240.250.156', 4713)
+2016-04-03 07:40:19,737 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:4713)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:40:25,146 - __logger__ - INFO - Got connection from: ('113.240.250.156', 35752)
+2016-04-03 07:40:25,147 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:35752)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:40:30,160 - __logger__ - INFO - Got connection from: ('113.240.250.156', 29567)
+2016-04-03 07:40:30,161 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:29567)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:40:35,388 - __logger__ - INFO - Got connection from: ('113.240.250.156', 37815)
+2016-04-03 07:40:35,390 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:37815)] Packet with less data than possible minimal has received!
+2016-04-03 07:40:40,636 - __logger__ - INFO - Got connection from: ('113.240.250.156', 5326)
+2016-04-03 07:40:40,638 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:5326)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:40:46,848 - __logger__ - INFO - Got connection from: ('113.240.250.156', 10397)
+2016-04-03 07:40:46,849 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:10397)] Packet with less data than possible minimal has received!
+2016-04-03 07:40:52,493 - __logger__ - INFO - Got connection from: ('113.240.250.156', 12115)
+2016-04-03 07:40:52,494 - __logger__ - DEBUG - [140170398725888, (113.240.250.156:12115)] Packet with less data than possible minimal has received!
+2016-04-03 07:40:57,504 - __logger__ - INFO - Got connection from: ('113.240.250.156', 45381)
+2016-04-03 07:40:57,507 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:45381)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:41:05,663 - __logger__ - INFO - Got connection from: ('113.240.250.156', 7048)
+2016-04-03 07:41:09,160 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:7048)] Packet with less data than possible minimal has received!
+2016-04-03 07:41:10,697 - __logger__ - INFO - Got connection from: ('113.240.250.156', 45534)
+2016-04-03 07:41:10,699 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:45534)] Packet with less data than possible minimal has received!
+2016-04-03 07:41:16,370 - __logger__ - INFO - Got connection from: ('113.240.250.156', 16454)
+2016-04-03 07:41:16,371 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:16454)] Packet with less data than possible minimal has received!
+2016-04-03 07:41:21,389 - __logger__ - INFO - Got connection from: ('113.240.250.156', 19348)
+2016-04-03 07:41:21,391 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:19348)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:41:26,599 - __logger__ - INFO - Got connection from: ('113.240.250.156', 57079)
+2016-04-03 07:41:26,601 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:57079)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:41:31,819 - __logger__ - INFO - Got connection from: ('113.240.250.156', 5743)
+2016-04-03 07:41:31,821 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:5743)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:41:37,031 - __logger__ - INFO - Got connection from: ('113.240.250.156', 64233)
+2016-04-03 07:41:37,031 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:64233)] Packet with less data than possible minimal has received!
+2016-04-03 07:41:43,663 - __logger__ - INFO - Got connection from: ('113.240.250.156', 11037)
+2016-04-03 07:41:43,664 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:11037)] Packet with less data than possible minimal has received!
+2016-04-03 07:41:49,048 - __logger__ - INFO - Got connection from: ('113.240.250.156', 24308)
+2016-04-03 07:41:49,049 - __logger__ - DEBUG - [140170407118592, (113.240.250.156:24308)] Packet with invalid prefix or suffix has been received!
+2016-04-03 07:50:56,991 - __logger__ - INFO - Got connection from: ('109.65.30.82', 35095)
+2016-04-03 07:51:02,715 - __logger__ - INFO - [140170415511296, (109.65.30.82:35095)] Authentication success with user giggs!
+2016-04-03 07:51:06,531 - __logger__ - INFO - [140170415511296, (109.65.30.82:35095)] User giggs has requested DirList
+2016-04-03 07:56:01,413 - __logger__ - INFO - Got connection from: ('109.65.30.82', 35098)
+2016-04-03 07:56:06,927 - __logger__ - INFO - [140170415511296, (109.65.30.82:35098)] Authentication success with user giggs!
+2016-04-03 07:56:14,199 - __logger__ - INFO - [140170415511296, (109.65.30.82:35098)] User giggs has requested DirList
+2016-04-03 07:56:38,833 - __logger__ - INFO - Got connection from: ('109.65.30.82', 35101)
+2016-04-03 07:56:43,466 - __logger__ - INFO - [140170415511296, (109.65.30.82:35101)] Authentication success with user giggs!
+2016-04-03 07:56:49,346 - __logger__ - INFO - [140170415511296, (109.65.30.82:35101)] User giggs has requested DirList
+2016-04-03 07:57:11,851 - __logger__ - INFO - [140170415511296, (109.65.30.82:35101)] User giggs get the file: gportal_password.txt
+2016-04-03 07:57:38,349 - __logger__ - INFO - Got connection from: ('109.65.30.82', 35118)
+2016-04-03 07:57:44,553 - __logger__ - INFO - [140170415511296, (109.65.30.82:35118)] Authentication success with user giggs!
+2016-04-03 07:57:53,209 - __logger__ - INFO - [140170415511296, (109.65.30.82:35118)] User giggs has requested DirList
+2016-04-03 07:58:44,873 - __logger__ - INFO - [140170415511296, (109.65.30.82:35118)] User giggs get the file: gportal_password.txt
+2016-04-03 07:59:39,093 - __logger__ - INFO - Got connection from: ('109.65.30.82', 35119)
+2016-04-03 07:59:45,565 - __logger__ - INFO - [140170415511296, (109.65.30.82:35119)] Authentication success with user giggs!
+2016-04-03 07:59:48,213 - __logger__ - INFO - [140170415511296, (109.65.30.82:35119)] User giggs has requested DirList
+2016-04-03 08:00:00,461 - __logger__ - INFO - [140170415511296, (109.65.30.82:35119)] User giggs get the file: gportal_password.txt
+2016-04-03 08:00:34,462 - __logger__ - INFO - Got connection from: ('109.65.30.82', 35120)
+2016-04-03 08:00:40,630 - __logger__ - INFO - [140170415511296, (109.65.30.82:35120)] Authentication success with user giggs!
+2016-04-03 08:01:05,998 - __logger__ - INFO - [140170415511296, (109.65.30.82:35120)] User giggs get the file: gportal_password.txt
+2016-04-03 08:10:44,251 - __logger__ - INFO - Got connection from: ('109.65.30.82', 35272)
+2016-04-03 08:10:51,135 - __logger__ - INFO - [140170415511296, (109.65.30.82:35272)] Authentication success with user giggs!
+2016-04-03 08:10:54,223 - __logger__ - INFO - [140170415511296, (109.65.30.82:35272)] User giggs has requested DirList
+2016-04-03 08:11:11,551 - __logger__ - INFO - [140170415511296, (109.65.30.82:35272)] User giggs get the file: gportal_password.txt

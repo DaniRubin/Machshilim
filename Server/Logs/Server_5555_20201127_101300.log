@@ -1,0 +1,169 @@
+2020-11-27 10:13:00,320 - __logger__ - DEBUG - The server's logger has been initialized!
+2020-11-27 10:13:00,327 - __logger__ - INFO - Enters the main loop
+2020-11-27 10:13:39,652 - __logger__ - INFO - Got connection from: ('77.137.154.152', 1351)
+2020-11-27 10:14:03,657 - __logger__ - INFO - Got connection from: ('77.137.154.152', 1146)
+2020-11-27 10:15:56,198 - __logger__ - INFO - Got connection from: ('77.137.154.152', 1310)
+2020-11-27 10:18:13,893 - __logger__ - INFO - Got connection from: ('141.226.195.30', 60863)
+2020-11-27 10:18:13,893 - __logger__ - DEBUG - [140680408766208, (141.226.195.30:60863)] Packet with less data than possible minimal has received!
+2020-11-27 10:18:20,648 - __logger__ - DEBUG - [140680408766208, (141.226.195.30:60863)] Packet with less data than possible minimal has received!
+2020-11-27 10:18:51,160 - __logger__ - DEBUG - [140680408766208, (141.226.195.30:60863)] Packet with less data than possible minimal has received!
+2020-11-27 10:18:51,288 - __logger__ - DEBUG - [140680408766208, (141.226.195.30:60863)] Packet with less data than possible minimal has received!
+2020-11-27 10:20:14,258 - __logger__ - INFO - Got connection from: ('141.226.195.30', 60869)
+2020-11-27 10:20:14,259 - __logger__ - DEBUG - [140680408766208, (141.226.195.30:60869)] Packet with less data than possible minimal has received!
+2020-11-27 11:10:31,678 - __logger__ - INFO - Got connection from: ('80.82.68.29', 40618)
+2020-11-27 11:10:31,679 - __logger__ - DEBUG - [140680408766208, (80.82.68.29:40618)] Packet with invalid prefix or suffix has been received!
+2020-11-27 11:10:31,826 - __logger__ - DEBUG - [140680408766208, (80.82.68.29:40618)] Packet with invalid prefix or suffix has been received!
+2020-11-27 11:22:03,658 - __logger__ - INFO - Got connection from: ('24.98.198.90', 33107)
+2020-11-27 12:30:05,446 - __logger__ - INFO - Got connection from: ('45.148.10.28', 38882)
+2020-11-27 12:30:05,446 - __logger__ - DEBUG - [140680408766208, (45.148.10.28:38882)] Packet with invalid prefix or suffix has been received!
+2020-11-27 12:30:05,604 - __logger__ - DEBUG - [140680408766208, (45.148.10.28:38882)] Packet with invalid prefix or suffix has been received!
+2020-11-27 12:31:35,637 - __logger__ - INFO - Got connection from: ('223.74.69.176', 31993)
+2020-11-27 12:44:41,573 - __logger__ - INFO - Got connection from: ('80.82.68.29', 33172)
+2020-11-27 12:44:41,573 - __logger__ - DEBUG - [140680408766208, (80.82.68.29:33172)] Packet with invalid prefix or suffix has been received!
+2020-11-27 12:44:41,719 - __logger__ - DEBUG - [140680408766208, (80.82.68.29:33172)] Packet with invalid prefix or suffix has been received!
+2020-11-27 14:28:14,457 - __logger__ - INFO - Got connection from: ('62.182.112.251', 57827)
+2020-11-27 14:28:14,864 - __logger__ - DEBUG - [140680408766208, (62.182.112.251:57827)] Packet with invalid prefix or suffix has been received!
+2020-11-27 14:28:15,050 - __logger__ - DEBUG - [140680408766208, (62.182.112.251:57827)] Packet with invalid prefix or suffix has been received!
+2020-11-27 14:46:05,929 - __logger__ - INFO - Got connection from: ('103.138.8.165', 54555)
+2020-11-27 14:46:05,930 - __logger__ - DEBUG - [140680408766208, (103.138.8.165:54555)] Packet with invalid prefix or suffix has been received!
+2020-11-27 14:46:06,213 - __logger__ - DEBUG - [140680408766208, (103.138.8.165:54555)] Packet with invalid prefix or suffix has been received!
+2020-11-27 17:13:24,311 - __logger__ - INFO - Got connection from: ('202.142.112.54', 53459)
+2020-11-27 17:13:24,456 - __logger__ - DEBUG - [140680408766208, (202.142.112.54:53459)] Packet with invalid prefix or suffix has been received!
+2020-11-27 17:13:24,749 - __logger__ - DEBUG - [140680408766208, (202.142.112.54:53459)] Packet with invalid prefix or suffix has been received!
+2020-11-27 17:39:20,429 - __logger__ - INFO - Got connection from: ('80.82.68.29', 41342)
+2020-11-27 17:39:20,430 - __logger__ - DEBUG - [140680408766208, (80.82.68.29:41342)] Packet with invalid prefix or suffix has been received!
+2020-11-27 17:39:20,581 - __logger__ - DEBUG - [140680408766208, (80.82.68.29:41342)] Packet with invalid prefix or suffix has been received!
+2020-11-27 18:06:43,847 - __logger__ - INFO - Got connection from: ('59.187.202.80', 52114)
+2020-11-27 18:06:43,848 - __logger__ - DEBUG - [140680408766208, (59.187.202.80:52114)] Packet with invalid prefix or suffix has been received!
+2020-11-27 18:06:44,033 - __logger__ - DEBUG - [140680408766208, (59.187.202.80:52114)] Packet with invalid prefix or suffix has been received!
+2020-11-27 18:11:50,017 - __logger__ - INFO - Got connection from: ('58.153.220.178', 45381)
+2020-11-27 18:11:50,022 - __logger__ - INFO - Got connection from: ('58.153.220.178', 45385)
+2020-11-27 18:11:50,025 - __logger__ - DEBUG - [140680400373504, (58.153.220.178:45385)] Packet with less data than possible minimal has received!
+2020-11-27 18:11:54,299 - __logger__ - INFO - Got connection from: ('58.153.220.178', 45400)
+2020-11-27 18:11:54,302 - __logger__ - DEBUG - [140680408766208, (58.153.220.178:45400)] Packet with less data than possible minimal has received!
+2020-11-27 18:11:58,569 - __logger__ - INFO - Got connection from: ('58.153.220.178', 45416)
+2020-11-27 18:11:58,571 - __logger__ - DEBUG - [140680408766208, (58.153.220.178:45416)] Packet with less data than possible minimal has received!
+2020-11-27 19:32:50,565 - __logger__ - INFO - Got connection from: ('45.148.10.28', 49374)
+2020-11-27 19:32:50,566 - __logger__ - DEBUG - [140680408766208, (45.148.10.28:49374)] Packet with invalid prefix or suffix has been received!
+2020-11-27 19:32:51,666 - __logger__ - DEBUG - [140680408766208, (45.148.10.28:49374)] Packet with invalid prefix or suffix has been received!
+2020-11-27 19:49:34,057 - __logger__ - INFO - Got connection from: ('64.31.8.10', 35948)
+2020-11-27 19:49:34,057 - __logger__ - DEBUG - [140680400373504, (64.31.8.10:35948)] Packet with invalid prefix or suffix has been received!
+2020-11-27 19:49:34,086 - __logger__ - DEBUG - [140680400373504, (64.31.8.10:35948)] Packet with invalid prefix or suffix has been received!
+2020-11-27 19:59:09,199 - __logger__ - INFO - Got connection from: ('80.82.68.29', 37336)
+2020-11-27 19:59:09,200 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:37336)] Packet with invalid prefix or suffix has been received!
+2020-11-27 19:59:09,348 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:37336)] Packet with invalid prefix or suffix has been received!
+2020-11-27 20:14:53,314 - __logger__ - INFO - Got connection from: ('93.115.40.113', 60538)
+2020-11-27 20:14:53,315 - __logger__ - DEBUG - [140680400373504, (93.115.40.113:60538)] Packet with invalid prefix or suffix has been received!
+2020-11-27 20:14:53,513 - __logger__ - DEBUG - [140680400373504, (93.115.40.113:60538)] Packet with invalid prefix or suffix has been received!
+2020-11-27 20:58:29,591 - __logger__ - INFO - Got connection from: ('117.241.67.99', 33234)
+2020-11-27 20:58:33,072 - __logger__ - DEBUG - [140680400373504, (117.241.67.99:33234)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:38:53,090 - __logger__ - INFO - Got connection from: ('45.148.10.28', 46928)
+2020-11-27 21:38:53,091 - __logger__ - DEBUG - [140680400373504, (45.148.10.28:46928)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:38:53,253 - __logger__ - DEBUG - [140680400373504, (45.148.10.28:46928)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:50:09,951 - __logger__ - INFO - Got connection from: ('117.214.59.20', 53912)
+2020-11-27 21:50:09,952 - __logger__ - DEBUG - [140680400373504, (117.214.59.20:53912)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:50:10,224 - __logger__ - DEBUG - [140680400373504, (117.214.59.20:53912)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:50:26,833 - __logger__ - INFO - Got connection from: ('80.82.68.29', 34030)
+2020-11-27 21:50:26,833 - __logger__ - DEBUG - [140680391980800, (80.82.68.29:34030)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:50:26,988 - __logger__ - DEBUG - [140680391980800, (80.82.68.29:34030)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:55:57,403 - __logger__ - INFO - Got connection from: ('117.192.122.167', 45912)
+2020-11-27 21:55:57,403 - __logger__ - DEBUG - [140680391980800, (117.192.122.167:45912)] Packet with invalid prefix or suffix has been received!
+2020-11-27 21:55:57,668 - __logger__ - DEBUG - [140680391980800, (117.192.122.167:45912)] Packet with invalid prefix or suffix has been received!
+2020-11-27 23:22:01,374 - __logger__ - INFO - Got connection from: ('83.252.11.223', 49687)
+2020-11-27 23:22:01,571 - __logger__ - INFO - Got connection from: ('83.252.11.223', 49691)
+2020-11-27 23:22:01,572 - __logger__ - DEBUG - [140680400373504, (83.252.11.223:49691)] Packet with less data than possible minimal has received!
+2020-11-27 23:22:03,778 - __logger__ - INFO - Got connection from: ('83.252.11.223', 49710)
+2020-11-27 23:22:03,779 - __logger__ - DEBUG - [140680391980800, (83.252.11.223:49710)] Packet with less data than possible minimal has received!
+2020-11-27 23:22:06,005 - __logger__ - INFO - Got connection from: ('83.252.11.223', 49738)
+2020-11-27 23:22:06,006 - __logger__ - DEBUG - [140680391980800, (83.252.11.223:49738)] Packet with less data than possible minimal has received!
+2020-11-27 23:22:08,242 - __logger__ - INFO - Got connection from: ('83.252.11.223', 49778)
+2020-11-27 23:22:08,243 - __logger__ - DEBUG - [140680391980800, (83.252.11.223:49778)] Packet with less data than possible minimal has received!
+2020-11-28 03:36:49,149 - __logger__ - INFO - Got connection from: ('117.251.34.117', 49286)
+2020-11-28 03:36:49,150 - __logger__ - DEBUG - [140680391980800, (117.251.34.117:49286)] Packet with invalid prefix or suffix has been received!
+2020-11-28 03:36:49,415 - __logger__ - DEBUG - [140680391980800, (117.251.34.117:49286)] Packet with invalid prefix or suffix has been received!
+2020-11-28 06:15:11,412 - __logger__ - INFO - Got connection from: ('80.82.68.29', 40798)
+2020-11-28 06:15:11,413 - __logger__ - DEBUG - [140680391980800, (80.82.68.29:40798)] Packet with invalid prefix or suffix has been received!
+2020-11-28 06:15:11,567 - __logger__ - DEBUG - [140680391980800, (80.82.68.29:40798)] Packet with invalid prefix or suffix has been received!
+2020-11-28 06:25:56,711 - __logger__ - INFO - Got connection from: ('89.144.47.6', 63983)
+2020-11-28 06:25:56,712 - __logger__ - DEBUG - [140680391980800, (89.144.47.6:63983)] Packet with invalid prefix or suffix has been received!
+2020-11-28 06:38:49,534 - __logger__ - INFO - Got connection from: ('89.144.47.6', 63390)
+2020-11-28 06:38:49,534 - __logger__ - DEBUG - [140680391980800, (89.144.47.6:63390)] Packet with invalid prefix or suffix has been received!
+2020-11-28 07:56:36,399 - __logger__ - INFO - Got connection from: ('90.65.96.67', 56847)
+2020-11-28 08:02:07,740 - __logger__ - INFO - Got connection from: ('36.153.181.154', 48173)
+2020-11-28 08:02:10,267 - __logger__ - INFO - Got connection from: ('36.153.181.154', 48183)
+2020-11-28 08:02:10,268 - __logger__ - DEBUG - [140680391980800, (36.153.181.154:48183)] Packet with less data than possible minimal has received!
+2020-11-28 08:02:14,832 - __logger__ - INFO - Got connection from: ('36.153.181.154', 48197)
+2020-11-28 08:02:14,833 - __logger__ - DEBUG - [140680391980800, (36.153.181.154:48197)] Packet with less data than possible minimal has received!
+2020-11-28 10:12:32,568 - __logger__ - INFO - Got connection from: ('64.31.8.10', 48356)
+2020-11-28 10:12:32,569 - __logger__ - DEBUG - [140680391980800, (64.31.8.10:48356)] Packet with invalid prefix or suffix has been received!
+2020-11-28 10:12:32,598 - __logger__ - DEBUG - [140680391980800, (64.31.8.10:48356)] Packet with invalid prefix or suffix has been received!
+2020-11-28 10:19:29,952 - __logger__ - INFO - Got connection from: ('59.93.232.240', 7111)
+2020-11-28 10:19:29,999 - __logger__ - DEBUG - [140680391980800, (59.93.232.240:7111)] Packet with invalid prefix or suffix has been received!
+2020-11-28 10:19:30,245 - __logger__ - DEBUG - [140680391980800, (59.93.232.240:7111)] Packet with invalid prefix or suffix has been received!
+2020-11-28 10:31:31,120 - __logger__ - INFO - Got connection from: ('80.82.68.29', 37862)
+2020-11-28 10:31:31,120 - __logger__ - DEBUG - [140680391980800, (80.82.68.29:37862)] Packet with invalid prefix or suffix has been received!
+2020-11-28 10:31:31,273 - __logger__ - DEBUG - [140680391980800, (80.82.68.29:37862)] Packet with invalid prefix or suffix has been received!
+2020-11-28 12:13:41,449 - __logger__ - INFO - Got connection from: ('45.148.10.28', 41698)
+2020-11-28 12:13:41,450 - __logger__ - DEBUG - [140680391980800, (45.148.10.28:41698)] Packet with invalid prefix or suffix has been received!
+2020-11-28 12:13:41,629 - __logger__ - DEBUG - [140680391980800, (45.148.10.28:41698)] Packet with invalid prefix or suffix has been received!
+2020-11-28 12:16:56,186 - __logger__ - INFO - Got connection from: ('80.82.68.29', 43000)
+2020-11-28 12:16:56,187 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:43000)] Packet with invalid prefix or suffix has been received!
+2020-11-28 12:16:56,338 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:43000)] Packet with invalid prefix or suffix has been received!
+2020-11-28 12:22:02,107 - __logger__ - INFO - Got connection from: ('203.218.243.210', 53039)
+2020-11-28 14:01:52,359 - __logger__ - INFO - Got connection from: ('172.104.242.173', 59111)
+2020-11-28 14:01:52,360 - __logger__ - DEBUG - [140680400373504, (172.104.242.173:59111)] Packet with less data than possible minimal has received!
+2020-11-28 14:36:14,746 - __logger__ - INFO - Got connection from: ('64.31.8.10', 55560)
+2020-11-28 14:36:14,748 - __logger__ - DEBUG - [140680400373504, (64.31.8.10:55560)] Packet with invalid prefix or suffix has been received!
+2020-11-28 14:36:14,777 - __logger__ - DEBUG - [140680400373504, (64.31.8.10:55560)] Packet with invalid prefix or suffix has been received!
+2020-11-28 14:47:19,568 - __logger__ - INFO - Got connection from: ('84.238.124.135', 52363)
+2020-11-28 14:47:19,744 - __logger__ - INFO - Got connection from: ('84.238.124.135', 52367)
+2020-11-28 14:47:19,745 - __logger__ - DEBUG - [140679774725888, (84.238.124.135:52367)] Packet with less data than possible minimal has received!
+2020-11-28 14:47:24,201 - __logger__ - INFO - Got connection from: ('84.238.124.135', 52403)
+2020-11-28 14:47:24,202 - __logger__ - DEBUG - [140680400373504, (84.238.124.135:52403)] Packet with less data than possible minimal has received!
+2020-11-28 14:47:28,668 - __logger__ - INFO - Got connection from: ('84.238.124.135', 52444)
+2020-11-28 14:47:28,669 - __logger__ - DEBUG - [140680400373504, (84.238.124.135:52444)] Packet with less data than possible minimal has received!
+2020-11-28 14:47:33,815 - __logger__ - INFO - Got connection from: ('80.82.68.29', 55606)
+2020-11-28 14:47:33,817 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:55606)] Packet with invalid prefix or suffix has been received!
+2020-11-28 14:47:33,967 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:55606)] Packet with invalid prefix or suffix has been received!
+2020-11-28 16:08:13,813 - __logger__ - INFO - Got connection from: ('66.240.205.34', 60682)
+2020-11-28 16:15:25,890 - __logger__ - INFO - Got connection from: ('106.54.243.65', 49568)
+2020-11-28 16:15:25,897 - __logger__ - DEBUG - [140680400373504, (106.54.243.65:49568)] Packet with invalid prefix or suffix has been received!
+2020-11-28 16:32:48,607 - __logger__ - INFO - Got connection from: ('103.244.6.102', 49431)
+2020-11-28 16:32:48,608 - __logger__ - DEBUG - [140680400373504, (103.244.6.102:49431)] Packet with invalid prefix or suffix has been received!
+2020-11-28 16:32:48,896 - __logger__ - DEBUG - [140680400373504, (103.244.6.102:49431)] Packet with invalid prefix or suffix has been received!
+2020-11-28 16:48:31,783 - __logger__ - INFO - Got connection from: ('45.148.10.28', 57494)
+2020-11-28 16:48:31,784 - __logger__ - DEBUG - [140680400373504, (45.148.10.28:57494)] Packet with invalid prefix or suffix has been received!
+2020-11-28 17:02:24,556 - __logger__ - INFO - Got connection from: ('80.82.68.29', 33240)
+2020-11-28 17:02:24,557 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:33240)] Packet with invalid prefix or suffix has been received!
+2020-11-28 17:02:24,704 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:33240)] Packet with invalid prefix or suffix has been received!
+2020-11-28 17:31:19,455 - __logger__ - INFO - Got connection from: ('216.218.206.68', 43186)
+2020-11-28 17:31:19,545 - __logger__ - DEBUG - [140680400373504, (216.218.206.68:43186)] Packet with less data than possible minimal has received!
+2020-11-28 17:35:52,097 - __logger__ - INFO - Got connection from: ('14.96.78.91', 47986)
+2020-11-28 17:35:52,097 - __logger__ - DEBUG - [140680400373504, (14.96.78.91:47986)] Packet with invalid prefix or suffix has been received!
+2020-11-28 17:35:52,382 - __logger__ - DEBUG - [140680400373504, (14.96.78.91:47986)] Packet with invalid prefix or suffix has been received!
+2020-11-28 17:50:23,113 - __logger__ - INFO - Got connection from: ('117.211.51.87', 52588)
+2020-11-28 17:50:23,114 - __logger__ - DEBUG - [140680400373504, (117.211.51.87:52588)] Packet with invalid prefix or suffix has been received!
+2020-11-28 17:50:23,396 - __logger__ - DEBUG - [140680400373504, (117.211.51.87:52588)] Packet with invalid prefix or suffix has been received!
+2020-11-28 18:17:45,773 - __logger__ - INFO - Got connection from: ('192.35.169.48', 1884)
+2020-11-28 18:17:45,774 - __logger__ - DEBUG - [140680400373504, (192.35.169.48:1884)] Packet with less data than possible minimal has received!
+2020-11-28 20:46:55,827 - __logger__ - INFO - Got connection from: ('80.82.68.29', 35250)
+2020-11-28 20:46:55,828 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:35250)] Packet with invalid prefix or suffix has been received!
+2020-11-28 20:46:55,978 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:35250)] Packet with invalid prefix or suffix has been received!
+2020-11-29 00:19:38,455 - __logger__ - INFO - Got connection from: ('64.31.8.10', 53790)
+2020-11-29 00:19:38,457 - __logger__ - DEBUG - [140680400373504, (64.31.8.10:53790)] Packet with invalid prefix or suffix has been received!
+2020-11-29 00:19:38,486 - __logger__ - DEBUG - [140680400373504, (64.31.8.10:53790)] Packet with invalid prefix or suffix has been received!
+2020-11-29 00:24:53,361 - __logger__ - INFO - Got connection from: ('151.0.59.30', 36941)
+2020-11-29 00:24:53,362 - __logger__ - DEBUG - [140680400373504, (151.0.59.30:36941)] Packet with invalid prefix or suffix has been received!
+2020-11-29 00:24:53,602 - __logger__ - DEBUG - [140680400373504, (151.0.59.30:36941)] Packet with invalid prefix or suffix has been received!
+2020-11-29 00:26:47,555 - __logger__ - INFO - Got connection from: ('187.95.85.141', 55504)
+2020-11-29 00:26:47,555 - __logger__ - DEBUG - [140680400373504, (187.95.85.141:55504)] Packet with invalid prefix or suffix has been received!
+2020-11-29 00:26:47,753 - __logger__ - DEBUG - [140680400373504, (187.95.85.141:55504)] Packet with invalid prefix or suffix has been received!
+2020-11-29 02:31:51,627 - __logger__ - INFO - Got connection from: ('195.211.252.197', 55312)
+2020-11-29 02:31:51,628 - __logger__ - DEBUG - [140680400373504, (195.211.252.197:55312)] Packet with invalid prefix or suffix has been received!
+2020-11-29 02:31:51,851 - __logger__ - DEBUG - [140680400373504, (195.211.252.197:55312)] Packet with invalid prefix or suffix has been received!
+2020-11-29 05:45:58,936 - __logger__ - INFO - Got connection from: ('59.178.82.254', 51193)
+2020-11-29 05:45:58,937 - __logger__ - DEBUG - [140680400373504, (59.178.82.254:51193)] Packet with invalid prefix or suffix has been received!
+2020-11-29 05:45:59,221 - __logger__ - DEBUG - [140680400373504, (59.178.82.254:51193)] Packet with invalid prefix or suffix has been received!
+2020-11-29 07:36:28,576 - __logger__ - INFO - Got connection from: ('80.82.68.29', 50436)
+2020-11-29 07:36:28,576 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:50436)] Packet with invalid prefix or suffix has been received!
+2020-11-29 07:36:28,724 - __logger__ - DEBUG - [140680400373504, (80.82.68.29:50436)] Packet with invalid prefix or suffix has been received!

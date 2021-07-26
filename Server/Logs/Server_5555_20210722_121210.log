@@ -1,0 +1,8 @@
+2021-07-22 12:12:10,790 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-22 12:12:10,792 - __logger__ - INFO - Enters the main loop
+2021-07-22 12:12:14,564 - __logger__ - INFO - Got connection from: ('127.0.0.1', 51664)
+2021-07-22 12:12:17,040 - __logger__ - DEBUG - [13284, (127.0.0.1:51664)] Packet with invalid prefix or suffix has been received!
+2021-07-22 12:12:17,041 - __logger__ - DEBUG - [13284, (127.0.0.1:51664)] Unknown error while sending a packet!
+2021-07-22 12:12:48,539 - __logger__ - INFO - Got connection from: ('127.0.0.1', 51669)
+2021-07-22 12:12:51,739 - __logger__ - DEBUG - [8108, (127.0.0.1:51669)] Packet with invalid prefix or suffix has been received!
+2021-07-22 12:12:51,740 - __logger__ - DEBUG - [8108, (127.0.0.1:51669)] Unknown error while sending a packet!

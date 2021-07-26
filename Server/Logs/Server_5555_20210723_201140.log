@@ -1,0 +1,3 @@
+2021-07-23 20:11:40,713 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 20:11:40,718 - __logger__ - INFO - Enters the main loop
+2021-07-23 20:11:45,569 - __logger__ - INFO - Got connection from: ('127.0.0.1', 57891)

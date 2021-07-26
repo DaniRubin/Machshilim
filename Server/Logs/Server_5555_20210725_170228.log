@@ -1,0 +1,8 @@
+2021-07-25 17:02:28,939 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 17:02:28,940 - __logger__ - INFO - Enters the main loop
+2021-07-25 17:02:31,162 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52765)
+2021-07-25 17:02:33,349 - __logger__ - DEBUG - [22948, (127.0.0.1:52765)] Fin has been received!
+2021-07-25 17:02:36,292 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52766)
+2021-07-25 17:02:38,080 - __logger__ - INFO - [22816, (127.0.0.1:52766)] Authentication success with user gportal!
+2021-07-25 17:02:44,050 - __logger__ - INFO - [22816, (127.0.0.1:52766)] User gportal has requested DirList
+2021-07-25 17:03:19,746 - __logger__ - INFO - [22816, (127.0.0.1:52766)] User gportal get the file: 340.pdf

@@ -1,0 +1,4 @@
+2021-07-25 17:00:20,502 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 17:00:20,504 - __logger__ - INFO - Enters the main loop
+2021-07-25 17:00:21,982 - __logger__ - INFO - Got connection from: ('127.0.0.1', 64041)
+2021-07-25 17:00:23,759 - __logger__ - INFO - [1244, (127.0.0.1:64041)] Authentication success with user gportal!

@@ -1,0 +1,133 @@
+2016-11-18 09:39:58,442 - __logger__ - DEBUG - The server's logger has been initialized!
+2016-11-18 09:39:58,448 - __logger__ - INFO - Enters the main loop
+2016-11-18 09:42:35,230 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50376)
+2016-11-18 09:42:35,231 - __logger__ - INFO - [140664092927744, (79.177.196.172:50376)] Authentication success with user giggs!
+2016-11-18 09:42:48,251 - __logger__ - INFO - [140664092927744, (79.177.196.172:50376)] User giggs has requested DirList
+2016-11-18 10:17:39,462 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50624)
+2016-11-18 10:17:52,550 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50628)
+2016-11-18 10:19:36,091 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50637)
+2016-11-18 10:19:36,092 - __logger__ - DEBUG - [140664084535040, (79.177.196.172:50637)] Packet with invalid prefix or suffix has been received!
+2016-11-18 10:20:37,034 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50645)
+2016-11-18 10:20:37,034 - __logger__ - DEBUG - [140664084535040, (79.177.196.172:50645)] Packet with invalid prefix or suffix has been received!
+2016-11-18 10:21:07,918 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50649)
+2016-11-18 10:21:07,919 - __logger__ - DEBUG - [140664084535040, (79.177.196.172:50649)] Packet with invalid prefix or suffix has been received!
+2016-11-18 10:23:32,341 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50661)
+2016-11-18 10:23:32,342 - __logger__ - INFO - [140664084535040, (79.177.196.172:50661)] Authentication success with user giggs!
+2016-11-18 10:25:15,621 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50672)
+2016-11-18 10:25:15,622 - __logger__ - INFO - [140664084535040, (79.177.196.172:50672)] Authentication success with user giggs!
+2016-11-18 10:25:15,628 - __logger__ - INFO - [140664084535040, (79.177.196.172:50672)] User giggs has requested DirList
+2016-11-18 10:25:31,208 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50673)
+2016-11-18 10:25:31,209 - __logger__ - INFO - [140664084535040, (79.177.196.172:50673)] Authentication success with user giggs!
+2016-11-18 10:25:31,427 - __logger__ - INFO - [140664084535040, (79.177.196.172:50673)] User giggs has requested DirList
+2016-11-18 10:25:31,685 - __logger__ - INFO - [140664084535040, (79.177.196.172:50673)] User giggs get the file: bullshit.txt
+2016-11-18 10:25:31,903 - __logger__ - INFO - [140664084535040, (79.177.196.172:50673)] User giggs has logged out
+2016-11-18 10:26:43,057 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50677)
+2016-11-18 10:26:43,058 - __logger__ - INFO - [140664084535040, (79.177.196.172:50677)] Authentication success with user giggs!
+2016-11-18 10:26:43,275 - __logger__ - INFO - [140664084535040, (79.177.196.172:50677)] User giggs has requested DirList
+2016-11-18 10:26:43,492 - __logger__ - INFO - [140664084535040, (79.177.196.172:50677)] User giggs get the file: bullshit.txt
+2016-11-18 10:26:43,711 - __logger__ - INFO - [140664084535040, (79.177.196.172:50677)] User giggs has logged out
+2016-11-18 10:43:07,680 - __logger__ - INFO - Got connection from: ('79.177.196.172', 50875)
+2016-11-18 10:43:15,395 - __logger__ - INFO - [140664084535040, (79.177.196.172:50875)] Authentication success with user giggs!
+2016-11-18 10:43:54,539 - __logger__ - INFO - [140664084535040, (79.177.196.172:50875)] User giggs has requested DirList
+2016-11-18 10:43:58,442 - __logger__ - INFO - [140664084535040, (79.177.196.172:50875)] User giggs get the file: bullshit.txt
+2016-11-18 10:44:01,650 - __logger__ - INFO - [140664084535040, (79.177.196.172:50875)] User giggs has logged out
+2016-11-18 10:47:17,121 - __logger__ - INFO - Got connection from: ('79.177.196.172', 51043)
+2016-11-18 10:47:24,278 - __logger__ - INFO - [140664084535040, (79.177.196.172:51043)] Authentication success with user giggs!
+2016-11-18 10:47:35,245 - __logger__ - INFO - [140664084535040, (79.177.196.172:51043)] User giggs has requested DirList
+2016-11-18 10:49:42,396 - __logger__ - INFO - [140664084535040, (79.177.196.172:51043)] User giggs has requested DirList
+2016-11-18 10:49:54,731 - __logger__ - INFO - [140664084535040, (79.177.196.172:51043)] User giggs get the file: bullshit.txt
+2016-11-18 10:50:18,906 - __logger__ - INFO - [140664084535040, (79.177.196.172:51043)] User giggs has logged out
+2016-11-19 12:28:17,375 - __logger__ - INFO - Got connection from: ('141.105.65.71', 55934)
+2016-11-19 12:28:17,413 - __logger__ - DEBUG - [140664084535040, (141.105.65.71:55934)] Packet with invalid prefix or suffix has been received!
+2016-11-20 04:51:16,956 - __logger__ - INFO - Got connection from: ('91.197.234.23', 52361)
+2016-11-20 04:51:16,957 - __logger__ - DEBUG - [140664084535040, (91.197.234.23:52361)] Packet with invalid prefix or suffix has been received!
+2016-11-20 14:09:57,640 - __logger__ - INFO - Got connection from: ('93.174.93.136', 37083)
+2016-11-20 14:09:57,641 - __logger__ - DEBUG - [140664084535040, (93.174.93.136:37083)] Packet with invalid prefix or suffix has been received!
+2016-11-21 10:42:17,475 - __logger__ - INFO - Got connection from: ('91.197.234.23', 58722)
+2016-11-21 10:42:17,476 - __logger__ - DEBUG - [140664084535040, (91.197.234.23:58722)] Packet with invalid prefix or suffix has been received!
+2016-11-21 17:09:05,439 - __logger__ - INFO - Got connection from: ('61.216.2.14', 43401)
+2016-11-21 17:09:07,435 - __logger__ - DEBUG - [140664084535040, (61.216.2.14:43401)] Packet with less data than possible minimal has received!
+2016-11-21 18:25:59,529 - __logger__ - INFO - Got connection from: ('93.174.93.136', 53612)
+2016-11-21 18:25:59,530 - __logger__ - DEBUG - [140664084535040, (93.174.93.136:53612)] Packet with invalid prefix or suffix has been received!
+2016-11-22 22:47:20,096 - __logger__ - INFO - Got connection from: ('93.174.93.136', 60615)
+2016-11-22 22:47:20,097 - __logger__ - DEBUG - [140664084535040, (93.174.93.136:60615)] Packet with invalid prefix or suffix has been received!
+2016-11-24 03:09:25,495 - __logger__ - INFO - Got connection from: ('93.174.93.136', 35335)
+2016-11-24 03:09:25,496 - __logger__ - DEBUG - [140664084535040, (93.174.93.136:35335)] Packet with invalid prefix or suffix has been received!
+2016-11-25 07:30:05,313 - __logger__ - INFO - Got connection from: ('93.174.93.136', 59676)
+2016-11-25 07:30:05,314 - __logger__ - DEBUG - [140664084535040, (93.174.93.136:59676)] Packet with invalid prefix or suffix has been received!
+2016-11-26 03:12:00,974 - __logger__ - INFO - Got connection from: ('71.6.158.166', 45365)
+2016-11-26 03:12:00,975 - __logger__ - DEBUG - [140664084535040, (71.6.158.166:45365)] Packet with invalid prefix or suffix has been received!
+2016-11-26 03:12:04,071 - __logger__ - INFO - Got connection from: ('71.6.158.166', 46078)
+2016-11-26 11:51:17,412 - __logger__ - INFO - Got connection from: ('93.174.93.136', 52201)
+2016-11-26 11:51:17,412 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:52201)] Packet with invalid prefix or suffix has been received!
+2016-11-28 00:33:21,433 - __logger__ - INFO - Got connection from: ('93.174.93.136', 54739)
+2016-11-28 00:33:21,434 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:54739)] Packet with invalid prefix or suffix has been received!
+2016-11-28 02:29:54,560 - __logger__ - INFO - Got connection from: ('198.20.87.98', 53921)
+2016-11-28 02:29:54,561 - __logger__ - DEBUG - [140663467271936, (198.20.87.98:53921)] Packet with invalid prefix or suffix has been received!
+2016-11-28 02:29:57,668 - __logger__ - INFO - Got connection from: ('198.20.87.98', 54667)
+2016-11-29 04:46:32,520 - __logger__ - INFO - Got connection from: ('93.174.93.136', 39460)
+2016-11-29 04:46:32,948 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:39460)] Packet with invalid prefix or suffix has been received!
+2016-11-30 09:08:41,349 - __logger__ - INFO - Got connection from: ('93.174.93.136', 52687)
+2016-11-30 09:08:41,349 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:52687)] Packet with invalid prefix or suffix has been received!
+2016-12-01 13:33:33,902 - __logger__ - INFO - Got connection from: ('93.174.93.136', 59169)
+2016-12-01 13:33:33,903 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:59169)] Packet with invalid prefix or suffix has been received!
+2016-12-02 17:57:34,933 - __logger__ - INFO - Got connection from: ('93.174.93.136', 35715)
+2016-12-02 17:57:34,934 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:35715)] Packet with invalid prefix or suffix has been received!
+2016-12-03 22:22:12,157 - __logger__ - INFO - Got connection from: ('93.174.93.136', 36908)
+2016-12-03 22:22:12,157 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:36908)] Packet with invalid prefix or suffix has been received!
+2016-12-04 09:02:34,371 - __logger__ - INFO - Got connection from: ('66.240.236.119', 42135)
+2016-12-04 09:02:34,372 - __logger__ - DEBUG - [140663467271936, (66.240.236.119:42135)] Packet with invalid prefix or suffix has been received!
+2016-12-04 09:02:37,454 - __logger__ - INFO - Got connection from: ('66.240.236.119', 42960)
+2016-12-05 02:42:47,441 - __logger__ - INFO - Got connection from: ('93.174.93.136', 35421)
+2016-12-05 02:42:47,442 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:35421)] Packet with invalid prefix or suffix has been received!
+2016-12-06 07:07:01,031 - __logger__ - INFO - Got connection from: ('93.174.93.136', 57491)
+2016-12-06 07:07:01,032 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:57491)] Packet with invalid prefix or suffix has been received!
+2016-12-06 18:21:45,576 - __logger__ - INFO - Got connection from: ('200.105.138.194', 12647)
+2016-12-07 11:28:24,612 - __logger__ - INFO - Got connection from: ('93.174.93.136', 60857)
+2016-12-07 11:28:24,612 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:60857)] Packet with invalid prefix or suffix has been received!
+2016-12-08 15:51:34,199 - __logger__ - INFO - Got connection from: ('93.174.93.136', 48855)
+2016-12-08 15:51:34,200 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:48855)] Packet with invalid prefix or suffix has been received!
+2016-12-09 20:14:29,636 - __logger__ - INFO - Got connection from: ('93.174.93.136', 41359)
+2016-12-09 20:14:29,668 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:41359)] Packet with invalid prefix or suffix has been received!
+2016-12-10 04:38:21,998 - __logger__ - INFO - Got connection from: ('91.197.232.10', 61907)
+2016-12-10 04:38:21,998 - __logger__ - DEBUG - [140663467271936, (91.197.232.10:61907)] Packet with invalid prefix or suffix has been received!
+2016-12-11 00:34:43,796 - __logger__ - INFO - Got connection from: ('93.174.93.136', 45047)
+2016-12-11 00:34:43,797 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:45047)] Packet with invalid prefix or suffix has been received!
+2016-12-12 00:28:06,758 - __logger__ - INFO - Got connection from: ('71.6.135.131', 58906)
+2016-12-12 00:28:06,759 - __logger__ - DEBUG - [140663467271936, (71.6.135.131:58906)] Packet with invalid prefix or suffix has been received!
+2016-12-12 00:28:09,847 - __logger__ - INFO - Got connection from: ('71.6.135.131', 59596)
+2016-12-12 04:53:14,810 - __logger__ - INFO - Got connection from: ('93.174.93.136', 36206)
+2016-12-12 04:53:14,811 - __logger__ - DEBUG - [140664084535040, (93.174.93.136:36206)] Packet with invalid prefix or suffix has been received!
+2016-12-12 19:24:01,640 - __logger__ - INFO - Got connection from: ('61.216.2.14', 43401)
+2016-12-12 19:24:03,643 - __logger__ - DEBUG - [140664084535040, (61.216.2.14:43401)] Packet with less data than possible minimal has received!
+2016-12-13 09:17:37,564 - __logger__ - INFO - Got connection from: ('93.174.93.136', 46453)
+2016-12-13 09:17:37,565 - __logger__ - DEBUG - [140664084535040, (93.174.93.136:46453)] Packet with invalid prefix or suffix has been received!
+2016-12-13 19:44:39,030 - __logger__ - INFO - Got connection from: ('109.65.33.244', 56275)
+2016-12-13 19:44:39,031 - __logger__ - INFO - [140664084535040, (109.65.33.244:56275)] Authentication success with user giggs!
+2016-12-13 19:44:43,548 - __logger__ - INFO - [140664084535040, (109.65.33.244:56275)] User giggs has requested DirList
+2016-12-13 19:45:06,390 - __logger__ - INFO - [140664084535040, (109.65.33.244:56275)] User giggs get the file: gportal_password.txt
+2016-12-13 19:46:15,215 - __logger__ - INFO - Got connection from: ('109.65.33.244', 56350)
+2016-12-13 19:46:21,542 - __logger__ - INFO - [140664084535040, (109.65.33.244:56350)] Authentication success with user gportal!
+2016-12-13 19:46:50,201 - __logger__ - INFO - [140664084535040, (109.65.33.244:56350)] User gportal has requested DirList
+2016-12-13 19:49:08,657 - __logger__ - INFO - Got connection from: ('109.65.33.244', 56481)
+2016-12-13 19:49:14,024 - __logger__ - DEBUG - [140664084535040, (109.65.33.244:56481)] Packet with invalid json structure has been received!
+2016-12-13 19:49:40,745 - __logger__ - INFO - Got connection from: ('109.65.33.244', 56483)
+2016-12-13 19:49:42,433 - __logger__ - INFO - [140664084535040, (109.65.33.244:56483)] Authentication success with user giggs!
+2016-12-13 19:49:46,185 - __logger__ - INFO - [140664084535040, (109.65.33.244:56483)] User giggs has requested DirList
+2016-12-13 20:14:34,519 - __logger__ - INFO - Got connection from: ('109.65.33.244', 56661)
+2016-12-13 20:14:37,666 - __logger__ - INFO - [140664084535040, (109.65.33.244:56661)] Authentication success with user giggs!
+2016-12-13 20:14:40,898 - __logger__ - INFO - [140664084535040, (109.65.33.244:56661)] User giggs has requested DirList
+2016-12-13 20:15:11,622 - __logger__ - INFO - [140664084535040, (109.65.33.244:56661)] User giggs get the file: bullshit.txt
+2016-12-13 20:15:19,709 - __logger__ - INFO - [140664084535040, (109.65.33.244:56661)] User giggs has logged out
+2016-12-13 20:16:59,190 - __logger__ - INFO - Got connection from: ('109.65.33.244', 56818)
+2016-12-13 20:17:01,171 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] Authentication success with user giggs!
+2016-12-13 20:17:10,574 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] User giggs has requested DirList
+2016-12-13 20:17:38,251 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] User giggs get the file: bullshit.txt
+2016-12-13 20:17:41,857 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] User giggs has logged out
+2016-12-13 20:20:28,542 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] Authentication success with user giggs!
+2016-12-13 20:21:19,965 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] User giggs has requested DirList
+2016-12-13 20:21:27,908 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] User giggs get the file: bullshit.txt
+2016-12-13 20:21:33,188 - __logger__ - INFO - [140664084535040, (109.65.33.244:56818)] User giggs has logged out
+2016-12-14 00:49:33,352 - __logger__ - INFO - Got connection from: ('207.229.156.213', 52472)
+2016-12-14 13:38:37,272 - __logger__ - INFO - Got connection from: ('93.174.93.136', 34301)
+2016-12-14 13:38:37,273 - __logger__ - DEBUG - [140663467271936, (93.174.93.136:34301)] Packet with invalid prefix or suffix has been received!

@@ -1,0 +1,5 @@
+2021-07-25 17:05:33,467 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 17:05:33,469 - __logger__ - INFO - Enters the main loop
+2021-07-25 17:05:37,086 - __logger__ - INFO - Got connection from: ('127.0.0.1', 57136)
+2021-07-25 17:05:38,656 - __logger__ - INFO - [19500, (127.0.0.1:57136)] Authentication success with user gportal!
+2021-07-25 17:05:40,005 - __logger__ - INFO - [19500, (127.0.0.1:57136)] User gportal has requested DirList

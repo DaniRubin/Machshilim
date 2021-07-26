@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user name="gportal">
+        <password>NicePass123</password>
+    </user>
+    <user name="giggs">
+        <password>Pass123</password>
+    </user>
+</users>

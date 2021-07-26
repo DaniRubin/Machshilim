@@ -1,0 +1,5 @@
+2021-07-23 20:24:21,002 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 20:24:21,006 - __logger__ - INFO - Enters the main loop
+2021-07-23 20:24:22,740 - __logger__ - INFO - Got connection from: ('127.0.0.1', 59450)
+2021-07-23 20:24:44,465 - __logger__ - INFO - [17704, (127.0.0.1:59450)] Authentication success with user giggs!
+2021-07-23 20:25:25,504 - __logger__ - DEBUG - [17704, (127.0.0.1:59450)] Unknown error while sending a packet!

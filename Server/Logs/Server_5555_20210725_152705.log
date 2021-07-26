@@ -1,0 +1,5 @@
+2021-07-25 15:27:05,658 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 15:27:05,660 - __logger__ - INFO - Enters the main loop
+2021-07-25 15:27:07,501 - __logger__ - INFO - Got connection from: ('127.0.0.1', 64787)
+2021-07-25 15:27:10,211 - __logger__ - INFO - [16564, (127.0.0.1:64787)] Authentication success with user gportal!
+2021-07-25 15:27:17,722 - __logger__ - WARNING - [16564, (127.0.0.1:64787)] User gportal tried to get non-existing file: 340.pdf

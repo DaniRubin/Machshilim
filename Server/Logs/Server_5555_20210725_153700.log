@@ -1,0 +1,6 @@
+2021-07-25 15:37:00,843 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 15:37:00,844 - __logger__ - INFO - Enters the main loop
+2021-07-25 15:37:06,997 - __logger__ - INFO - Got connection from: ('127.0.0.1', 64351)
+2021-07-25 15:37:09,351 - __logger__ - INFO - [23696, (127.0.0.1:64351)] Authentication success with user gportal!
+2021-07-25 15:37:21,241 - __logger__ - INFO - [23696, (127.0.0.1:64351)] User gportal get the file: TOPSECRET.txt
+2021-07-25 15:37:21,241 - __logger__ - DEBUG - [23696, (127.0.0.1:64351)] Unknown error while sending a packet!

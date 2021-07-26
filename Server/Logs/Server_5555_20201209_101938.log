@@ -1,0 +1,451 @@
+2020-12-09 10:19:38,449 - __logger__ - DEBUG - The server's logger has been initialized!
+2020-12-09 10:19:38,456 - __logger__ - INFO - Enters the main loop
+2020-12-09 10:20:38,640 - __logger__ - INFO - Got connection from: ('77.137.119.169', 33114)
+2020-12-09 11:12:58,062 - __logger__ - INFO - Got connection from: ('80.82.68.29', 57492)
+2020-12-09 11:12:58,062 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:57492)] Packet with invalid prefix or suffix has been received!
+2020-12-09 11:12:58,202 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:57492)] Packet with invalid prefix or suffix has been received!
+2020-12-09 11:24:04,920 - __logger__ - INFO - Got connection from: ('45.148.10.28', 56662)
+2020-12-09 11:24:04,920 - __logger__ - DEBUG - [140088491030272, (45.148.10.28:56662)] Packet with invalid prefix or suffix has been received!
+2020-12-09 12:35:22,562 - __logger__ - INFO - Got connection from: ('191.36.129.38', 43596)
+2020-12-09 12:35:22,590 - __logger__ - DEBUG - [140088491030272, (191.36.129.38:43596)] Packet with invalid prefix or suffix has been received!
+2020-12-09 12:35:39,867 - __logger__ - INFO - Got connection from: ('119.237.22.171', 50260)
+2020-12-09 12:35:39,893 - __logger__ - DEBUG - [140088491030272, (119.237.22.171:50260)] Packet with invalid prefix or suffix has been received!
+2020-12-09 12:44:10,130 - __logger__ - INFO - Got connection from: ('80.82.68.29', 47862)
+2020-12-09 12:44:10,131 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:47862)] Packet with invalid prefix or suffix has been received!
+2020-12-09 12:44:10,268 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:47862)] Packet with invalid prefix or suffix has been received!
+2020-12-09 13:52:33,180 - __logger__ - INFO - Got connection from: ('45.148.10.28', 56068)
+2020-12-09 13:52:33,181 - __logger__ - DEBUG - [140088491030272, (45.148.10.28:56068)] Packet with invalid prefix or suffix has been received!
+2020-12-09 13:52:33,324 - __logger__ - DEBUG - [140088491030272, (45.148.10.28:56068)] Packet with invalid prefix or suffix has been received!
+2020-12-09 14:22:07,470 - __logger__ - INFO - Got connection from: ('80.82.68.29', 49640)
+2020-12-09 14:22:07,471 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:49640)] Packet with invalid prefix or suffix has been received!
+2020-12-09 14:22:07,610 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:49640)] Packet with invalid prefix or suffix has been received!
+2020-12-09 15:15:24,514 - __logger__ - INFO - Got connection from: ('80.82.68.29', 40124)
+2020-12-09 15:15:24,514 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:40124)] Packet with invalid prefix or suffix has been received!
+2020-12-09 15:15:24,655 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:40124)] Packet with invalid prefix or suffix has been received!
+2020-12-09 15:29:25,509 - __logger__ - INFO - Got connection from: ('109.162.35.86', 46514)
+2020-12-09 15:29:25,509 - __logger__ - DEBUG - [140088491030272, (109.162.35.86:46514)] Packet with invalid prefix or suffix has been received!
+2020-12-09 15:29:25,718 - __logger__ - DEBUG - [140088491030272, (109.162.35.86:46514)] Packet with invalid prefix or suffix has been received!
+2020-12-09 15:56:45,872 - __logger__ - INFO - Got connection from: ('60.250.229.244', 33054)
+2020-12-09 16:08:34,803 - __logger__ - INFO - Got connection from: ('90.51.112.10', 43709)
+2020-12-09 17:09:14,725 - __logger__ - INFO - Got connection from: ('80.82.68.29', 50212)
+2020-12-09 17:09:14,726 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:50212)] Packet with invalid prefix or suffix has been received!
+2020-12-09 17:09:14,865 - __logger__ - DEBUG - [140088491030272, (80.82.68.29:50212)] Packet with invalid prefix or suffix has been received!
+2020-12-09 17:39:55,105 - __logger__ - INFO - Got connection from: ('45.148.10.28', 40602)
+2020-12-09 17:39:55,106 - __logger__ - DEBUG - [140088491030272, (45.148.10.28:40602)] Packet with invalid prefix or suffix has been received!
+2020-12-09 17:39:55,266 - __logger__ - DEBUG - [140088491030272, (45.148.10.28:40602)] Packet with invalid prefix or suffix has been received!
+2020-12-09 18:41:33,828 - __logger__ - INFO - Got connection from: ('80.82.68.29', 55200)
+2020-12-09 18:41:33,829 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55200)] Packet with invalid prefix or suffix has been received!
+2020-12-09 18:41:33,968 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55200)] Packet with invalid prefix or suffix has been received!
+2020-12-09 19:42:28,024 - __logger__ - INFO - Got connection from: ('80.82.68.29', 33522)
+2020-12-09 19:42:28,025 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:33522)] Packet with invalid prefix or suffix has been received!
+2020-12-09 19:42:28,163 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:33522)] Packet with invalid prefix or suffix has been received!
+2020-12-09 20:37:57,435 - __logger__ - INFO - Got connection from: ('80.82.68.29', 54516)
+2020-12-09 20:37:57,436 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:54516)] Packet with invalid prefix or suffix has been received!
+2020-12-09 20:37:57,574 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:54516)] Packet with invalid prefix or suffix has been received!
+2020-12-09 21:47:06,350 - __logger__ - INFO - Got connection from: ('80.82.68.29', 55014)
+2020-12-09 21:47:06,350 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55014)] Packet with invalid prefix or suffix has been received!
+2020-12-09 21:47:06,489 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55014)] Packet with invalid prefix or suffix has been received!
+2020-12-09 23:03:00,616 - __logger__ - INFO - Got connection from: ('45.148.10.28', 52056)
+2020-12-09 23:03:00,617 - __logger__ - DEBUG - [140087874545408, (45.148.10.28:52056)] Packet with invalid prefix or suffix has been received!
+2020-12-09 23:03:01,200 - __logger__ - DEBUG - [140087874545408, (45.148.10.28:52056)] Packet with invalid prefix or suffix has been received!
+2020-12-10 04:06:35,911 - __logger__ - INFO - Got connection from: ('24.39.150.166', 36854)
+2020-12-10 04:06:35,915 - __logger__ - DEBUG - [140087874545408, (24.39.150.166:36854)] Packet with invalid prefix or suffix has been received!
+2020-12-10 04:06:36,011 - __logger__ - DEBUG - [140087874545408, (24.39.150.166:36854)] Packet with invalid prefix or suffix has been received!
+2020-12-10 05:27:22,308 - __logger__ - INFO - Got connection from: ('80.82.68.29', 33138)
+2020-12-10 05:27:22,309 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:33138)] Packet with invalid prefix or suffix has been received!
+2020-12-10 05:27:22,448 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:33138)] Packet with invalid prefix or suffix has been received!
+2020-12-10 06:40:01,926 - __logger__ - INFO - Got connection from: ('80.82.68.29', 55618)
+2020-12-10 06:40:01,927 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55618)] Packet with invalid prefix or suffix has been received!
+2020-12-10 06:40:02,068 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55618)] Packet with invalid prefix or suffix has been received!
+2020-12-10 06:40:07,311 - __logger__ - INFO - Got connection from: ('23.248.152.227', 33284)
+2020-12-10 07:39:47,244 - __logger__ - INFO - Got connection from: ('185.189.187.57', 52904)
+2020-12-10 07:39:47,629 - __logger__ - DEBUG - [140087874545408, (185.189.187.57:52904)] Packet with invalid prefix or suffix has been received!
+2020-12-10 07:39:47,838 - __logger__ - DEBUG - [140087874545408, (185.189.187.57:52904)] Packet with invalid prefix or suffix has been received!
+2020-12-10 08:17:38,170 - __logger__ - INFO - Got connection from: ('80.82.68.29', 48148)
+2020-12-10 08:17:38,171 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:48148)] Packet with invalid prefix or suffix has been received!
+2020-12-10 08:17:38,310 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:48148)] Packet with invalid prefix or suffix has been received!
+2020-12-10 10:34:32,172 - __logger__ - INFO - Got connection from: ('45.148.10.28', 47586)
+2020-12-10 10:34:32,172 - __logger__ - DEBUG - [140087874545408, (45.148.10.28:47586)] Packet with invalid prefix or suffix has been received!
+2020-12-10 10:34:32,315 - __logger__ - DEBUG - [140087874545408, (45.148.10.28:47586)] Packet with invalid prefix or suffix has been received!
+2020-12-10 10:59:36,665 - __logger__ - INFO - Got connection from: ('80.82.68.29', 60586)
+2020-12-10 10:59:36,666 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:60586)] Packet with invalid prefix or suffix has been received!
+2020-12-10 10:59:36,805 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:60586)] Packet with invalid prefix or suffix has been received!
+2020-12-10 11:55:42,763 - __logger__ - INFO - Got connection from: ('172.104.242.173', 49065)
+2020-12-10 11:55:42,763 - __logger__ - DEBUG - [140087874545408, (172.104.242.173:49065)] Packet with less data than possible minimal has received!
+2020-12-10 12:07:40,774 - __logger__ - INFO - Got connection from: ('80.82.68.29', 44540)
+2020-12-10 12:07:40,774 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:44540)] Packet with invalid prefix or suffix has been received!
+2020-12-10 12:07:40,913 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:44540)] Packet with invalid prefix or suffix has been received!
+2020-12-10 14:19:53,432 - __logger__ - INFO - Got connection from: ('184.105.247.252', 51434)
+2020-12-10 14:19:53,461 - __logger__ - DEBUG - [140087874545408, (184.105.247.252:51434)] Packet with less data than possible minimal has received!
+2020-12-10 15:03:28,951 - __logger__ - INFO - Got connection from: ('80.82.68.29', 34594)
+2020-12-10 15:03:28,952 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:34594)] Packet with invalid prefix or suffix has been received!
+2020-12-10 15:03:29,090 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:34594)] Packet with invalid prefix or suffix has been received!
+2020-12-10 16:42:32,614 - __logger__ - INFO - Got connection from: ('80.82.68.29', 52452)
+2020-12-10 16:42:32,615 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:52452)] Packet with invalid prefix or suffix has been received!
+2020-12-10 16:42:32,756 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:52452)] Packet with invalid prefix or suffix has been received!
+2020-12-10 17:32:16,666 - __logger__ - INFO - Got connection from: ('77.137.119.169', 63260)
+2020-12-10 17:32:16,667 - __logger__ - INFO - [140087874545408, (77.137.119.169:63260)] Authentication success with user giggs!
+2020-12-10 17:32:27,462 - __logger__ - WARNING - [140087874545408, (77.137.119.169:63260)] User giggs tried to get non-existing file: ew
+2020-12-10 17:32:28,910 - __logger__ - INFO - [140087874545408, (77.137.119.169:63260)] User giggs has requested DirList
+2020-12-10 17:32:43,649 - __logger__ - INFO - [140087874545408, (77.137.119.169:63260)] User giggs get the file: bullshit.txt
+2020-12-10 17:33:28,232 - __logger__ - INFO - [140087874545408, (77.137.119.169:63260)] User giggs get the file: gportal_password.txt
+2020-12-10 17:34:14,734 - __logger__ - INFO - [140087874545408, (77.137.119.169:63260)] User giggs has logged out
+2020-12-10 17:34:53,763 - __logger__ - INFO - Got connection from: ('77.137.119.169', 63270)
+2020-12-10 17:37:43,276 - __logger__ - INFO - [140087874545408, (77.137.119.169:63270)] Authentication success with user giggs!
+2020-12-10 17:37:50,412 - __logger__ - INFO - [140087874545408, (77.137.119.169:63270)] User giggs has requested DirList
+2020-12-10 17:38:14,686 - __logger__ - INFO - [140087874545408, (77.137.119.169:63270)] User giggs get the file: bullshit.txt
+2020-12-10 17:38:51,821 - __logger__ - INFO - Got connection from: ('80.82.68.29', 33638)
+2020-12-10 17:38:51,822 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:33638)] Packet with invalid prefix or suffix has been received!
+2020-12-10 17:38:51,959 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:33638)] Packet with invalid prefix or suffix has been received!
+2020-12-10 17:39:04,000 - __logger__ - INFO - Got connection from: ('77.137.119.169', 63333)
+2020-12-10 17:39:08,820 - __logger__ - INFO - [140087866152704, (77.137.119.169:63333)] Authentication success with user gportal!
+2020-12-10 17:39:14,050 - __logger__ - INFO - [140087866152704, (77.137.119.169:63333)] User gportal has requested DirList
+2020-12-10 17:39:33,983 - __logger__ - INFO - [140087866152704, (77.137.119.169:63333)] User gportal get the file: SecretCrazyRoomCenter.zip
+2020-12-10 17:39:54,551 - __logger__ - INFO - Got connection from: ('77.137.150.199', 54942)
+2020-12-10 17:39:54,551 - __logger__ - INFO - [140087866152704, (77.137.150.199:54942)] Authentication success with user giggs!
+2020-12-10 17:39:54,812 - __logger__ - INFO - [140087866152704, (77.137.150.199:54942)] User giggs get the file: gportal_password.txt
+2020-12-10 17:40:45,140 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53291)
+2020-12-10 17:40:55,588 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55428)
+2020-12-10 17:40:55,592 - __logger__ - INFO - [140087866152704, (77.137.150.199:55428)] Authentication success with user giggs!
+2020-12-10 17:40:55,860 - __logger__ - INFO - [140087866152704, (77.137.150.199:55428)] User giggs get the file: gportal_password.txt
+2020-12-10 17:42:09,239 - __logger__ - INFO - Got connection from: ('77.137.150.199', 54972)
+2020-12-10 17:42:09,243 - __logger__ - INFO - [140087866152704, (77.137.150.199:54972)] Authentication success with user giggs!
+2020-12-10 17:42:09,509 - __logger__ - INFO - [140087866152704, (77.137.150.199:54972)] User giggs get the file: gportal_password.txt
+2020-12-10 17:42:45,233 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53299)
+2020-12-10 17:42:55,048 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53300)
+2020-12-10 17:43:06,797 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55067)
+2020-12-10 17:43:06,802 - __logger__ - INFO - [140087866152704, (77.137.150.199:55067)] Authentication success with user giggs!
+2020-12-10 17:43:07,072 - __logger__ - INFO - [140087866152704, (77.137.150.199:55067)] User giggs get the file: gportal_password.txt
+2020-12-10 17:43:10,405 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55160)
+2020-12-10 17:43:10,406 - __logger__ - INFO - [140087866152704, (77.137.150.199:55160)] Authentication success with user giggs!
+2020-12-10 17:43:10,665 - __logger__ - INFO - [140087866152704, (77.137.150.199:55160)] User giggs get the file: gportal_password.txt
+2020-12-10 17:44:27,950 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53326)
+2020-12-10 17:44:27,951 - __logger__ - INFO - [140087866152704, (77.137.113.132:53326)] Authentication success with user giggs!
+2020-12-10 17:44:28,356 - __logger__ - INFO - [140087866152704, (77.137.113.132:53326)] User giggs get the file: gportal_password.txt
+2020-12-10 17:47:00,195 - __logger__ - INFO - Got connection from: ('89.139.192.207', 54531)
+2020-12-10 17:47:21,131 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55264)
+2020-12-10 17:47:21,138 - __logger__ - INFO - [140087866152704, (77.137.150.199:55264)] Authentication success with user giggs!
+2020-12-10 17:47:21,392 - __logger__ - INFO - [140087866152704, (77.137.150.199:55264)] User giggs get the file: bullshit.txt
+2020-12-10 17:48:28,732 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55088)
+2020-12-10 17:48:28,733 - __logger__ - INFO - [140087866152704, (77.137.150.199:55088)] Authentication success with user giggs!
+2020-12-10 17:48:28,964 - __logger__ - INFO - [140087866152704, (77.137.150.199:55088)] User giggs get the file: bullshit.txt
+2020-12-10 17:49:31,761 - __logger__ - INFO - Got connection from: ('89.139.192.207', 54580)
+2020-12-10 17:56:54,409 - __logger__ - INFO - Got connection from: ('77.137.150.199', 54845)
+2020-12-10 17:56:54,409 - __logger__ - INFO - [140087866152704, (77.137.150.199:54845)] Requested user: gporal does not exists!
+2020-12-10 17:57:18,626 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55283)
+2020-12-10 17:57:18,631 - __logger__ - INFO - [140087866152704, (77.137.150.199:55283)] Requested user: gporal does not exists!
+2020-12-10 17:58:01,254 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55183)
+2020-12-10 17:58:01,257 - __logger__ - INFO - [140087866152704, (77.137.150.199:55183)] Authentication success with user gportal!
+2020-12-10 17:58:01,501 - __logger__ - INFO - [140087866152704, (77.137.150.199:55183)] User gportal has requested DirList
+2020-12-10 17:58:16,191 - __logger__ - INFO - Got connection from: ('77.137.150.199', 54932)
+2020-12-10 17:58:16,192 - __logger__ - INFO - [140087866152704, (77.137.150.199:54932)] Authentication success with user gportal!
+2020-12-10 17:58:16,497 - __logger__ - INFO - [140087866152704, (77.137.150.199:54932)] User gportal has requested DirList
+2020-12-10 17:58:16,721 - __logger__ - WARNING - [140087866152704, (77.137.150.199:54932)] User gportal tried to get non-existing file: bullshit.txt
+2020-12-10 17:58:46,126 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55416)
+2020-12-10 17:58:46,127 - __logger__ - INFO - [140087866152704, (77.137.150.199:55416)] Authentication success with user gportal!
+2020-12-10 17:58:46,362 - __logger__ - INFO - [140087866152704, (77.137.150.199:55416)] User gportal has requested DirList
+2020-12-10 17:58:46,598 - __logger__ - WARNING - [140087866152704, (77.137.150.199:55416)] User gportal tried to get non-existing file: bullshit.txt
+2020-12-10 17:59:28,408 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55141)
+2020-12-10 17:59:28,409 - __logger__ - INFO - [140087866152704, (77.137.150.199:55141)] Authentication success with user gportal!
+2020-12-10 17:59:28,656 - __logger__ - INFO - [140087866152704, (77.137.150.199:55141)] User gportal has requested DirList
+2020-12-10 17:59:28,904 - __logger__ - WARNING - [140087866152704, (77.137.150.199:55141)] User gportal tried to get non-existing file: bullshit.txt
+2020-12-10 17:59:53,922 - __logger__ - INFO - Got connection from: ('77.137.150.199', 54476)
+2020-12-10 17:59:53,922 - __logger__ - INFO - [140087866152704, (77.137.150.199:54476)] Authentication success with user gportal!
+2020-12-10 17:59:54,150 - __logger__ - INFO - [140087866152704, (77.137.150.199:54476)] User gportal has requested DirList
+2020-12-10 18:00:21,734 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55075)
+2020-12-10 18:00:21,738 - __logger__ - INFO - [140087866152704, (77.137.150.199:55075)] Authentication success with user gportal!
+2020-12-10 18:00:21,974 - __logger__ - INFO - [140087866152704, (77.137.150.199:55075)] User gportal has requested DirList
+2020-12-10 18:01:48,789 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55353)
+2020-12-10 18:01:48,794 - __logger__ - INFO - [140087866152704, (77.137.150.199:55353)] Authentication success with user gportal!
+2020-12-10 18:01:49,030 - __logger__ - INFO - [140087866152704, (77.137.150.199:55353)] User gportal has requested DirList
+2020-12-10 18:02:05,731 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53447)
+2020-12-10 18:02:05,732 - __logger__ - INFO - [140087866152704, (77.137.113.132:53447)] Authentication success with user giggs!
+2020-12-10 18:02:05,977 - __logger__ - INFO - [140087866152704, (77.137.113.132:53447)] User giggs get the file: gportal_password.txt
+2020-12-10 18:02:06,478 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55377)
+2020-12-10 18:02:06,485 - __logger__ - INFO - [140087866152704, (77.137.150.199:55377)] Authentication success with user gportal!
+2020-12-10 18:02:06,725 - __logger__ - INFO - [140087866152704, (77.137.150.199:55377)] User gportal has requested DirList
+2020-12-10 18:02:49,865 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53450)
+2020-12-10 18:02:49,874 - __logger__ - INFO - [140087866152704, (77.137.113.132:53450)] Authentication success with user giggs!
+2020-12-10 18:02:49,932 - __logger__ - INFO - Got connection from: ('77.137.150.199', 54734)
+2020-12-10 18:02:49,936 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] Authentication success with user gportal!
+2020-12-10 18:02:50,166 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal has requested DirList
+2020-12-10 18:02:50,174 - __logger__ - INFO - [140087866152704, (77.137.113.132:53450)] User giggs get the file: gportal_password.txt
+2020-12-10 18:02:50,399 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: TOPSECRET.txt
+2020-12-10 18:02:50,629 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 42takziv2004.xlsx.001
+2020-12-10 18:02:51,121 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 356.pdf
+2020-12-10 18:02:51,597 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 42takziv2004.xlsx.003
+2020-12-10 18:02:51,840 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 42takziv2004.xlsx.002
+2020-12-10 18:02:52,079 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: hoze.pdf
+2020-12-10 18:02:52,486 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53451)
+2020-12-10 18:02:52,487 - __logger__ - INFO - [140087866152704, (77.137.113.132:53451)] Authentication success with user giggs!
+2020-12-10 18:02:52,555 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 2254133.log
+2020-12-10 18:02:52,790 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: SecretCrazyRoomCenter.zip
+2020-12-10 18:02:53,504 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: SecretCrazyRoomNorth.zip
+2020-12-10 18:02:54,225 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2020-12-10 18:02:54,456 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 355.pdf
+2020-12-10 18:02:54,946 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: presentation.pptx
+2020-12-10 18:03:00,101 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 341.pdf
+2020-12-10 18:03:00,347 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: 340.pdf
+2020-12-10 18:03:00,633 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: SecretCrazyRoomSouth.zip
+2020-12-10 18:03:01,387 - __logger__ - INFO - [140087874545408, (77.137.150.199:54734)] User gportal get the file: very_important.txt
+2020-12-10 18:04:52,031 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53457)
+2020-12-10 18:04:52,031 - __logger__ - INFO - [140087874545408, (77.137.113.132:53457)] Authentication success with user giggs!
+2020-12-10 18:04:52,351 - __logger__ - INFO - [140087874545408, (77.137.113.132:53457)] User giggs get the file: gportal_password.txt
+2020-12-10 18:05:04,009 - __logger__ - INFO - Got connection from: ('77.137.113.132', 53458)
+2020-12-10 18:05:04,019 - __logger__ - INFO - [140087874545408, (77.137.113.132:53458)] Authentication success with user gportal!
+2020-12-10 18:05:04,346 - __logger__ - WARNING - [140087874545408, (77.137.113.132:53458)] User gportal tried to get non-existing file: gportal_password.txt
+2020-12-10 18:12:02,212 - __logger__ - INFO - Got connection from: ('77.137.150.199', 54951)
+2020-12-10 18:12:02,217 - __logger__ - INFO - [140087874545408, (77.137.150.199:54951)] Authentication success with user gportal!
+2020-12-10 18:12:02,455 - __logger__ - INFO - [140087874545408, (77.137.150.199:54951)] User gportal has requested DirList
+2020-12-10 18:12:02,695 - __logger__ - INFO - [140087874545408, (77.137.150.199:54951)] User gportal get the file: TOPSECRET.txt
+2020-12-10 18:12:15,666 - __logger__ - INFO - Got connection from: ('77.137.150.199', 55398)
+2020-12-10 18:12:15,671 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] Authentication success with user gportal!
+2020-12-10 18:12:15,922 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal has requested DirList
+2020-12-10 18:12:16,175 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: TOPSECRET.txt
+2020-12-10 18:12:16,427 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 42takziv2004.xlsx.001
+2020-12-10 18:12:16,953 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 356.pdf
+2020-12-10 18:12:17,481 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 42takziv2004.xlsx.003
+2020-12-10 18:12:17,741 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 42takziv2004.xlsx.002
+2020-12-10 18:12:18,001 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: hoze.pdf
+2020-12-10 18:12:18,512 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 2254133.log
+2020-12-10 18:12:18,769 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: SecretCrazyRoomCenter.zip
+2020-12-10 18:12:19,552 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: SecretCrazyRoomNorth.zip
+2020-12-10 18:12:20,339 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2020-12-10 18:12:20,591 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 355.pdf
+2020-12-10 18:12:21,121 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: presentation.pptx
+2020-12-10 18:12:27,091 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 341.pdf
+2020-12-10 18:12:27,357 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: 340.pdf
+2020-12-10 18:12:27,615 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: SecretCrazyRoomSouth.zip
+2020-12-10 18:12:28,404 - __logger__ - INFO - [140087874545408, (77.137.150.199:55398)] User gportal get the file: very_important.txt
+2020-12-10 18:26:40,235 - __logger__ - INFO - Got connection from: ('195.211.252.197', 45165)
+2020-12-10 18:26:40,236 - __logger__ - DEBUG - [140087874545408, (195.211.252.197:45165)] Packet with invalid prefix or suffix has been received!
+2020-12-10 18:26:40,451 - __logger__ - DEBUG - [140087874545408, (195.211.252.197:45165)] Packet with invalid prefix or suffix has been received!
+2020-12-10 18:29:39,277 - __logger__ - INFO - Got connection from: ('80.82.68.29', 45670)
+2020-12-10 18:29:39,277 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:45670)] Packet with invalid prefix or suffix has been received!
+2020-12-10 18:29:39,417 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:45670)] Packet with invalid prefix or suffix has been received!
+2020-12-10 19:03:07,671 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3542)
+2020-12-10 19:03:07,671 - __logger__ - INFO - [140087874545408, (5.102.253.132:3542)] Authentication success with user giggs!
+2020-12-10 19:03:07,908 - __logger__ - INFO - [140087874545408, (5.102.253.132:3542)] User giggs get the file: gportal_password.txt
+2020-12-10 19:18:54,447 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3088)
+2020-12-10 19:18:54,448 - __logger__ - INFO - [140087874545408, (5.102.253.132:3088)] Authentication success with user giggs!
+2020-12-10 19:18:54,687 - __logger__ - WARNING - [140087874545408, (5.102.253.132:3088)] User giggs tried to get non-existing file: first.png
+2020-12-10 20:07:22,806 - __logger__ - INFO - Got connection from: ('80.82.68.29', 60914)
+2020-12-10 20:07:22,807 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:60914)] Packet with invalid prefix or suffix has been received!
+2020-12-10 20:07:22,946 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:60914)] Packet with invalid prefix or suffix has been received!
+2020-12-10 20:22:50,308 - __logger__ - INFO - Got connection from: ('79.176.11.136', 54049)
+2020-12-10 20:22:50,352 - __logger__ - INFO - [140087874545408, (79.176.11.136:54049)] Authentication success with user giggs!
+2020-12-10 20:22:50,608 - __logger__ - INFO - [140087874545408, (79.176.11.136:54049)] User giggs get the file: gportal_password.txt
+2020-12-10 20:25:15,029 - __logger__ - INFO - Got connection from: ('79.176.11.136', 54127)
+2020-12-10 20:25:15,030 - __logger__ - INFO - [140087874545408, (79.176.11.136:54127)] Authentication success with user giggs!
+2020-12-10 20:25:15,293 - __logger__ - INFO - [140087874545408, (79.176.11.136:54127)] User giggs get the file: gportal_password.txt
+2020-12-10 20:56:06,429 - __logger__ - INFO - Got connection from: ('80.82.68.29', 34492)
+2020-12-10 20:56:06,430 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:34492)] Packet with invalid prefix or suffix has been received!
+2020-12-10 20:56:06,569 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:34492)] Packet with invalid prefix or suffix has been received!
+2020-12-10 20:56:20,916 - __logger__ - INFO - Got connection from: ('58.153.57.224', 47115)
+2020-12-10 22:54:02,280 - __logger__ - INFO - Got connection from: ('80.82.68.29', 55898)
+2020-12-10 22:54:02,281 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55898)] Packet with invalid prefix or suffix has been received!
+2020-12-10 22:54:02,421 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:55898)] Packet with invalid prefix or suffix has been received!
+2020-12-11 00:22:46,496 - __logger__ - INFO - Got connection from: ('92.34.184.222', 46242)
+2020-12-11 02:26:23,155 - __logger__ - INFO - Got connection from: ('45.148.10.28', 55258)
+2020-12-11 02:26:23,155 - __logger__ - DEBUG - [140087874545408, (45.148.10.28:55258)] Packet with invalid prefix or suffix has been received!
+2020-12-11 02:26:23,345 - __logger__ - DEBUG - [140087874545408, (45.148.10.28:55258)] Packet with invalid prefix or suffix has been received!
+2020-12-11 05:49:51,473 - __logger__ - INFO - Got connection from: ('172.104.242.173', 52965)
+2020-12-11 05:49:51,473 - __logger__ - DEBUG - [140087874545408, (172.104.242.173:52965)] Packet with less data than possible minimal has received!
+2020-12-11 07:50:07,141 - __logger__ - INFO - Got connection from: ('188.163.20.97', 31433)
+2020-12-11 10:58:18,141 - __logger__ - INFO - Got connection from: ('154.123.218.223', 1661)
+2020-12-11 10:58:18,149 - __logger__ - DEBUG - [140087874545408, (154.123.218.223:1661)] Packet with invalid prefix or suffix has been received!
+2020-12-11 10:58:18,505 - __logger__ - DEBUG - [140087874545408, (154.123.218.223:1661)] Packet with invalid prefix or suffix has been received!
+2020-12-11 11:11:00,933 - __logger__ - INFO - Got connection from: ('74.82.47.4', 39518)
+2020-12-11 11:11:01,012 - __logger__ - DEBUG - [140087874545408, (74.82.47.4:39518)] Packet with less data than possible minimal has received!
+2020-12-11 12:43:51,861 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3367)
+2020-12-11 12:43:51,862 - __logger__ - INFO - [140087874545408, (5.102.253.132:3367)] Authentication success with user giggs!
+2020-12-11 12:43:52,096 - __logger__ - INFO - [140087874545408, (5.102.253.132:3367)] User giggs get the file: gportal_password.txt
+2020-12-11 12:44:13,381 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3366)
+2020-12-11 12:44:13,382 - __logger__ - INFO - [140087874545408, (5.102.253.132:3366)] Authentication success with user giggs!
+2020-12-11 12:44:13,616 - __logger__ - INFO - [140087874545408, (5.102.253.132:3366)] User giggs get the file: gportal_password.txt
+2020-12-11 12:45:23,671 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3373)
+2020-12-11 12:45:23,672 - __logger__ - INFO - [140087874545408, (5.102.253.132:3373)] Authentication success with user giggs!
+2020-12-11 12:45:23,910 - __logger__ - INFO - [140087874545408, (5.102.253.132:3373)] User giggs get the file: gportal_password.txt
+2020-12-11 12:46:47,610 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3374)
+2020-12-11 12:46:47,611 - __logger__ - INFO - [140087874545408, (5.102.253.132:3374)] Authentication success with user giggs!
+2020-12-11 12:46:47,857 - __logger__ - INFO - [140087874545408, (5.102.253.132:3374)] User giggs get the file: gportal_password.txt
+2020-12-11 12:47:10,187 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3375)
+2020-12-11 12:47:10,188 - __logger__ - INFO - [140087874545408, (5.102.253.132:3375)] Authentication success with user giggs!
+2020-12-11 12:47:10,423 - __logger__ - INFO - [140087874545408, (5.102.253.132:3375)] User giggs get the file: gportal_password.txt
+2020-12-11 12:47:31,488 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3377)
+2020-12-11 12:47:31,489 - __logger__ - INFO - [140087874545408, (5.102.253.132:3377)] Authentication success with user giggs!
+2020-12-11 12:47:31,730 - __logger__ - INFO - [140087874545408, (5.102.253.132:3377)] User giggs get the file: gportal_password.txt
+2020-12-11 12:48:10,347 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3378)
+2020-12-11 12:48:10,348 - __logger__ - INFO - [140087874545408, (5.102.253.132:3378)] Authentication success with user giggs!
+2020-12-11 12:48:10,581 - __logger__ - INFO - [140087874545408, (5.102.253.132:3378)] User giggs get the file: gportal_password.txt
+2020-12-11 15:04:06,611 - __logger__ - INFO - Got connection from: ('172.104.242.173', 43053)
+2020-12-11 15:04:06,612 - __logger__ - DEBUG - [140087874545408, (172.104.242.173:43053)] Packet with less data than possible minimal has received!
+2020-12-11 15:13:04,242 - __logger__ - INFO - Got connection from: ('80.82.68.29', 37126)
+2020-12-11 15:13:04,243 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:37126)] Packet with invalid prefix or suffix has been received!
+2020-12-11 15:13:04,381 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:37126)] Packet with invalid prefix or suffix has been received!
+2020-12-11 17:20:33,033 - __logger__ - INFO - Got connection from: ('80.82.68.29', 49852)
+2020-12-11 17:20:33,034 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:49852)] Packet with invalid prefix or suffix has been received!
+2020-12-11 17:20:33,172 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:49852)] Packet with invalid prefix or suffix has been received!
+2020-12-11 18:36:28,083 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3090)
+2020-12-11 18:36:28,084 - __logger__ - INFO - [140087874545408, (5.102.253.132:3090)] Authentication success with user giggs!
+2020-12-11 18:36:28,325 - __logger__ - INFO - [140087874545408, (5.102.253.132:3090)] User giggs get the file: gportal_password.txt
+2020-12-11 18:37:03,971 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3098)
+2020-12-11 18:37:03,971 - __logger__ - INFO - [140087874545408, (5.102.253.132:3098)] Authentication success with user giggs!
+2020-12-11 18:37:04,221 - __logger__ - INFO - [140087874545408, (5.102.253.132:3098)] User giggs get the file: gportal_password.txt
+2020-12-11 18:37:32,495 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3100)
+2020-12-11 18:37:32,496 - __logger__ - INFO - [140087874545408, (5.102.253.132:3100)] Authentication success with user giggs!
+2020-12-11 18:37:32,730 - __logger__ - INFO - [140087874545408, (5.102.253.132:3100)] User giggs get the file: gportal_password.txt
+2020-12-11 18:38:04,863 - __logger__ - INFO - Got connection from: ('5.102.253.132', 3085)
+2020-12-11 18:38:04,864 - __logger__ - INFO - [140087874545408, (5.102.253.132:3085)] Authentication success with user giggs!
+2020-12-11 18:38:05,113 - __logger__ - INFO - [140087874545408, (5.102.253.132:3085)] User giggs get the file: gportal_password.txt
+2020-12-12 00:02:16,421 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65157)
+2020-12-12 00:02:16,422 - __logger__ - INFO - [140087874545408, (89.139.192.207:65157)] Authentication success with user giggs!
+2020-12-12 00:02:16,742 - __logger__ - INFO - [140087874545408, (89.139.192.207:65157)] User giggs get the file: gportal_password.txt
+2020-12-12 00:03:11,190 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65173)
+2020-12-12 00:03:11,192 - __logger__ - INFO - [140087874545408, (89.139.192.207:65173)] Authentication success with user giggs!
+2020-12-12 00:03:11,425 - __logger__ - INFO - [140087874545408, (89.139.192.207:65173)] User giggs get the file: gportal_password.txt
+2020-12-12 00:04:18,225 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65184)
+2020-12-12 00:04:18,226 - __logger__ - INFO - [140087874545408, (89.139.192.207:65184)] Authentication success with user giggs!
+2020-12-12 00:04:18,447 - __logger__ - INFO - [140087874545408, (89.139.192.207:65184)] User giggs get the file: gportal_password.txt
+2020-12-12 00:13:26,613 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65218)
+2020-12-12 00:14:44,001 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65226)
+2020-12-12 00:14:50,091 - __logger__ - INFO - [140087874545408, (89.139.192.207:65226)] Authentication success with user giggs!
+2020-12-12 00:15:03,321 - __logger__ - INFO - [140087874545408, (89.139.192.207:65226)] User giggs has requested DirList
+2020-12-12 00:15:19,514 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65226)] Packet with invalid json structure has been received!
+2020-12-12 00:15:25,918 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65234)
+2020-12-12 00:15:31,093 - __logger__ - INFO - [140087874545408, (89.139.192.207:65234)] Authentication success with user giggs!
+2020-12-12 00:15:44,808 - __logger__ - INFO - [140087874545408, (89.139.192.207:65234)] User giggs has requested DirList
+2020-12-12 00:15:52,670 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65234)] Packet with invalid json structure has been received!
+2020-12-12 00:16:12,353 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65241)
+2020-12-12 00:16:17,963 - __logger__ - INFO - [140087874545408, (89.139.192.207:65241)] Authentication success with user giggs!
+2020-12-12 00:16:18,900 - __logger__ - INFO - [140087874545408, (89.139.192.207:65241)] User giggs has requested DirList
+2020-12-12 00:16:28,652 - __logger__ - INFO - [140087874545408, (89.139.192.207:65241)] User giggs has logged out
+2020-12-12 00:16:32,683 - __logger__ - INFO - [140087874545408, (89.139.192.207:65241)] Authentication success with user giggs!
+2020-12-12 00:16:42,864 - __logger__ - INFO - [140087874545408, (89.139.192.207:65241)] User giggs has requested DirList
+2020-12-12 00:16:49,641 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65241)] Packet with invalid json structure has been received!
+2020-12-12 00:17:56,977 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65249)
+2020-12-12 00:17:56,988 - __logger__ - INFO - [140087874545408, (89.139.192.207:65249)] Authentication success with user giggs!
+2020-12-12 00:18:18,252 - __logger__ - INFO - [140087874545408, (89.139.192.207:65249)] User giggs has requested DirList
+2020-12-12 00:19:07,042 - __logger__ - INFO - [140087874545408, (89.139.192.207:65249)] User giggs has requested DirList
+2020-12-12 00:20:02,437 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65249)] User giggs tried to get non-existing file: aaa
+2020-12-12 00:20:29,554 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65287)
+2020-12-12 00:20:29,558 - __logger__ - INFO - [140087874545408, (89.139.192.207:65287)] Authentication success with user giggs!
+2020-12-12 00:21:49,679 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65319)
+2020-12-12 00:21:49,683 - __logger__ - INFO - [140087874545408, (89.139.192.207:65319)] Authentication success with user giggs!
+2020-12-12 00:21:52,534 - __logger__ - INFO - [140087874545408, (89.139.192.207:65319)] User giggs has requested DirList
+2020-12-12 00:21:54,563 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65319)] User giggs tried to get non-existing file: adasas
+2020-12-12 00:22:05,304 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65319)] User giggs tried to get non-existing file: bullshit.txt
+2020-12-12 00:22:08,354 - __logger__ - INFO - [140087874545408, (89.139.192.207:65319)] User giggs has requested DirList
+2020-12-12 00:22:14,440 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65319)] User giggs tried to get non-existing file: gportal_password.txt
+2020-12-12 00:22:43,950 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65319)] User giggs tried to get non-existing file: gportal_password.txt
+2020-12-12 00:24:02,204 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65330)
+2020-12-12 00:24:02,205 - __logger__ - INFO - [140087874545408, (89.139.192.207:65330)] Authentication success with user giggs!
+2020-12-12 00:24:10,652 - __logger__ - INFO - [140087874545408, (89.139.192.207:65330)] User giggs has requested DirList
+2020-12-12 00:24:18,957 - __logger__ - INFO - [140087874545408, (89.139.192.207:65330)] User giggs get the file: gportal_password.txt
+2020-12-12 00:24:27,994 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65338)
+2020-12-12 00:24:27,995 - __logger__ - INFO - [140087874545408, (89.139.192.207:65338)] Authentication success with user giggs!
+2020-12-12 00:24:30,121 - __logger__ - INFO - [140087874545408, (89.139.192.207:65338)] User giggs get the file: bullshit.txt
+2020-12-12 00:24:32,987 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65338)] User giggs tried to get non-existing file: aaa
+2020-12-12 00:24:47,629 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65338)] User giggs tried to get non-existing file: /
+2020-12-12 00:25:58,141 - __logger__ - INFO - [140087874545408, (89.139.192.207:65338)] User giggs has requested DirList
+2020-12-12 00:26:51,433 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65348)
+2020-12-12 00:26:51,437 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65348)] Packet with invalid json content has been received!
+2020-12-12 00:26:56,086 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65348)] Packet with invalid json content has been received!
+2020-12-12 00:27:39,234 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65354)
+2020-12-12 00:27:39,237 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65354)] Packet with invalid json structure has been received!
+2020-12-12 00:27:40,775 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65354)] Packet with invalid json structure has been received!
+2020-12-12 00:28:58,785 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65362)
+2020-12-12 00:28:58,786 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65362)] Packet with invalid json structure has been received!
+2020-12-12 00:30:44,446 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65370)
+2020-12-12 00:30:44,449 - __logger__ - INFO - [140087874545408, (89.139.192.207:65370)] Authentication success with user giggs!
+2020-12-12 00:30:45,686 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65370)] Packet with non-existing request code: 201 has been received!
+2020-12-12 00:31:26,559 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65376)
+2020-12-12 00:31:26,563 - __logger__ - INFO - [140087874545408, (89.139.192.207:65376)] Authentication success with user giggs!
+2020-12-12 00:31:27,899 - __logger__ - INFO - [140087874545408, (89.139.192.207:65376)] User giggs has requested DirList
+2020-12-12 00:31:37,145 - __logger__ - INFO - [140087874545408, (89.139.192.207:65376)] User giggs get the file: bullshit.txt
+2020-12-12 00:31:49,734 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65382)
+2020-12-12 00:31:49,747 - __logger__ - INFO - [140087874545408, (89.139.192.207:65382)] Authentication success with user giggs!
+2020-12-12 00:31:55,046 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65382)] User giggs tried to get non-existing file: ./bullshit.txt
+2020-12-12 00:32:02,180 - __logger__ - WARNING - [140087874545408, (89.139.192.207:65382)] User giggs tried to get non-existing file: .\bullshit.txt
+2020-12-12 00:32:54,844 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65389)
+2020-12-12 00:32:54,845 - __logger__ - INFO - [140087874545408, (89.139.192.207:65389)] Authentication success with user giggs!
+2020-12-12 00:32:58,568 - __logger__ - DEBUG - [140087874545408, (89.139.192.207:65389)] Packet with invalid request code has been received!
+2020-12-12 00:37:18,682 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65414)
+2020-12-12 00:37:18,684 - __logger__ - INFO - [140087874545408, (89.139.192.207:65414)] Authentication success with user gportal!
+2020-12-12 00:37:20,996 - __logger__ - INFO - [140087874545408, (89.139.192.207:65414)] User gportal has requested DirList
+2020-12-12 00:37:35,945 - __logger__ - INFO - [140087874545408, (89.139.192.207:65414)] User gportal get the file: SecretCrazyRoomSouth.zip
+2020-12-12 00:40:18,841 - __logger__ - INFO - Got connection from: ('89.139.192.207', 65447)
+2020-12-12 00:40:18,842 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] Authentication success with user gportal!
+2020-12-12 00:40:20,449 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal has requested DirList
+2020-12-12 00:40:20,689 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: presentation.pptx
+2020-12-12 00:40:23,537 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: TOPSECRET.txt
+2020-12-12 00:40:23,760 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 42takziv2004.xlsx.001
+2020-12-12 00:40:24,017 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 356.pdf
+2020-12-12 00:40:24,291 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 42takziv2004.xlsx.003
+2020-12-12 00:40:24,526 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 42takziv2004.xlsx.002
+2020-12-12 00:40:24,773 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: hoze.pdf
+2020-12-12 00:40:25,056 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 2254133.log
+2020-12-12 00:40:25,287 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: SecretCrazyRoomCenter.zip
+2020-12-12 00:40:25,606 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: SecretCrazyRoomNorth.zip
+2020-12-12 00:40:25,925 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 355.pdf
+2020-12-12 00:40:26,201 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2020-12-12 00:40:26,428 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 341.pdf
+2020-12-12 00:40:26,707 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: 340.pdf
+2020-12-12 00:40:26,976 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: SecretCrazyRoomSouth.zip
+2020-12-12 00:40:27,285 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal get the file: very_important.txt
+2020-12-12 00:40:30,141 - __logger__ - INFO - [140087874545408, (89.139.192.207:65447)] User gportal has logged out
+2020-12-12 02:46:05,707 - __logger__ - INFO - Got connection from: ('80.82.68.29', 58872)
+2020-12-12 02:46:05,707 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:58872)] Packet with invalid prefix or suffix has been received!
+2020-12-12 02:46:05,847 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:58872)] Packet with invalid prefix or suffix has been received!
+2020-12-12 03:01:49,827 - __logger__ - INFO - Got connection from: ('66.240.205.34', 33194)
+2020-12-12 05:21:53,361 - __logger__ - INFO - Got connection from: ('80.82.68.29', 41960)
+2020-12-12 05:21:53,361 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:41960)] Packet with invalid prefix or suffix has been received!
+2020-12-12 05:21:53,501 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:41960)] Packet with invalid prefix or suffix has been received!
+2020-12-12 07:40:32,579 - __logger__ - INFO - Got connection from: ('166.70.207.2', 50776)
+2020-12-12 07:40:32,920 - __logger__ - DEBUG - [140087874545408, (166.70.207.2:50776)] Packet with invalid prefix or suffix has been received!
+2020-12-12 07:52:44,284 - __logger__ - INFO - Got connection from: ('80.82.68.29', 37472)
+2020-12-12 07:52:44,285 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:37472)] Packet with invalid prefix or suffix has been received!
+2020-12-12 07:52:44,423 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:37472)] Packet with invalid prefix or suffix has been received!
+2020-12-12 08:05:38,828 - __logger__ - INFO - Got connection from: ('23.129.64.193', 61832)
+2020-12-12 08:05:39,303 - __logger__ - DEBUG - [140087874545408, (23.129.64.193:61832)] Packet with invalid prefix or suffix has been received!
+2020-12-12 08:57:05,232 - __logger__ - INFO - Got connection from: ('80.82.68.29', 44868)
+2020-12-12 08:57:05,232 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:44868)] Packet with invalid prefix or suffix has been received!
+2020-12-12 08:57:05,370 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:44868)] Packet with invalid prefix or suffix has been received!
+2020-12-12 09:27:56,448 - __logger__ - INFO - Got connection from: ('184.105.247.252', 52092)
+2020-12-12 09:27:56,449 - __logger__ - DEBUG - [140087874545408, (184.105.247.252:52092)] Packet with less data than possible minimal has received!
+2020-12-12 09:41:04,373 - __logger__ - INFO - Got connection from: ('96.127.137.202', 34828)
+2020-12-12 09:41:04,374 - __logger__ - DEBUG - [140087874545408, (96.127.137.202:34828)] Packet with invalid prefix or suffix has been received!
+2020-12-12 09:41:09,455 - __logger__ - INFO - Got connection from: ('96.127.137.202', 41080)
+2020-12-12 09:41:09,455 - __logger__ - DEBUG - [140087874545408, (96.127.137.202:41080)] Packet with invalid prefix or suffix has been received!
+2020-12-12 09:41:09,508 - __logger__ - DEBUG - [140087874545408, (96.127.137.202:41080)] Packet with less data than possible minimal has received!
+2020-12-12 09:41:09,561 - __logger__ - INFO - Got connection from: ('96.127.137.202', 41359)
+2020-12-12 09:41:09,561 - __logger__ - DEBUG - [140087874545408, (96.127.137.202:41359)] Packet with less data than possible minimal has received!
+2020-12-12 09:41:17,970 - __logger__ - INFO - Got connection from: ('96.127.137.202', 51056)
+2020-12-12 09:41:23,011 - __logger__ - INFO - Got connection from: ('96.127.137.202', 58240)
+2020-12-12 09:41:23,012 - __logger__ - DEBUG - [140087874545408, (96.127.137.202:58240)] Packet with invalid prefix or suffix has been received!
+2020-12-12 09:41:23,060 - __logger__ - DEBUG - [140087874545408, (96.127.137.202:58240)] Packet with less data than possible minimal has received!
+2020-12-12 09:41:23,128 - __logger__ - INFO - Got connection from: ('96.127.137.202', 35645)
+2020-12-12 09:41:23,129 - __logger__ - DEBUG - [140087874545408, (96.127.137.202:35645)] Packet with invalid prefix or suffix has been received!
+2020-12-12 09:42:14,158 - __logger__ - INFO - Got connection from: ('80.82.68.29', 36680)
+2020-12-12 09:42:14,159 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:36680)] Packet with invalid prefix or suffix has been received!
+2020-12-12 09:42:14,298 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:36680)] Packet with invalid prefix or suffix has been received!
+2020-12-12 11:19:17,069 - __logger__ - INFO - Got connection from: ('80.82.68.29', 46060)
+2020-12-12 11:19:17,070 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:46060)] Packet with invalid prefix or suffix has been received!
+2020-12-12 11:19:17,207 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:46060)] Packet with invalid prefix or suffix has been received!
+2020-12-12 12:25:45,525 - __logger__ - INFO - Got connection from: ('176.124.125.50', 49416)
+2020-12-12 12:25:47,995 - __logger__ - INFO - Got connection from: ('176.124.125.50', 49427)
+2020-12-12 12:25:47,999 - __logger__ - DEBUG - [140087866152704, (176.124.125.50:49427)] Packet with less data than possible minimal has received!
+2020-12-12 12:25:52,527 - __logger__ - INFO - Got connection from: ('176.124.125.50', 49442)
+2020-12-12 12:25:52,530 - __logger__ - DEBUG - [140087874545408, (176.124.125.50:49442)] Packet with less data than possible minimal has received!
+2020-12-12 12:25:57,076 - __logger__ - INFO - Got connection from: ('176.124.125.50', 49458)
+2020-12-12 12:25:57,080 - __logger__ - DEBUG - [140087874545408, (176.124.125.50:49458)] Packet with less data than possible minimal has received!
+2020-12-12 12:26:51,737 - __logger__ - INFO - Got connection from: ('61.239.73.163', 47357)
+2020-12-12 13:12:30,448 - __logger__ - INFO - Got connection from: ('80.82.68.29', 38538)
+2020-12-12 13:12:30,448 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:38538)] Packet with invalid prefix or suffix has been received!
+2020-12-12 13:12:30,584 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:38538)] Packet with invalid prefix or suffix has been received!
+2020-12-12 13:54:18,788 - __logger__ - INFO - Got connection from: ('80.82.68.29', 46426)
+2020-12-12 13:54:18,789 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:46426)] Packet with invalid prefix or suffix has been received!
+2020-12-12 13:54:18,927 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:46426)] Packet with invalid prefix or suffix has been received!
+2020-12-12 16:06:24,947 - __logger__ - INFO - Got connection from: ('80.82.68.29', 45350)
+2020-12-12 16:06:24,948 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:45350)] Packet with invalid prefix or suffix has been received!
+2020-12-12 16:06:25,085 - __logger__ - DEBUG - [140087874545408, (80.82.68.29:45350)] Packet with invalid prefix or suffix has been received!

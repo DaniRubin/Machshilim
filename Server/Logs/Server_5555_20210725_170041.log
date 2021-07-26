@@ -1,0 +1,6 @@
+2021-07-25 17:00:41,746 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 17:00:41,746 - __logger__ - INFO - Enters the main loop
+2021-07-25 17:00:45,784 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52753)
+2021-07-25 17:00:47,920 - __logger__ - INFO - [20940, (127.0.0.1:52753)] Authentication success with user gportal!
+2021-07-25 17:00:52,546 - __logger__ - INFO - [20940, (127.0.0.1:52753)] User gportal has requested DirList
+2021-07-25 17:01:14,776 - __logger__ - INFO - [20940, (127.0.0.1:52753)] User gportal get the file: SecretCrazyRoomCenter.zip

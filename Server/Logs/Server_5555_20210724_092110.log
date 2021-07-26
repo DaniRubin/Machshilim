@@ -1,0 +1,11 @@
+2021-07-24 09:21:10,621 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-24 09:21:10,623 - __logger__ - INFO - Enters the main loop
+2021-07-24 09:21:11,113 - __logger__ - INFO - Got connection from: ('127.0.0.1', 59229)
+2021-07-24 09:21:14,639 - __logger__ - INFO - [12136, (127.0.0.1:59229)] Authentication success with user gportal!
+2021-07-24 09:21:15,912 - __logger__ - INFO - [12136, (127.0.0.1:59229)] User gportal has requested DirList
+2021-07-24 09:21:41,881 - __logger__ - INFO - [12136, (127.0.0.1:59229)] User gportal get the file: 340.pdf
+2021-07-24 09:21:46,173 - __logger__ - DEBUG - [12136, (127.0.0.1:59229)] Unknown error while sending a packet!
+2021-07-24 09:22:09,382 - __logger__ - INFO - Got connection from: ('127.0.0.1', 59236)
+2021-07-24 09:22:12,367 - __logger__ - INFO - [23844, (127.0.0.1:59236)] Authentication success with user gportal!
+2021-07-24 09:22:29,999 - __logger__ - INFO - [23844, (127.0.0.1:59236)] User gportal get the file: 340.pdf
+2021-07-24 09:22:33,263 - __logger__ - DEBUG - [23844, (127.0.0.1:59236)] Unknown error while sending a packet!

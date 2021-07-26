@@ -1,0 +1,14 @@
+2021-07-23 20:28:04,896 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 20:28:04,898 - __logger__ - INFO - Enters the main loop
+2021-07-23 20:28:14,092 - __logger__ - INFO - Got connection from: ('127.0.0.1', 50693)
+2021-07-23 20:28:17,552 - __logger__ - INFO - [21700, (127.0.0.1:50693)] Authentication success with user giggs!
+2021-07-23 20:28:29,604 - __logger__ - INFO - [21700, (127.0.0.1:50693)] User giggs has requested DirList
+2021-07-23 20:35:27,353 - __logger__ - DEBUG - [21700, (127.0.0.1:50693)] Fin has been received!
+2021-07-23 20:36:33,654 - __logger__ - INFO - Got connection from: ('127.0.0.1', 59679)
+2021-07-23 20:36:49,640 - __logger__ - INFO - [22280, (127.0.0.1:59679)] Authentication success with user giggs!
+2021-07-23 20:36:51,737 - __logger__ - INFO - [22280, (127.0.0.1:59679)] User giggs has requested DirList
+2021-07-23 20:37:19,582 - __logger__ - DEBUG - [22280, (127.0.0.1:59679)] Fin has been received!
+2021-07-23 20:38:04,154 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56443)
+2021-07-23 20:47:15,986 - __logger__ - INFO - [14164, (127.0.0.1:56443)] Authentication success with user giggs!
+2021-07-23 20:47:18,525 - __logger__ - INFO - [14164, (127.0.0.1:56443)] User giggs has requested DirList
+2021-07-23 22:20:17,564 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56792)

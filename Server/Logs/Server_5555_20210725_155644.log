@@ -1,0 +1,55 @@
+2021-07-25 15:56:44,237 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 15:56:44,238 - __logger__ - INFO - Enters the main loop
+2021-07-25 15:56:47,208 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49638)
+2021-07-25 15:56:49,879 - __logger__ - INFO - [22548, (127.0.0.1:49638)] Authentication success with user gportal!
+2021-07-25 15:56:59,187 - __logger__ - INFO - [22548, (127.0.0.1:49638)] User gportal get the file: 340.pdf
+2021-07-25 15:56:59,338 - __logger__ - DEBUG - [22548, (127.0.0.1:49638)] Unknown error while receiving a packet!
+2021-07-25 15:57:12,187 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49641)
+2021-07-25 15:57:16,290 - __logger__ - INFO - [20848, (127.0.0.1:49641)] Authentication success with user gportal!
+2021-07-25 15:57:32,732 - __logger__ - INFO - [20848, (127.0.0.1:49641)] User gportal get the file: 340.pdf
+2021-07-25 15:57:32,904 - __logger__ - DEBUG - [20848, (127.0.0.1:49641)] Fin has been received!
+2021-07-25 15:58:11,768 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61847)
+2021-07-25 15:58:14,549 - __logger__ - INFO - [14536, (127.0.0.1:61847)] Authentication success with user gportal!
+2021-07-25 15:58:20,468 - __logger__ - INFO - [14536, (127.0.0.1:61847)] User gportal get the file: 340.pdf
+2021-07-25 15:58:20,632 - __logger__ - DEBUG - [14536, (127.0.0.1:61847)] Unknown error while receiving a packet!
+2021-07-25 15:58:35,328 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61850)
+2021-07-25 15:58:44,005 - __logger__ - INFO - [20456, (127.0.0.1:61850)] Authentication success with user gportal!
+2021-07-25 15:58:54,996 - __logger__ - INFO - [20456, (127.0.0.1:61850)] User gportal get the file: 340.pdf
+2021-07-25 15:58:55,145 - __logger__ - DEBUG - [20456, (127.0.0.1:61850)] Fin has been received!
+2021-07-25 16:01:01,767 - __logger__ - INFO - Got connection from: ('127.0.0.1', 60727)
+2021-07-25 16:01:11,304 - __logger__ - DEBUG - [4540, (127.0.0.1:60727)] Fin has been received!
+2021-07-25 16:01:14,905 - __logger__ - INFO - Got connection from: ('127.0.0.1', 60754)
+2021-07-25 16:01:17,814 - __logger__ - DEBUG - [928, (127.0.0.1:60754)] Fin has been received!
+2021-07-25 16:01:19,586 - __logger__ - INFO - Got connection from: ('127.0.0.1', 60755)
+2021-07-25 16:01:21,557 - __logger__ - INFO - [7060, (127.0.0.1:60755)] Authentication success with user gportal!
+2021-07-25 16:01:41,908 - __logger__ - INFO - [7060, (127.0.0.1:60755)] User gportal get the file: TOPSECRET.txt
+2021-07-25 16:02:28,297 - __logger__ - INFO - [7060, (127.0.0.1:60755)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-25 16:02:28,448 - __logger__ - DEBUG - [7060, (127.0.0.1:60755)] Unknown error while receiving a packet!
+2021-07-25 16:04:31,286 - __logger__ - INFO - Got connection from: ('127.0.0.1', 59562)
+2021-07-25 16:04:34,730 - __logger__ - DEBUG - [18332, (127.0.0.1:59562)] Unknown error while receiving a packet!
+2021-07-25 16:05:25,443 - __logger__ - INFO - Got connection from: ('127.0.0.1', 57477)
+2021-07-25 16:05:36,913 - __logger__ - INFO - [11804, (127.0.0.1:57477)] Authentication success with user gportal!
+2021-07-25 16:05:44,710 - __logger__ - INFO - [11804, (127.0.0.1:57477)] User gportal get the file: 340.pdf
+2021-07-25 16:05:44,727 - __logger__ - DEBUG - [11804, (127.0.0.1:57477)] Unknown error while receiving a packet!
+2021-07-25 16:06:31,023 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63035)
+2021-07-25 16:06:34,113 - __logger__ - INFO - [10428, (127.0.0.1:63035)] Authentication success with user gportal!
+2021-07-25 16:06:39,682 - __logger__ - INFO - [10428, (127.0.0.1:63035)] User gportal get the file: 340.pdf
+2021-07-25 16:06:39,835 - __logger__ - DEBUG - [10428, (127.0.0.1:63035)] Unknown error while receiving a packet!
+2021-07-25 16:07:33,771 - __logger__ - INFO - Got connection from: ('127.0.0.1', 63042)
+2021-07-25 16:07:35,811 - __logger__ - INFO - [13196, (127.0.0.1:63042)] Authentication success with user gportal!
+2021-07-25 16:07:41,813 - __logger__ - INFO - [13196, (127.0.0.1:63042)] User gportal get the file: 340.pdf
+2021-07-25 16:07:42,028 - __logger__ - DEBUG - [13196, (127.0.0.1:63042)] Fin has been received!
+2021-07-25 16:08:25,952 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52579)
+2021-07-25 16:08:33,032 - __logger__ - INFO - [21472, (127.0.0.1:52579)] Authentication success with user gportal!
+2021-07-25 16:08:48,867 - __logger__ - INFO - [21472, (127.0.0.1:52579)] User gportal get the file: TOPSECRET.txt
+2021-07-25 16:08:59,431 - __logger__ - INFO - [21472, (127.0.0.1:52579)] User gportal get the file: 340.pdf
+2021-07-25 16:09:50,814 - __logger__ - DEBUG - [21472, (127.0.0.1:52579)] Unknown error while receiving a packet!
+2021-07-25 16:09:50,956 - __logger__ - INFO - Got connection from: ('127.0.0.1', 52638)
+2021-07-25 16:09:59,877 - __logger__ - INFO - [20360, (127.0.0.1:52638)] Authentication success with user gportal!
+2021-07-25 16:10:07,842 - __logger__ - INFO - [20360, (127.0.0.1:52638)] User gportal get the file: 340.pdf
+2021-07-25 16:13:03,756 - __logger__ - DEBUG - [20360, (127.0.0.1:52638)] Unknown error while receiving a packet!
+2021-07-25 16:13:03,975 - __logger__ - INFO - Got connection from: ('127.0.0.1', 56791)
+2021-07-25 16:13:06,802 - __logger__ - INFO - [13020, (127.0.0.1:56791)] Authentication success with user gportal!
+2021-07-25 16:13:15,844 - __logger__ - INFO - [13020, (127.0.0.1:56791)] User gportal get the file: 340.pdf
+2021-07-25 16:52:51,420 - __logger__ - WARNING - [13020, (127.0.0.1:56791)] User gportal tried to get non-existing file: SecretCrazyRoonCenter.zip
+2021-07-25 16:52:51,720 - __logger__ - DEBUG - [13020, (127.0.0.1:56791)] Fin has been received!

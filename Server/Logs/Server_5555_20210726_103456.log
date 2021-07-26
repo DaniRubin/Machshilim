@@ -1,0 +1,13 @@
+2021-07-26 10:34:56,856 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-26 10:34:56,857 - __logger__ - INFO - Enters the main loop
+2021-07-26 10:35:00,090 - __logger__ - INFO - Got connection from: ('127.0.0.1', 54950)
+2021-07-26 10:35:04,964 - __logger__ - DEBUG - [10372, (127.0.0.1:54950)] Fin has been received!
+2021-07-26 10:35:33,287 - __logger__ - INFO - Got connection from: ('127.0.0.1', 54966)
+2021-07-26 10:35:36,120 - __logger__ - INFO - [22636, (127.0.0.1:54966)] Authentication success with user gportal!
+2021-07-26 10:35:38,737 - __logger__ - INFO - [22636, (127.0.0.1:54966)] User gportal has requested DirList
+2021-07-26 10:36:11,040 - __logger__ - INFO - [22636, (127.0.0.1:54966)] User gportal get the file: TOPSECRET.txt
+2021-07-26 10:36:59,012 - __logger__ - DEBUG - [22636, (127.0.0.1:54966)] Unknown error while receiving a packet!
+2021-07-26 10:36:59,226 - __logger__ - INFO - Got connection from: ('127.0.0.1', 61329)
+2021-07-26 10:37:01,519 - __logger__ - INFO - [17716, (127.0.0.1:61329)] Authentication success with user gportal!
+2021-07-26 10:37:11,517 - __logger__ - INFO - [17716, (127.0.0.1:61329)] User gportal get the file: TOPSECRET.txt
+2021-07-26 10:38:37,340 - __logger__ - DEBUG - [17716, (127.0.0.1:61329)] Unknown error while receiving a packet!

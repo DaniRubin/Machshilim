@@ -1,0 +1,9 @@
+2021-07-24 09:24:03,676 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-24 09:24:03,679 - __logger__ - INFO - Enters the main loop
+2021-07-24 09:24:05,266 - __logger__ - INFO - Got connection from: ('127.0.0.1', 59297)
+2021-07-24 09:24:07,793 - __logger__ - INFO - [23292, (127.0.0.1:59297)] Authentication success with user gportal!
+2021-07-24 09:24:29,859 - __logger__ - INFO - [23292, (127.0.0.1:59297)] User gportal get the file: 340.pdf
+2021-07-24 15:09:48,008 - __logger__ - INFO - Got connection from: ('192.168.1.42', 52309)
+2021-07-24 15:09:48,062 - __logger__ - DEBUG - [21876, (192.168.1.42:52309)] Packet with invalid prefix or suffix has been received!
+2021-07-24 15:09:51,510 - __logger__ - INFO - Got connection from: ('192.168.1.42', 59375)
+2021-07-24 15:09:51,527 - __logger__ - DEBUG - [21888, (192.168.1.42:59375)] Packet with invalid prefix or suffix has been received!

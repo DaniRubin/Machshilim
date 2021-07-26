@@ -1,0 +1,6 @@
+2021-07-26 10:16:51,996 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-26 10:16:51,998 - __logger__ - INFO - Enters the main loop
+2021-07-26 10:16:53,460 - __logger__ - INFO - Got connection from: ('127.0.0.1', 53984)
+2021-07-26 10:16:57,662 - __logger__ - INFO - [14744, (127.0.0.1:53984)] Authentication success with user gportal!
+2021-07-26 10:17:16,441 - __logger__ - INFO - [14744, (127.0.0.1:53984)] User gportal has requested DirList
+2021-07-26 10:17:46,308 - __logger__ - INFO - [14744, (127.0.0.1:53984)] User gportal get the file: TOPSECRET.txt

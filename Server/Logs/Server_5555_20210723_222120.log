@@ -1,0 +1,5 @@
+2021-07-23 22:21:20,148 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 22:21:20,151 - __logger__ - INFO - Enters the main loop
+2021-07-23 22:21:22,229 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49167)
+2021-07-23 22:21:24,563 - __logger__ - INFO - [16896, (127.0.0.1:49167)] Authentication success with user giggs!
+2021-07-23 22:21:49,718 - __logger__ - INFO - [16896, (127.0.0.1:49167)] User giggs has requested DirList

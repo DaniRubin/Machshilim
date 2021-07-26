@@ -1,0 +1,14 @@
+2021-07-23 22:32:22,442 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 22:32:22,444 - __logger__ - INFO - Enters the main loop
+2021-07-23 22:32:24,712 - __logger__ - INFO - Got connection from: ('127.0.0.1', 58052)
+2021-07-23 22:32:26,888 - __logger__ - INFO - [9064, (127.0.0.1:58052)] Authentication success with user giggs!
+2021-07-23 22:32:41,944 - __logger__ - INFO - [9064, (127.0.0.1:58052)] User giggs get the file: bullshit.txt
+2021-07-23 22:32:41,945 - __logger__ - DEBUG - [9064, (127.0.0.1:58052)] Unknown error while sending a packet!
+2021-07-23 22:33:35,110 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49397)
+2021-07-23 22:33:37,153 - __logger__ - INFO - [19288, (127.0.0.1:49397)] Authentication success with user giggs!
+2021-07-23 22:33:45,536 - __logger__ - INFO - [19288, (127.0.0.1:49397)] User giggs get the file: bullshit.txt
+2021-07-23 22:33:45,536 - __logger__ - DEBUG - [19288, (127.0.0.1:49397)] Unknown error while sending a packet!
+2021-07-23 22:34:14,732 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49409)
+2021-07-23 22:34:17,381 - __logger__ - INFO - [15908, (127.0.0.1:49409)] Authentication success with user giggs!
+2021-07-23 22:34:23,718 - __logger__ - INFO - [15908, (127.0.0.1:49409)] User giggs get the file: bullshit.txt
+2021-07-23 22:34:23,721 - __logger__ - DEBUG - [15908, (127.0.0.1:49409)] Unknown error while sending a packet!

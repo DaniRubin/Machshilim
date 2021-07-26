@@ -1,0 +1,7 @@
+2021-07-25 17:13:30,638 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 17:13:30,640 - __logger__ - INFO - Enters the main loop
+2021-07-25 17:13:33,326 - __logger__ - INFO - Got connection from: ('127.0.0.1', 50453)
+2021-07-25 17:13:35,425 - __logger__ - INFO - [3524, (127.0.0.1:50453)] Authentication success with user gportal!
+2021-07-25 17:13:36,385 - __logger__ - INFO - [3524, (127.0.0.1:50453)] User gportal has requested DirList
+2021-07-25 17:14:01,910 - __logger__ - INFO - [3524, (127.0.0.1:50453)] User gportal get the file: SecretCrazyRoomNorth.zip
+2021-07-25 19:59:01,810 - __logger__ - DEBUG - [3524, (127.0.0.1:50453)] Unknown error while receiving a packet!

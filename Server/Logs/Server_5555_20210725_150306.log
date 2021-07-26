@@ -1,0 +1,16 @@
+2021-07-25 15:03:06,507 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 15:03:06,508 - __logger__ - INFO - Enters the main loop
+2021-07-25 15:03:14,106 - __logger__ - INFO - Got connection from: ('127.0.0.1', 54126)
+2021-07-25 15:03:16,329 - __logger__ - INFO - [22532, (127.0.0.1:54126)] Authentication success with user gportal!
+2021-07-25 15:10:32,479 - __logger__ - INFO - Got connection from: ('192.168.37.82', 61776)
+2021-07-25 15:10:32,493 - __logger__ - DEBUG - [3168, (192.168.37.82:61776)] Packet with invalid prefix or suffix has been received!
+2021-07-25 15:10:32,657 - __logger__ - DEBUG - [3168, (192.168.37.82:61776)] Fin has been received!
+2021-07-25 15:10:34,543 - __logger__ - INFO - Got connection from: ('192.168.37.82', 61778)
+2021-07-25 15:10:34,559 - __logger__ - DEBUG - [14516, (192.168.37.82:61778)] Packet with invalid prefix or suffix has been received!
+2021-07-25 15:10:34,676 - __logger__ - DEBUG - [14516, (192.168.37.82:61778)] Fin has been received!
+2021-07-25 15:13:19,753 - __logger__ - INFO - [22532, (127.0.0.1:54126)] User gportal has requested DirList
+2021-07-25 15:13:36,471 - __logger__ - INFO - [22532, (127.0.0.1:54126)] User gportal get the file: TOPSECRET.txt
+2021-07-25 15:14:14,072 - __logger__ - INFO - [22532, (127.0.0.1:54126)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-25 15:16:48,840 - __logger__ - WARNING - [22532, (127.0.0.1:54126)] User gportal tried to get non-existing file: very_importent.txt
+2021-07-25 15:17:13,132 - __logger__ - INFO - [22532, (127.0.0.1:54126)] User gportal get the file: very_important.txt
+2021-07-25 15:19:41,726 - __logger__ - WARNING - [22532, (127.0.0.1:54126)] User gportal tried to get non-existing file: 340.pdf

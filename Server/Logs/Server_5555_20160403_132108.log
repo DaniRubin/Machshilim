@@ -1,0 +1,104 @@
+2016-04-03 13:21:08,197 - __logger__ - DEBUG - The server's logger has been initialized!
+2016-04-03 13:21:08,198 - __logger__ - INFO - Enters the main loop
+2016-04-03 13:21:30,758 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36452)
+2016-04-03 13:21:32,509 - __logger__ - INFO - [140715459634944, (109.65.30.82:36452)] Authentication success with user gportal!
+2016-04-03 13:21:36,470 - __logger__ - INFO - [140715459634944, (109.65.30.82:36452)] User gportal get the file: 340.pdf
+2016-04-03 13:23:39,356 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36455)
+2016-04-03 13:23:42,297 - __logger__ - INFO - [140715459634944, (109.65.30.82:36455)] Authentication success with user gportal!
+2016-04-03 13:23:53,978 - __logger__ - INFO - [140715459634944, (109.65.30.82:36455)] User gportal get the file: 340.pdf
+2016-04-03 13:41:03,133 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36648)
+2016-04-03 13:41:05,575 - __logger__ - INFO - [140715459634944, (109.65.30.82:36648)] Authentication success with user gportal!
+2016-04-03 13:41:31,256 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36649)
+2016-04-03 13:41:34,127 - __logger__ - INFO - [140715459634944, (109.65.30.82:36649)] Authentication success with user gportal!
+2016-04-03 13:41:41,119 - __logger__ - INFO - [140715459634944, (109.65.30.82:36649)] User gportal get the file: 340.pdf
+2016-04-03 13:43:39,579 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36650)
+2016-04-03 13:43:41,206 - __logger__ - INFO - [140715459634944, (109.65.30.82:36650)] Authentication success with user gportal!
+2016-04-03 13:43:46,429 - __logger__ - INFO - [140715459634944, (109.65.30.82:36650)] User gportal get the file: 340.pdf
+2016-04-03 13:44:33,685 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36652)
+2016-04-03 13:44:35,172 - __logger__ - INFO - [140715459634944, (109.65.30.82:36652)] Authentication success with user gportal!
+2016-04-03 13:44:40,990 - __logger__ - INFO - [140715459634944, (109.65.30.82:36652)] User gportal get the file: 340.pdf
+2016-04-03 13:49:07,512 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36694)
+2016-04-03 13:49:08,792 - __logger__ - INFO - [140715459634944, (109.65.30.82:36694)] Authentication success with user gportal!
+2016-04-03 13:49:14,282 - __logger__ - INFO - [140715459634944, (109.65.30.82:36694)] User gportal get the file: 340.pdf
+2016-04-03 13:51:18,040 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36696)
+2016-04-03 13:53:49,267 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36711)
+2016-04-03 13:53:51,886 - __logger__ - INFO - [140715459634944, (109.65.30.82:36711)] Authentication success with user gportal!
+2016-04-03 13:53:58,782 - __logger__ - INFO - [140715459634944, (109.65.30.82:36711)] User gportal get the file: 340.pdf
+2016-04-03 13:54:32,010 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36717)
+2016-04-03 13:54:33,782 - __logger__ - INFO - [140715459634944, (109.65.30.82:36717)] Authentication success with user gportal!
+2016-04-03 13:54:38,143 - __logger__ - INFO - [140715459634944, (109.65.30.82:36717)] User gportal get the file: 340.pdf
+2016-04-03 13:55:25,665 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36720)
+2016-04-03 13:55:27,984 - __logger__ - INFO - [140715459634944, (109.65.30.82:36720)] Authentication success with user gportal!
+2016-04-03 13:55:33,976 - __logger__ - INFO - [140715459634944, (109.65.30.82:36720)] User gportal get the file: 340.pdf
+2016-04-03 14:00:00,087 - __logger__ - INFO - Got connection from: ('109.65.30.82', 36805)
+2016-04-03 14:00:01,497 - __logger__ - INFO - [140715459634944, (109.65.30.82:36805)] Authentication success with user gportal!
+2016-04-03 14:00:05,781 - __logger__ - INFO - [140715459634944, (109.65.30.82:36805)] User gportal get the file: 340.pdf
+2016-04-03 14:06:37,747 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37001)
+2016-04-03 14:06:39,889 - __logger__ - INFO - [140715459634944, (109.65.30.82:37001)] Authentication success with user gportal!
+2016-04-03 14:06:44,585 - __logger__ - INFO - [140715459634944, (109.65.30.82:37001)] User gportal get the file: 340.pdf
+2016-04-03 14:07:09,538 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37003)
+2016-04-03 14:07:12,872 - __logger__ - INFO - [140715459634944, (109.65.30.82:37003)] Authentication success with user gportal!
+2016-04-03 14:07:39,353 - __logger__ - INFO - [140715459634944, (109.65.30.82:37003)] User gportal get the file: 340.pdf
+2016-04-03 14:08:06,397 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37005)
+2016-04-03 14:08:09,390 - __logger__ - INFO - [140715459634944, (109.65.30.82:37005)] Authentication success with user gportal!
+2016-04-03 14:08:18,750 - __logger__ - INFO - [140715459634944, (109.65.30.82:37005)] User gportal get the file: 340.pdf
+2016-04-03 14:08:26,563 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37006)
+2016-04-03 14:08:30,272 - __logger__ - INFO - [140715459634944, (109.65.30.82:37006)] Authentication success with user gportal!
+2016-04-03 14:08:33,753 - __logger__ - INFO - [140715459634944, (109.65.30.82:37006)] User gportal get the file: 340.pdf
+2016-04-03 14:13:06,059 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37058)
+2016-04-03 14:13:07,406 - __logger__ - INFO - [140715459634944, (109.65.30.82:37058)] Authentication success with user gportal!
+2016-04-03 14:13:11,694 - __logger__ - INFO - [140715459634944, (109.65.30.82:37058)] User gportal get the file: 340.pdf
+2016-04-03 14:13:30,699 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37059)
+2016-04-03 14:13:36,789 - __logger__ - INFO - [140715459634944, (109.65.30.82:37059)] Authentication success with user gportal!
+2016-04-03 14:13:38,077 - __logger__ - INFO - [140715459634944, (109.65.30.82:37059)] User gportal has requested DirList
+2016-04-03 14:13:49,693 - __logger__ - INFO - [140715459634944, (109.65.30.82:37059)] User gportal get the file: TOPSECRET.txt
+2016-04-03 14:15:02,212 - __logger__ - INFO - [140715459634944, (109.65.30.82:37059)] User gportal get the file: TOPSECRET.txt
+2016-04-03 14:15:38,189 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37064)
+2016-04-03 14:15:40,113 - __logger__ - INFO - [140715459634944, (109.65.30.82:37064)] Authentication success with user gportal!
+2016-04-03 14:15:47,401 - __logger__ - INFO - [140715459634944, (109.65.30.82:37064)] User gportal get the file: TOPSECRET.txt
+2016-04-03 14:15:54,384 - __logger__ - INFO - [140715459634944, (109.65.30.82:37064)] User gportal has requested DirList
+2016-04-03 14:16:09,321 - __logger__ - INFO - [140715459634944, (109.65.30.82:37064)] User gportal get the file: first.png
+2016-04-03 14:16:41,346 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37072)
+2016-04-03 14:17:11,066 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37073)
+2016-04-03 14:17:29,244 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37075)
+2016-04-03 14:17:34,163 - __logger__ - INFO - [140715459634944, (109.65.30.82:37075)] Authentication success with user gportal!
+2016-04-03 14:17:36,162 - __logger__ - INFO - [140715459634944, (109.65.30.82:37075)] User gportal has requested DirList
+2016-04-03 14:17:50,474 - __logger__ - INFO - [140715459634944, (109.65.30.82:37075)] User gportal get the file: very_important.txt
+2016-04-03 14:18:06,865 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37084)
+2016-04-03 14:18:12,042 - __logger__ - INFO - [140715459634944, (109.65.30.82:37084)] Authentication success with user gportal!
+2016-04-03 14:18:18,739 - __logger__ - INFO - [140715459634944, (109.65.30.82:37084)] User gportal get the file: 356.pdf
+2016-04-03 14:18:36,955 - __logger__ - INFO - [140715459634944, (109.65.30.82:37084)] User gportal get the file: second.png
+2016-04-03 14:18:49,948 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37086)
+2016-04-03 14:18:59,605 - __logger__ - INFO - [140715459634944, (109.65.30.82:37086)] Authentication success with user gportal!
+2016-04-03 14:19:04,165 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37087)
+2016-04-03 14:19:07,032 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37088)
+2016-04-03 14:19:07,944 - __logger__ - INFO - [140715459634944, (109.65.30.82:37088)] Authentication success with user gportal!
+2016-04-03 14:19:56,797 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37090)
+2016-04-03 14:20:01,569 - __logger__ - INFO - [140715459634944, (109.65.30.82:37090)] Authentication success with user gportal!
+2016-04-03 14:20:09,994 - __logger__ - INFO - [140715459634944, (109.65.30.82:37090)] User gportal get the file: second.png
+2016-04-03 14:20:37,038 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37092)
+2016-04-03 14:20:38,838 - __logger__ - INFO - [140715459634944, (109.65.30.82:37092)] Authentication success with user gportal!
+2016-04-03 14:20:43,200 - __logger__ - INFO - [140715459634944, (109.65.30.82:37092)] User gportal get the file: first.png
+2016-04-03 14:20:57,159 - __logger__ - INFO - [140715459634944, (109.65.30.82:37092)] User gportal get the file: second.png
+2016-04-03 14:25:51,528 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37227)
+2016-04-03 14:25:52,875 - __logger__ - INFO - [140715459634944, (109.65.30.82:37227)] Authentication success with user gportal!
+2016-04-03 14:25:57,739 - __logger__ - INFO - [140715459634944, (109.65.30.82:37227)] User gportal get the file: 340.pdf
+2016-04-03 14:26:41,122 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37230)
+2016-04-03 14:26:42,749 - __logger__ - INFO - [140715459634944, (109.65.30.82:37230)] Authentication success with user gportal!
+2016-04-03 14:26:48,397 - __logger__ - INFO - [140715459634944, (109.65.30.82:37230)] User gportal get the file: 340.pdf
+2016-04-03 14:27:47,971 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37231)
+2016-04-03 14:27:49,696 - __logger__ - INFO - [140715459634944, (109.65.30.82:37231)] Authentication success with user gportal!
+2016-04-03 14:27:54,209 - __logger__ - INFO - [140715459634944, (109.65.30.82:37231)] User gportal get the file: 340.pdf
+2016-04-03 14:32:11,782 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37289)
+2016-04-03 14:32:13,377 - __logger__ - INFO - [140715459634944, (109.65.30.82:37289)] Authentication success with user gportal!
+2016-04-03 14:32:20,017 - __logger__ - INFO - [140715459634944, (109.65.30.82:37289)] User gportal get the file: 340.pdf
+2016-04-03 14:32:40,828 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37291)
+2016-04-03 14:32:42,649 - __logger__ - INFO - [140715459634944, (109.65.30.82:37291)] Authentication success with user gportal!
+2016-04-03 14:32:48,153 - __logger__ - INFO - [140715459634944, (109.65.30.82:37291)] User gportal get the file: 340.pdf
+2016-04-03 14:35:10,322 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37328)
+2016-04-03 14:35:11,703 - __logger__ - INFO - [140715459634944, (109.65.30.82:37328)] Authentication success with user gportal!
+2016-04-03 14:35:18,384 - __logger__ - INFO - [140715459634944, (109.65.30.82:37328)] User gportal get the file: 340.pdf
+2016-04-03 14:35:27,032 - __logger__ - INFO - [140715459634944, (109.65.30.82:37328)] User gportal get the file: TOPSECRET.txt
+2016-04-03 14:35:53,389 - __logger__ - INFO - Got connection from: ('109.65.30.82', 37333)
+2016-04-03 14:35:55,916 - __logger__ - INFO - [140715459634944, (109.65.30.82:37333)] Authentication success with user gportal!
+2016-04-03 14:36:03,381 - __logger__ - INFO - [140715459634944, (109.65.30.82:37333)] User gportal get the file: second.png

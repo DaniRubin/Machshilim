@@ -1,0 +1,29 @@
+2021-07-20 17:44:10,400 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-20 17:44:10,402 - __logger__ - INFO - Enters the main loop
+2021-07-20 17:44:24,664 - __logger__ - INFO - Got connection from: ('127.0.0.1', 58411)
+2021-07-20 17:44:35,999 - __logger__ - DEBUG - [18872, (127.0.0.1:58411)] Packet with less data than possible minimal has received!
+2021-07-20 17:44:36,000 - __logger__ - DEBUG - [18872, (127.0.0.1:58411)] Unknown error while sending a packet!
+2021-07-20 17:45:09,881 - __logger__ - INFO - Got connection from: ('127.0.0.1', 50582)
+2021-07-20 17:45:14,553 - __logger__ - DEBUG - [12152, (127.0.0.1:50582)] Packet with less data than possible minimal has received!
+2021-07-20 17:45:14,553 - __logger__ - DEBUG - [12152, (127.0.0.1:50582)] Unknown error while sending a packet!
+2021-07-20 17:46:29,832 - __logger__ - INFO - Got connection from: ('127.0.0.1', 62668)
+2021-07-20 17:46:31,715 - __logger__ - DEBUG - [11832, (127.0.0.1:62668)] Packet with less data than possible minimal has received!
+2021-07-20 17:46:31,715 - __logger__ - DEBUG - [11832, (127.0.0.1:62668)] Unknown error while sending a packet!
+2021-07-20 17:47:23,819 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49426)
+2021-07-20 17:47:26,673 - __logger__ - DEBUG - [4172, (127.0.0.1:49426)] Packet with invalid prefix or suffix has been received!
+2021-07-20 17:47:26,673 - __logger__ - DEBUG - [4172, (127.0.0.1:49426)] Unknown error while sending a packet!
+2021-07-21 12:07:47,818 - __logger__ - INFO - Got connection from: ('192.168.1.42', 65149)
+2021-07-21 12:07:47,836 - __logger__ - DEBUG - [17636, (192.168.1.42:65149)] Packet with invalid prefix or suffix has been received!
+2021-07-21 12:07:47,837 - __logger__ - DEBUG - [17636, (192.168.1.42:65149)] Unknown error while sending a packet!
+2021-07-21 12:07:49,957 - __logger__ - INFO - Got connection from: ('192.168.1.42', 65151)
+2021-07-21 12:07:49,962 - __logger__ - DEBUG - [9708, (192.168.1.42:65151)] Packet with invalid prefix or suffix has been received!
+2021-07-21 12:07:49,963 - __logger__ - DEBUG - [9708, (192.168.1.42:65151)] Unknown error while sending a packet!
+2021-07-21 23:29:22,327 - __logger__ - INFO - Got connection from: ('127.0.0.1', 58551)
+2021-07-21 23:29:44,555 - __logger__ - DEBUG - [19488, (127.0.0.1:58551)] Packet with invalid prefix or suffix has been received!
+2021-07-21 23:29:44,556 - __logger__ - DEBUG - [19488, (127.0.0.1:58551)] Unknown error while sending a packet!
+2021-07-22 12:06:53,943 - __logger__ - INFO - Got connection from: ('127.0.0.1', 54806)
+2021-07-22 12:07:19,165 - __logger__ - DEBUG - [18912, (127.0.0.1:54806)] Packet with invalid prefix or suffix has been received!
+2021-07-22 12:07:19,165 - __logger__ - DEBUG - [18912, (127.0.0.1:54806)] Unknown error while sending a packet!
+2021-07-22 12:07:34,706 - __logger__ - INFO - Got connection from: ('127.0.0.1', 49517)
+2021-07-22 12:07:42,498 - __logger__ - DEBUG - [22348, (127.0.0.1:49517)] Packet with invalid prefix or suffix has been received!
+2021-07-22 12:07:42,498 - __logger__ - DEBUG - [22348, (127.0.0.1:49517)] Unknown error while sending a packet!

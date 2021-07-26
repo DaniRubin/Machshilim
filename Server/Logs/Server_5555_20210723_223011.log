@@ -1,0 +1,8 @@
+2021-07-23 22:30:11,009 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 22:30:11,012 - __logger__ - INFO - Enters the main loop
+2021-07-23 22:30:13,469 - __logger__ - INFO - Got connection from: ('127.0.0.1', 57973)
+2021-07-23 22:30:16,692 - __logger__ - INFO - [20436, (127.0.0.1:57973)] Authentication success with user giggs!
+2021-07-23 22:31:00,106 - __logger__ - INFO - [20436, (127.0.0.1:57973)] User giggs get the file: bullshit.txt
+2021-07-23 22:31:32,377 - __logger__ - DEBUG - [20436, (127.0.0.1:57973)] Unknown error while sending a packet!
+2021-07-23 22:32:11,666 - __logger__ - INFO - Got connection from: ('127.0.0.1', 58005)
+2021-07-23 22:32:14,034 - __logger__ - INFO - [19944, (127.0.0.1:58005)] Authentication success with user giggs!

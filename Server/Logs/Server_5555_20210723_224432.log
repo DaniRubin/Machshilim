@@ -1,0 +1,9 @@
+2021-07-23 22:44:32,119 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 22:44:32,121 - __logger__ - INFO - Enters the main loop
+2021-07-23 22:44:35,208 - __logger__ - INFO - Got connection from: ('127.0.0.1', 53452)
+2021-07-23 22:44:44,184 - __logger__ - INFO - [23056, (127.0.0.1:53452)] Authentication success with user giggs!
+2021-07-23 22:44:48,267 - __logger__ - INFO - [23056, (127.0.0.1:53452)] User giggs get the file: bullshit.txt
+2021-07-23 22:44:48,426 - __logger__ - DEBUG - [23056, (127.0.0.1:53452)] Fin has been received!
+2021-07-23 22:45:02,350 - __logger__ - INFO - Got connection from: ('127.0.0.1', 53461)
+2021-07-23 22:45:04,171 - __logger__ - INFO - [11484, (127.0.0.1:53461)] Authentication success with user giggs!
+2021-07-23 22:45:10,261 - __logger__ - INFO - [11484, (127.0.0.1:53461)] User giggs get the file: bullshit.txt

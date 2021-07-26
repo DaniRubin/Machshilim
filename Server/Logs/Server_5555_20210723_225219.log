@@ -1,0 +1,28 @@
+2021-07-23 22:52:19,256 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-23 22:52:19,261 - __logger__ - INFO - Enters the main loop
+2021-07-23 22:52:21,835 - __logger__ - INFO - Got connection from: ('127.0.0.1', 60160)
+2021-07-23 22:52:24,125 - __logger__ - INFO - [3400, (127.0.0.1:60160)] Authentication success with user giggs!
+2021-07-23 22:52:27,882 - __logger__ - INFO - [3400, (127.0.0.1:60160)] User giggs get the file: bullshit.txt
+2021-07-23 22:52:28,099 - __logger__ - DEBUG - [3400, (127.0.0.1:60160)] Fin has been received!
+2021-07-23 22:52:50,275 - __logger__ - INFO - Got connection from: ('127.0.0.1', 60163)
+2021-07-23 22:52:53,163 - __logger__ - INFO - [5776, (127.0.0.1:60163)] Authentication success with user giggs!
+2021-07-23 22:52:56,499 - __logger__ - INFO - [5776, (127.0.0.1:60163)] User giggs get the file: bullshit.txt
+2021-07-23 22:53:05,313 - __logger__ - INFO - [5776, (127.0.0.1:60163)] User giggs get the file: bullshit.txt
+2021-07-23 22:53:22,886 - __logger__ - INFO - [5776, (127.0.0.1:60163)] User giggs has requested DirList
+2021-07-23 22:53:33,398 - __logger__ - DEBUG - [5776, (127.0.0.1:60163)] Unknown error while receiving a packet!
+2021-07-23 22:53:33,616 - __logger__ - INFO - Got connection from: ('127.0.0.1', 55875)
+2021-07-23 22:53:36,757 - __logger__ - INFO - [5536, (127.0.0.1:55875)] Authentication success with user giggs!
+2021-07-23 22:53:39,275 - __logger__ - INFO - [5536, (127.0.0.1:55875)] User giggs get the file: gportal_password.txt
+2021-07-23 22:53:51,197 - __logger__ - DEBUG - [5536, (127.0.0.1:55875)] Unknown error while receiving a packet!
+2021-07-23 22:54:33,519 - __logger__ - INFO - Got connection from: ('127.0.0.1', 64271)
+2021-07-23 22:54:37,768 - __logger__ - INFO - [7896, (127.0.0.1:64271)] Authentication success with user gportal!
+2021-07-23 22:54:42,864 - __logger__ - INFO - [7896, (127.0.0.1:64271)] User gportal has requested DirList
+2021-07-23 22:54:59,985 - __logger__ - DEBUG - [7896, (127.0.0.1:64271)] Unknown error while receiving a packet!
+2021-07-23 22:55:00,140 - __logger__ - INFO - Got connection from: ('127.0.0.1', 64274)
+2021-07-23 22:55:02,680 - __logger__ - INFO - [22124, (127.0.0.1:64274)] Authentication success with user gportal!
+2021-07-23 23:12:28,100 - __logger__ - INFO - [22124, (127.0.0.1:64274)] User gportal has requested DirList
+2021-07-23 23:12:52,987 - __logger__ - WARNING - [22124, (127.0.0.1:64274)] User gportal tried to get non-existing file: 2254133.log
+2021-07-23 23:23:10,944 - __logger__ - INFO - [22124, (127.0.0.1:64274)] User gportal get the file: ONLY_FOR_MACHSHILIM.txt
+2021-07-24 09:17:33,555 - __logger__ - WARNING - [22124, (127.0.0.1:64274)] User gportal tried to get non-existing file: presentation.pptx
+2021-07-24 09:18:24,956 - __logger__ - WARNING - [22124, (127.0.0.1:64274)] User gportal tried to get non-existing file: hoze.pdf
+2021-07-24 09:18:28,020 - __logger__ - INFO - [22124, (127.0.0.1:64274)] User gportal has requested DirList

@@ -1,0 +1,7 @@
+2021-07-25 14:34:15,180 - __logger__ - DEBUG - The server's logger has been initialized!
+2021-07-25 14:34:15,183 - __logger__ - INFO - Enters the main loop
+2021-07-25 14:34:22,252 - __logger__ - INFO - Got connection from: ('127.0.0.1', 59991)
+2021-07-25 14:34:25,509 - __logger__ - INFO - [2548, (127.0.0.1:59991)] Authentication success with user gportal!
+2021-07-25 14:34:29,738 - __logger__ - INFO - [2548, (127.0.0.1:59991)] User gportal has requested DirList
+2021-07-25 14:35:09,719 - __logger__ - INFO - [2548, (127.0.0.1:59991)] User gportal get the file: 2254133.log
+2021-07-25 14:35:09,722 - __logger__ - DEBUG - [2548, (127.0.0.1:59991)] Unknown error while sending a packet!
